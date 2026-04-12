@@ -12,7 +12,13 @@ image:
 
 ## The Event
 
-The **Togo National CTF** is the official cybersecurity competition organized by the **Agence Nationale de la Cybersécurité du Togo (ANCy)** in partnership with **DA CERT.tg** and **CANALBOX**. Format: **24 hours non-stop** — an intellectual marathon that pushes participants to their technical and mental limits.
+The **CTF National du Togo** is an unmissable event in Togo's cybersecurity landscape — bringing together the most talented young people from across the entire country to compete in a high-stakes Capture The Flag competition. It is organized by **l'Agence Nationale de la Cybersécurité du Togo (ANCy)**, the state authority for cybersecurity in Togo, in partnership with **DA CERT.tg** and **CANALBOX**.
+
+The competition runs in two phases:
+- **Pre-qualification** — organized online, open to all, national selection
+- **Final** — in-person, 24 hours non-stop
+
+We won **both phases** — 1st place in the pre-qualification, and 1st place in the final.
 
 ---
 
@@ -32,6 +38,8 @@ The **Togo National CTF** is the official cybersecurity competition organized by
 | Daniel GOGO | Member |
 | Yaovi Didier Edem HOUNTODJI | Member |
 | Ilem I. Nelson Jr. LEMBO | Member |
+
+Each team member had at least one area of specialization. I focused primarily on **PWN challenges** — binary exploitation, buffer overflows, and ROP chains. The preparation for the final was intense. When the day came, tensions were at their peak — and we gave everything to claim first place.
 
 ---
 
@@ -53,6 +61,16 @@ The **Togo National CTF** is the official cybersecurity competition organized by
 
 <img src="/assets/images/wu-national-ctf/ctf-national-prize.jpg" alt="2,000,000 FCFA prize check from ANCy" style="border-radius: 10px; width: 100%;" />
 *The 2,000,000 F CFA prize check awarded by the Agence Nationale de la Cybersécurité du Togo.*
+
+---
+
+## TVT Interview — Journal de 13h
+
+Following the victory, I was invited to the **TVT (Télévision Togolaise)** — Togo's national television channel — for an interview on the **Journal de 13h**, the country's flagship midday news broadcast.
+
+[![Interview TVT — Journal de 13h](https://img.youtube.com/vi/nbGtDSE8JiM/maxresdefault.jpg)](https://www.youtube.com/watch?v=nbGtDSE8JiM)
+
+*Click to watch the interview on YouTube.*
 
 ---
 
