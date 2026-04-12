@@ -12,22 +12,14 @@ image:
 
 J'ai participé au CTF National du Togo sous le pseudo de `3ss0w7r30u` avec ma team **n0_m3rcy_f0r_7h3m!!**.
 
-![Tous les participants](/assets/images/wu-national-ctf/ctf-national-group.jpg)
-*Tous les participants du CTF National Togo 2024 — organisé par l'ANCy et DA CERT.tg.*
-
 ![L'équipe en action](/assets/images/wu-national-ctf/ctf-national-team-action.jpg)
 *L'équipe n0_m3rcy_f0r_7h3m!! en pleine action pendant la compétition.*
 
-Voici le classement final officiel :
-
 ![Scoreboard officiel](/assets/images/wu-national-ctf/ctf-national-scoreboard-official.jpg)
 
-**1ère place — 5751 pts**, loin devant le 2ème (3851 pts). Le prix : **2.000.000 FCFA** remis par l'ANCy.
+Nous occupons la **première place — 5751 pts**, loin devant le 2ème (3851 pts).
 
-![Chèque 2.000.000 FCFA — ANCy](/assets/images/wu-national-ctf/ctf-national-prize.jpg)
-*Le chèque de 2.000.000 F CFA remis par l'Agence Nationale de la Cybersécurité du Togo.*
-
-Nous occupons donc ainsi la **première place** de cette compétition nationale.
+> Pour les photos de l'événement et le prix remporté → [voir la page dédiée](/posts/togo-national-ctf/)
 
 Avant de commencer, je tiens à remercier toute mon équipe, qui ont travaillé d'arrache-pied pour qu'on puisse occuper la première place. Mes remerciements vont particulièrement à l'ANCY et à la CDA sans oublier les créateurs de challenges (`Isid0r3`, `Sergio`, `H13ris`, `assa` et `44r0n_M3T4`).
 
