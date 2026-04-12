@@ -17,7 +17,7 @@ J'ai participé au CTF National du Togo sous le pseudo de `3ss0w7r30u` avec ma t
 
 <img src="/assets/images/wu-national-ctf/ctf-national-scoreboard-official.jpg" alt="Scoreboard officiel" style="border-radius: 10px; width: 100%;" />
 
-Nous occupons la **première place — 5751 pts**, loin devant le 2ème (3851 pts).
+Nous occupons la **première place: 5751 pts**, loin devant le 2ème (3851 pts).
 
 > Pour les photos de l'événement et le prix remporté → [voir la page dédiée](/posts/togo-national-ctf/)
 
@@ -45,7 +45,7 @@ La première des choses est de voir à quel type de binaire nous avons affaire :
 
 <img src="/assets/images/wu-national-ctf/isset1.png" alt="file isSet" style="border-radius: 10px; width: 100%;" />
 
-Il s'agit d'un **ELF 64 bits**, `dynamically linked`, `not stripped` — le binaire contient des symboles de débogage ce qui facilite grandement son analyse.
+Il s'agit d'un **ELF 64 bits**, `dynamically linked`, `not stripped`, le binaire contient des symboles de débogage ce qui facilite grandement son analyse.
 
 On vérifie les protections avec `checksec` :
 
@@ -217,7 +217,7 @@ python3 baby.py
 
 ### JumpMe: First Blood 🩸
 
-Le seul à avoir résolu ce challenge — ROP chain pour appeler la fonction `win`.
+Le seul à avoir résolu ce challenge: ROP chain pour appeler la fonction `win`.
 
 ```python
 from pwn import *

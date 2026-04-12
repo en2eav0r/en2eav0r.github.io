@@ -8,13 +8,13 @@ image:
   alt: Oozons Code Clash 2026
 ---
 
-> *"Le numérique s'éveille avec OOZONS" — Using digital technology as a lever for Africa's development.*
+> *"Le numérique s'éveille avec OOZONS": Using digital technology as a lever for Africa's development.*
 
 ## About Oozons
 
 <img src="/assets/images/oozons-logo.png" alt="Oozons Logo" style="border-radius: 10px; width: 100%;" />
 
-[**Oozons**](https://com.oozons.com) is a Togolese digital community whose mission is to reduce unemployment in Africa through technology — providing free training, supporting entrepreneurship, and connecting local talent with global opportunities.
+[**Oozons**](https://com.oozons.com) is a Togolese digital community whose mission is to reduce unemployment in Africa through technology, providing free training, supporting entrepreneurship, and connecting local talent with global opportunities.
 
 | Stat | Value |
 |------|-------|
@@ -26,9 +26,9 @@ image:
 
 ## My Role
 
-<img src="/assets/images/oozons-charles-vp.jpg" alt="ASSIMTI Charles — Vice President, Oozons" style="border-radius: 10px; width: 100%;" />{: width="300"}
+<img src="/assets/images/oozons-charles-vp.jpg" alt="ASSIMTI Charles: Vice President, Oozons" style="border-radius: 10px; width: 100%;" />{: width="300"}
 
-**Vice President** — I joined as a volunteer, became Committee Head, then was elected Vice President, overseeing strategic direction and community growth across all programs.
+**Vice President**: I joined as a volunteer, became Committee Head, then was elected Vice President, overseeing strategic direction and community growth across all programs.
 
 ---
 
@@ -36,7 +36,7 @@ image:
 
 ### Phishing Attack Seminar: EPL · April 19, 2025
 
-Cybersecurity immersion at the **École Polytechnique de Lomé** themed *"Localizing machines via phishing attacks"* — covering Gophish, VirusTotal, Hybrid Analysis, SquareX. **78 reactions** on LinkedIn.
+Cybersecurity immersion at the **École Polytechnique de Lomé** themed *"Localizing machines via phishing attacks"*, covering Gophish, VirusTotal, Hybrid Analysis, SquareX. **78 reactions** on LinkedIn.
 
 ---
 
@@ -62,7 +62,7 @@ Hands-on in-person session covering connected devices, embedded systems, and pra
 
 <img src="/assets/images/oozons-code-clash-2026.jpg" alt="Code Clash 2026" style="border-radius: 10px; width: 100%;" />
 
-Flagship hackathon hosted on **HackerRank** — 18 finalists, in-person finale at ESGIS Avedji.
+Flagship hackathon hosted on **HackerRank**: 18 finalists, in-person finale at ESGIS Avedji.
 
 | Rank | Prize |
 |------|-------|
@@ -86,7 +86,7 @@ Preparatory workshop themed *"Think before you code: introduction to Algorithms"
 
 <img src="/assets/images/oozons-about-3.jpeg" alt="Live Coding session" style="border-radius: 10px; width: 100%;" />
 
-Regular sessions covering web development, data science, containerization — open, free, real-time.
+Regular sessions covering web development, data science, containerization, open, free, real-time.
 
 ---
 
@@ -100,6 +100,6 @@ A 10-day program (Windows 10, Word, Excel, PowerPoint, AI) for teachers and stud
 
 ## Beyond Togo: A Sub-Regional Vision
 
-In late 2025, Oozons organized a **2-day Python bootcamp** at **CEFOD Business School in Chad** with **IgoTech TD** — training **30+ young people**.
+In late 2025, Oozons organized a **2-day Python bootcamp** at **CEFOD Business School in Chad** with **IgoTech TD**, training **30+ young people**.
 
 > *"To close out this year, we decided to do what we do best: train young people in technology."*
