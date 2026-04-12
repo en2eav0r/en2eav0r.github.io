@@ -1,0 +1,9 @@
+---
+---
+
+@import "main";
+
+/* Rounded borders on all post images */
+img:not(.avatar) {
+  border-radius: 12px;
+}
