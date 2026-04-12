@@ -4,17 +4,30 @@ date: 2024-11-27 00:00:00 +0000
 categories: [Writeups, CTF National Togo]
 tags: [pwn, crypto, buffer-overflow, rsa, rop, aslr, pwntools, togo, first-place, first-blood]
 image:
-  path: /assets/images/wu-national-ctf/Scoreboard.jpg
-  alt: Scoreboard CTF National Togo 2024
+  path: /assets/images/wu-national-ctf/ctf-national-scoreboard-official.jpg
+  alt: Scoreboard officiel CTF National Togo 2024
 ---
 
 ![CTF National Togo 2024](/assets/images/wu-national-ctf/ctf.png)
 
-J'ai participé récemment au CTF National du Togo sous le pseudo de `3ss0w7r30u` avec ma team `n0_m3rcy_f0r_th3m !!`. Voici un aperçu du SCOREBOARD à la fin du CTF :
+J'ai participé au CTF National du Togo sous le pseudo de `3ss0w7r30u` avec ma team **n0_m3rcy_f0r_7h3m!!**.
 
-![Scoreboard](/assets/images/wu-national-ctf/Scoreboard.jpg)
+![Tous les participants](/assets/images/wu-national-ctf/ctf-national-group.jpg)
+*Tous les participants du CTF National Togo 2024 — organisé par l'ANCy et DA CERT.tg.*
 
-Nous occupons donc ainsi la **première place** de cette phase de préqualification.
+![L'équipe en action](/assets/images/wu-national-ctf/ctf-national-team-action.jpg)
+*L'équipe n0_m3rcy_f0r_7h3m!! en pleine action pendant la compétition.*
+
+Voici le classement final officiel :
+
+![Scoreboard officiel](/assets/images/wu-national-ctf/ctf-national-scoreboard-official.jpg)
+
+**1ère place — 5751 pts**, loin devant le 2ème (3851 pts). Le prix : **2.000.000 FCFA** remis par l'ANCy.
+
+![Chèque 2.000.000 FCFA — ANCy](/assets/images/wu-national-ctf/ctf-national-prize.jpg)
+*Le chèque de 2.000.000 F CFA remis par l'Agence Nationale de la Cybersécurité du Togo.*
+
+Nous occupons donc ainsi la **première place** de cette compétition nationale.
 
 Avant de commencer, je tiens à remercier toute mon équipe, qui ont travaillé d'arrache-pied pour qu'on puisse occuper la première place. Mes remerciements vont particulièrement à l'ANCY et à la CDA sans oublier les créateurs de challenges (`Isid0r3`, `Sergio`, `H13ris`, `assa` et `44r0n_M3T4`).
 
