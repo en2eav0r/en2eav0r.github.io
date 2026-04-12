@@ -16,14 +16,14 @@ The **Togo National CTF** is the official cybersecurity competition organized by
 
 ---
 
-![All participants — CTF National Togo 2024](/assets/images/wu-national-ctf/ctf-national-group.jpg)
+<img src="/assets/images/wu-national-ctf/ctf-national-group.jpg" alt="All participants — CTF National Togo 2024" style="border-radius: 10px; width: 100%;" />
 *All participants of the CTF National Togo 2024.*
 
 ---
 
 ## The Team — n0_m3rcy_f0r_7h3m!!
 
-![Team in action](/assets/images/wu-national-ctf/ctf-national-team-action.jpg)
+<img src="/assets/images/wu-national-ctf/ctf-national-team-action.jpg" alt="Team in action" style="border-radius: 10px; width: 100%;" />
 *The team n0_m3rcy_f0r_7h3m!! competing live — ANCy banner in the background.*
 
 | Member | Role |
@@ -37,7 +37,7 @@ The **Togo National CTF** is the official cybersecurity competition organized by
 
 ## Results
 
-![Official scoreboard](/assets/images/wu-national-ctf/ctf-national-scoreboard-official.jpg)
+<img src="/assets/images/wu-national-ctf/ctf-national-scoreboard-official.jpg" alt="Official scoreboard" style="border-radius: 10px; width: 100%;" />
 
 | Rank | Team | Score |
 |---|---|---|
@@ -51,7 +51,7 @@ The **Togo National CTF** is the official cybersecurity competition organized by
 
 ## Prize
 
-![2,000,000 FCFA prize check from ANCy](/assets/images/wu-national-ctf/ctf-national-prize.jpg)
+<img src="/assets/images/wu-national-ctf/ctf-national-prize.jpg" alt="2,000,000 FCFA prize check from ANCy" style="border-radius: 10px; width: 100%;" />
 *The 2,000,000 F CFA prize check awarded by the Agence Nationale de la Cybersécurité du Togo.*
 
 ---

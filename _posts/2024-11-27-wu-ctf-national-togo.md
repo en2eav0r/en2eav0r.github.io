@@ -8,14 +8,14 @@ image:
   alt: Scoreboard officiel CTF National Togo 2024
 ---
 
-![CTF National Togo 2024](/assets/images/wu-national-ctf/ctf.png)
+<img src="/assets/images/wu-national-ctf/ctf.png" alt="CTF National Togo 2024" style="border-radius: 10px; width: 100%;" />
 
 J'ai participé au CTF National du Togo sous le pseudo de `3ss0w7r30u` avec ma team **n0_m3rcy_f0r_7h3m!!**.
 
-![L'équipe en action](/assets/images/wu-national-ctf/ctf-national-team-action.jpg)
+<img src="/assets/images/wu-national-ctf/ctf-national-team-action.jpg" alt="L'équipe en action" style="border-radius: 10px; width: 100%;" />
 *L'équipe n0_m3rcy_f0r_7h3m!! en pleine action pendant la compétition.*
 
-![Scoreboard officiel](/assets/images/wu-national-ctf/ctf-national-scoreboard-official.jpg)
+<img src="/assets/images/wu-national-ctf/ctf-national-scoreboard-official.jpg" alt="Scoreboard officiel" style="border-radius: 10px; width: 100%;" />
 
 Nous occupons la **première place — 5751 pts**, loin devant le 2ème (3851 pts).
 
@@ -25,7 +25,7 @@ Avant de commencer, je tiens à remercier toute mon équipe, qui ont travaillé 
 
 Je commencerai avec les challenges **PWN** qui m'ont particulièrement intéressé. Je rappelle que j'ai fait un **First Blood 🩸** sur tous les challenges PWN qui ont été release. J'en suis particulièrement fier !
 
-![PWN Challenges](/assets/images/wu-national-ctf/pwn_challs.png)
+<img src="/assets/images/wu-national-ctf/pwn_challs.png" alt="PWN Challenges" style="border-radius: 10px; width: 100%;" />
 
 **Challenges PWN :** isSet · isSet2 · ASLR · JumpMe · Baby_BoF
 
@@ -43,13 +43,13 @@ Le but principal d'un challenge PWN est d'exploiter des vulnérabilités liées 
 
 La première des choses est de voir à quel type de binaire nous avons affaire :
 
-![file isSet](/assets/images/wu-national-ctf/isset1.png)
+<img src="/assets/images/wu-national-ctf/isset1.png" alt="file isSet" style="border-radius: 10px; width: 100%;" />
 
 Il s'agit d'un **ELF 64 bits**, `dynamically linked`, `not stripped` — le binaire contient des symboles de débogage ce qui facilite grandement son analyse.
 
 On vérifie les protections avec `checksec` :
 
-![checksec isSet](/assets/images/wu-national-ctf/isSet-checksec.png)
+<img src="/assets/images/wu-national-ctf/isSet-checksec.png" alt="checksec isSet" style="border-radius: 10px; width: 100%;" />
 
 Deux protections actives :
 - **NX enabled** : La stack n'est pas exécutable
@@ -57,11 +57,11 @@ Deux protections actives :
 
 Exécutons le binaire :
 
-![Exécution isSet](/assets/images/wu-national-ctf/isSet-execution.png)
+<img src="/assets/images/wu-national-ctf/isSet-execution.png" alt="Exécution isSet" style="border-radius: 10px; width: 100%;" />
 
 On décompile avec **Ghidra** pour voir la fonction main :
 
-![Décompilation isSet](/assets/images/wu-national-ctf/isSet-decomp.png)
+<img src="/assets/images/wu-national-ctf/isSet-decomp.png" alt="Décompilation isSet" style="border-radius: 10px; width: 100%;" />
 
 ```c
 undefined8 main(void)
@@ -89,34 +89,34 @@ undefined8 main(void)
 
 La fonction `win()` :
 
-![win isSet](/assets/images/wu-national-ctf/isSet-win.png)
-![win2 isSet](/assets/images/wu-national-ctf/isSet-win2.png)
+<img src="/assets/images/wu-national-ctf/isSet-win.png" alt="win isSet" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/wu-national-ctf/isSet-win2.png" alt="win2 isSet" style="border-radius: 10px; width: 100%;" />
 
 Elle affiche le flag. L'objectif : modifier `local_10` via le buffer overflow.
 
 **Alignement en mémoire (stack) :**
 
-![Stack isSet](/assets/images/wu-national-ctf/isSet-stack.png)
-![Stack 2](/assets/images/wu-national-ctf/isSet-stack2.png)
+<img src="/assets/images/wu-national-ctf/isSet-stack.png" alt="Stack isSet" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/wu-national-ctf/isSet-stack2.png" alt="Stack 2" style="border-radius: 10px; width: 100%;" />
 
 Représentation visuelle :
 
-![Stack canva](/assets/images/wu-national-ctf/isSet-stack-canva.png)
+<img src="/assets/images/wu-national-ctf/isSet-stack-canva.png" alt="Stack canva" style="border-radius: 10px; width: 100%;" />
 
 On entre 5 "A" :
 
-![isSet AA](/assets/images/wu-national-ctf/isSet-AA.png)
+<img src="/assets/images/wu-national-ctf/isSet-AA.png" alt="isSet AA" style="border-radius: 10px; width: 100%;" />
 
-![Stack canva 2](/assets/images/wu-national-ctf/isSet-stack-canva2.png)
+<img src="/assets/images/wu-national-ctf/isSet-stack-canva2.png" alt="Stack canva 2" style="border-radius: 10px; width: 100%;" />
 
 Notre but : remplir `local_3f8` pour déborder sur `local_10`.
 
-![Stack canva 3](/assets/images/wu-national-ctf/isSet-stack-canva3.png)
-![Stack canva 4](/assets/images/wu-national-ctf/isSet-stack-canva4.png)
+<img src="/assets/images/wu-national-ctf/isSet-stack-canva3.png" alt="Stack canva 3" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/wu-national-ctf/isSet-stack-canva4.png" alt="Stack canva 4" style="border-radius: 10px; width: 100%;" />
 
 **Calcul de l'offset :**
 
-![Stack 3](/assets/images/wu-national-ctf/isSet-stack3.png)
+<img src="/assets/images/wu-national-ctf/isSet-stack3.png" alt="Stack 3" style="border-radius: 10px; width: 100%;" />
 
 `0x3f8 - 0x10 = 1000` → offset de **1000 bytes**
 
@@ -150,8 +150,8 @@ target.interactive()
 
 ### isSet2 — First Blood 🩸
 
-![file isSet2](/assets/images/wu-national-ctf/isSet2-file.png)
-![Exécution isSet2](/assets/images/wu-national-ctf/isSet2-execution.png)
+<img src="/assets/images/wu-national-ctf/isSet2-file.png" alt="file isSet2" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/wu-national-ctf/isSet2-execution.png" alt="Exécution isSet2" style="border-radius: 10px; width: 100%;" />
 
 ```c
 undefined8 main(void)
@@ -178,7 +178,7 @@ Même logique que `isSet`, mais avec deux conditions. `local_18` est déjà diff
 
 **Calcul de l'offset :**
 
-![isSet2 offset](/assets/images/wu-national-ctf/isSet2-offset.png)
+<img src="/assets/images/wu-national-ctf/isSet2-offset.png" alt="isSet2 offset" style="border-radius: 10px; width: 100%;" />
 
 `0x438 - 0x10 = 1064` → offset de **1064 bytes**
 
@@ -323,7 +323,7 @@ target.interactive()
 
 Résultat :
 
-![ASLR pwned](/assets/images/wu-national-ctf/ASLR.png)
+<img src="/assets/images/wu-national-ctf/ASLR.png" alt="ASLR pwned" style="border-radius: 10px; width: 100%;" />
 
 ---
 
@@ -346,8 +346,8 @@ c = 471055156725181012
 
 RSA détecté → déchiffrement avec `dcode` :
 
-![encryptionvi1](/assets/images/wu-national-ctf/encryptionvi1.png)
-![encryptionvi2](/assets/images/wu-national-ctf/encryptionvi2.png)
+<img src="/assets/images/wu-national-ctf/encryptionvi1.png" alt="encryptionvi1" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/wu-national-ctf/encryptionvi2.png" alt="encryptionvi2" style="border-radius: 10px; width: 100%;" />
 
 On obtient : `104097099107101100`
 
@@ -358,12 +358,12 @@ UCVP{ORTI_MZPH_LNEBCSAIQXZL_SA}
 
 La clé `104097099107101100` ressemble à de l'ASCII :
 
-![encryptionvi3](/assets/images/wu-national-ctf/encryptionvi3.png)
-![encryptionvi4](/assets/images/wu-national-ctf/encryptionvi4.png)
+<img src="/assets/images/wu-national-ctf/encryptionvi3.png" alt="encryptionvi3" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/wu-national-ctf/encryptionvi4.png" alt="encryptionvi4" style="border-radius: 10px; width: 100%;" />
 
 Bingo : `hacked` → déchiffrement **Vigenère** :
 
-![encryptionvi5](/assets/images/wu-national-ctf/encryptionvi5.png)
+<img src="/assets/images/wu-national-ctf/encryptionvi5.png" alt="encryptionvi5" style="border-radius: 10px; width: 100%;" />
 
 ```
 Flag : NCTF{KOMI_KPLE_ENCRYPTIONVI_LA}
@@ -375,8 +375,8 @@ Flag : NCTF{KOMI_KPLE_ENCRYPTIONVI_LA}
 
 RSA avec `n` extrêmement grand → factorisation via **factordb** :
 
-![RSAvi1](/assets/images/wu-national-ctf/RSAvi1.png)
-![RSAvi2](/assets/images/wu-national-ctf/RSAvi2.png)
+<img src="/assets/images/wu-national-ctf/RSAvi1.png" alt="RSAvi1" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/wu-national-ctf/RSAvi2.png" alt="RSAvi2" style="border-radius: 10px; width: 100%;" />
 
 **64 facteurs premiers** → vulnérabilité RSA multi-prime.
 
@@ -415,4 +415,4 @@ Flag : NCTF{DegnigbaN_f3_RSAvi_Yelo}
 
 Challenge CribDrag classique résolu avec l'outil `cribdrag`.
 
-![cribdrag](/assets/images/wu-national-ctf/cribdrag.png)
+<img src="/assets/images/wu-national-ctf/cribdrag.png" alt="cribdrag" style="border-radius: 10px; width: 100%;" />

@@ -12,7 +12,7 @@ image:
 
 ## Watch the Event
 
-[![IPNET Cyber Battle — Official Video](https://img.youtube.com/vi/HdqJ9TKKMVw/maxresdefault.jpg)](https://www.youtube.com/watch?v=HdqJ9TKKMVw&t=1s)
+[<img src="https://img.youtube.com/vi/HdqJ9TKKMVw/maxresdefault.jpg" alt="IPNET Cyber Battle — Official Video" style="border-radius: 10px; width: 100%;" />](https://www.youtube.com/watch?v=HdqJ9TKKMVw&t=1s)
 
 ---
 
@@ -26,17 +26,17 @@ It holds a historic distinction: **it is the first CTF competition ever organize
 
 ## The Team
 
-![Group photo — IPNET Cyber Battle participants](/assets/images/cyberbattle-group.jpg)
+<img src="/assets/images/cyberbattle-group.jpg" alt="Group photo — IPNET Cyber Battle participants" style="border-radius: 10px; width: 100%;" />
 
 ---
 
 ## Inside the Competition
 
-![Charles supervising a challenger](/assets/images/cyberbattle-supervision.jpg)
+<img src="/assets/images/cyberbattle-supervision.jpg" alt="Charles supervising a challenger" style="border-radius: 10px; width: 100%;" />
 
 *ASSIMTI Essowèréou Charles — President of the club — actively present during the competition, supervising challengers in real time.*
 
-![Two participants collaborating](/assets/images/cyberbattle-girls-collab.jpg)
+<img src="/assets/images/cyberbattle-girls-collab.jpg" alt="Two participants collaborating" style="border-radius: 10px; width: 100%;" />
 
 ---
 
@@ -81,7 +81,7 @@ IPNET{y0u_4r3_th3_b3st!bRuh_3ssow7r3oU_g1v3_y0u_4cc3s_t0_th3_r0und_t4bl3_0f_fin4
 
 ## Scoreboard
 
-![Scoreboard IPNET Cyber Battle 2025](/assets/images/cyberbattle-scoreboard.png)
+<img src="/assets/images/cyberbattle-scoreboard.png" alt="Scoreboard IPNET Cyber Battle 2025" style="border-radius: 10px; width: 100%;" />
 
 | Rank | Team | Score |
 |------|------|-------|
@@ -102,7 +102,7 @@ IPNET{y0u_4r3_th3_b3st!bRuh_3ssow7r3oU_g1v3_y0u_4cc3s_t0_th3_r0und_t4bl3_0f_fin4
 
 ### Best Cyber Battle Woman — BODJONA Essodiam T.N.
 
-![Best Cyber Battle Woman award](/assets/images/cyberbattle-award-woman.jpg)
+<img src="/assets/images/cyberbattle-award-woman.jpg" alt="Best Cyber Battle Woman award" style="border-radius: 10px; width: 100%;" />
 
 This award was not added as a formality. The winner went on to win **best female participant at the national ANCY competition** — confirming that given the right environment, **talent has no gender**.
 

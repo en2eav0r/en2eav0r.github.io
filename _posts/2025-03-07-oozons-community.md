@@ -12,7 +12,7 @@ image:
 
 ## About Oozons
 
-![Oozons Logo](/assets/images/oozons-logo.png)
+<img src="/assets/images/oozons-logo.png" alt="Oozons Logo" style="border-radius: 10px; width: 100%;" />
 
 [**Oozons**](https://com.oozons.com) is a Togolese digital community whose mission is to reduce unemployment in Africa through technology — providing free training, supporting entrepreneurship, and connecting local talent with global opportunities.
 
@@ -26,7 +26,7 @@ image:
 
 ## My Role
 
-![ASSIMTI Charles — Vice President, Oozons](/assets/images/oozons-charles-vp.jpg){: width="300"}
+<img src="/assets/images/oozons-charles-vp.jpg" alt="ASSIMTI Charles — Vice President, Oozons" style="border-radius: 10px; width: 100%;" />{: width="300"}
 
 **Vice President** — I joined as a volunteer, became Committee Head, then was elected Vice President, overseeing strategic direction and community growth across all programs.
 
@@ -42,7 +42,7 @@ Cybersecurity immersion at the **École Polytechnique de Lomé** themed *"Locali
 
 ### Phishing Training — École Internationale MARIAM · January 2026
 
-![Oozons team at École MARIAM](/assets/images/oozons-phishing-training.jpg)
+<img src="/assets/images/oozons-phishing-training.jpg" alt="Oozons team at École MARIAM" style="border-radius: 10px; width: 100%;" />
 
 Practical security awareness delivered to students and staff at a non-technical institution.
 
@@ -50,9 +50,9 @@ Practical security awareness delivered to students and staff at a non-technical 
 
 ### IoT Session — Introduction to the Internet of Things
 
-![IoT session](/assets/images/oozons-about-1.jpeg)
+<img src="/assets/images/oozons-about-1.jpeg" alt="IoT session" style="border-radius: 10px; width: 100%;" />
 
-![IoT session participants](/assets/images/oozons-about-2.jpeg)
+<img src="/assets/images/oozons-about-2.jpeg" alt="IoT session participants" style="border-radius: 10px; width: 100%;" />
 
 Hands-on in-person session covering connected devices, embedded systems, and practical IoT use cases.
 
@@ -60,7 +60,7 @@ Hands-on in-person session covering connected devices, embedded systems, and pra
 
 ### OOZONS CODE CLASH 2026 — February–March 2026
 
-![Code Clash 2026](/assets/images/oozons-code-clash-2026.jpg)
+<img src="/assets/images/oozons-code-clash-2026.jpg" alt="Code Clash 2026" style="border-radius: 10px; width: 100%;" />
 
 Flagship hackathon hosted on **HackerRank** — 18 finalists, in-person finale at ESGIS Avedji.
 
@@ -76,7 +76,7 @@ Flagship hackathon hosted on **HackerRank** — 18 finalists, in-person finale a
 
 ### Workshop — Code Clash · January 10, 2026
 
-![Workshop Code Clash](/assets/images/oozons-workshop-codeclash.jpg)
+<img src="/assets/images/oozons-workshop-codeclash.jpg" alt="Workshop Code Clash" style="border-radius: 10px; width: 100%;" />
 
 Preparatory workshop themed *"Think before you code: introduction to Algorithms"* at IPNET Agoè Assiyeye.
 
@@ -84,7 +84,7 @@ Preparatory workshop themed *"Think before you code: introduction to Algorithms"
 
 ### Live Coding & Technical Workshops
 
-![Live Coding session](/assets/images/oozons-about-3.jpeg)
+<img src="/assets/images/oozons-about-3.jpeg" alt="Live Coding session" style="border-radius: 10px; width: 100%;" />
 
 Regular sessions covering web development, data science, containerization — open, free, real-time.
 
