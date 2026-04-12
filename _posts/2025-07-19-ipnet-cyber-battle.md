@@ -115,4 +115,36 @@ This award was not added as a formality. The winner went on to win **best female
 
 ---
 
+---
+
+## The Origin — Edition 0 (2023)
+
+Before there was a platform, a scoreboard, or a professional-grade CTF — there was a conviction.
+
+The club had just been founded. I was in my final year of undergraduate studies. The goal was simple: bring together students who were genuinely passionate about cybersecurity and build something together. Early on, we started discussing topics like steganography, cryptography, and the world of CTF competitions — topics most students had never encountered in their official curriculum.
+
+We decided to organize a CTF ourselves. Not because we had the resources — we didn't. But because we had the will.
+
+**How we built it without CTFd:**
+
+> We considered CTFd, but dismissed it quickly — too many parameters, hosting constraints, infrastructure to manage. We had to be creative.
+
+| Component | Solution |
+|-----------|---------|
+| Challenge descriptions | A **Notion page** entirely designed by me — [View it here](https://www.notion.so/IPNET-Cyber-Battle-051fca4195ab4e3b817588ebf22d0628) |
+| Challenge files | A shared **Google Drive** (steganography, cryptography, forensics...) |
+| Submissions | Two **Telegram groups** — one per team |
+| Flag validation | A custom **flag checker** |
+| Scoreboard | A custom page with an **admin panel** |
+
+I also wrote an original **steganography course** specifically to prepare participants — [Read it on Notion](https://calm-bite-442.notion.site/Journ-e-2-Parlons-St-ganographie-85dbeebfec254cda950a8be7c6eeadc2).
+
+**Categories:** Steganography · Cryptography · Forensics
+
+This edition was raw, scrappy, and entirely built from scratch with zero budget. No sponsorship, no infrastructure, no external support — just students who wanted to create something that didn't exist yet at their institution.
+
+That edition proved the concept. It showed that the club could organize, that students wanted to compete, and that it was worth investing in building something bigger. Two years later, that investment produced the 2025 edition — Togo's first university-organized CTF, on CTFd, with 13 teams, 7 categories, and a national audience.
+
+---
+
 **Organized by ASSIMTI Essowèréou Charles** — President, IPNET CyberSec Club · Co-signed: PAWOU P. BATANA
