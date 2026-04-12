@@ -1,5 +1,5 @@
 ---
-title: "Two Awards — One Day: Impact Campus Trophy & Most Innovative Student"
+title: "Two Awards, One Day: Impact Campus Trophy & Most Innovative Student"
 date: 2025-09-22 00:00:00 +0000
 categories: [Achievements, Awards]
 tags: [award, ipnet, campus, innovation, leadership]
@@ -31,7 +31,7 @@ Recognition of the full body of work accomplished: founding the **IPNET CyberSec
 
 ---
 
-## 📺 TVT National Television — Journal de 13h
+## 📺 TVT National Television: Journal de 13h
 
 Following the **1st place victory at the CTF National du Togo 2024**, I was invited to **TVT (Télévision Togolaise)** — Togo's national television channel — for an interview on the **Journal de 13h**, the country's flagship midday news broadcast.
 

@@ -1,5 +1,5 @@
 ---
-title: "Togo National CTF 2024 — 1st Place"
+title: "Togo National CTF 2024: 1st Place"
 date: 2024-11-27 00:00:00 +0000
 categories: [Achievements, CTF]
 tags: [ctf, competition, togo, national, first-place]
@@ -27,7 +27,7 @@ We won **both phases** — 1st place in the pre-qualification, and 1st place in 
 
 ---
 
-## The Team — n0_m3rcy_f0r_7h3m!!
+## The Team: n0_m3rcy_f0r_7h3m!!
 
 <img src="/assets/images/wu-national-ctf/ctf-national-team-action.jpg" alt="Team in action" style="border-radius: 10px; width: 100%;" />
 *The team n0_m3rcy_f0r_7h3m!! competing live — ANCy banner in the background.*
@@ -64,7 +64,7 @@ Each team member had at least one area of specialization. I focused primarily on
 
 ---
 
-## TVT Interview — Journal de 13h
+## TVT Interview: Journal de 13h
 
 Following the victory, I was invited to the **TVT (Télévision Togolaise)** — Togo's national television channel — for an interview on the **Journal de 13h**, the country's flagship midday news broadcast.
 

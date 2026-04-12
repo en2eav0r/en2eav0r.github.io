@@ -1,5 +1,5 @@
 ---
-title: "IPNET CyberSec Club — Building the Next Generation of Cybersecurity Professionals"
+title: "IPNET CyberSec Club: Building the Next Generation of Cybersecurity Professionals"
 date: 2024-01-01 00:00:00 +0000
 categories: [Achievements, Leadership]
 tags: [club, cybersecurity, ipnet, training, togo, leadership, discord, bot]

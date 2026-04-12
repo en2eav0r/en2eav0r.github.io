@@ -1,5 +1,5 @@
 ---
-title: "Writeup — CTF National Togo 2024 (Prequals) — 1st Place"
+title: "CTF National Togo 2024: Writeup, 1st Place"
 date: 2024-11-27 00:00:00 +0000
 categories: [Writeups, CTF National Togo]
 tags: [pwn, crypto, buffer-overflow, rsa, rop, aslr, pwntools, togo, first-place, first-blood]
@@ -37,7 +37,7 @@ Je commencerai avec les challenges **PWN** qui m'ont particulièrement intéress
 
 ## PWN
 
-### isSet — First Blood 🩸
+### isSet: First Blood 🩸
 
 Le but principal d'un challenge PWN est d'exploiter des vulnérabilités liées à un binaire (exécutable) dans le but de détourner le programme de son but principal, et même obtenir un Shell distant.
 
@@ -148,7 +148,7 @@ target.interactive()
 
 ---
 
-### isSet2 — First Blood 🩸
+### isSet2: First Blood 🩸
 
 <img src="/assets/images/wu-national-ctf/isSet2-file.png" alt="file isSet2" style="border-radius: 10px; width: 100%;" />
 <img src="/assets/images/wu-national-ctf/isSet2-execution.png" alt="Exécution isSet2" style="border-radius: 10px; width: 100%;" />
@@ -189,7 +189,7 @@ python -c 'print("A"*1064 + "\x66\x65\x65\x62\x64\x61\x65\x64")' | ./isSet2
 
 ---
 
-### Baby_BoF — First Blood 🩸
+### Baby_BoF: First Blood 🩸
 
 ```python
 from pwn import *
@@ -215,7 +215,7 @@ python3 baby.py
 
 ---
 
-### JumpMe — First Blood 🩸
+### JumpMe: First Blood 🩸
 
 Le seul à avoir résolu ce challenge — ROP chain pour appeler la fonction `win`.
 
@@ -245,7 +245,7 @@ python3 jump.py
 
 ---
 
-### ASLR — First Blood 🩸
+### ASLR: First Blood 🩸
 
 Le seul à avoir résolu ce challenge. L'**ASLR** randomise l'emplacement des segments mémoire à chaque exécution, empêchant de prédire les adresses.
 
@@ -333,7 +333,7 @@ Résultat :
 
 ---
 
-### Encryptionvi — Second Solve
+### Encryptionvi: Second Solve
 
 Deux fichiers : `key-file.txt` et `cipher-file.txt`.
 
@@ -371,7 +371,7 @@ Flag : NCTF{KOMI_KPLE_ENCRYPTIONVI_LA}
 
 ---
 
-### RSAvi — Second Solve
+### RSAvi: Second Solve
 
 RSA avec `n` extrêmement grand → factorisation via **factordb** :
 
@@ -411,7 +411,7 @@ Flag : NCTF{DegnigbaN_f3_RSAvi_Yelo}
 
 ---
 
-### CribDrag — First Blood 🩸
+### CribDrag: First Blood 🩸
 
 Challenge CribDrag classique résolu avec l'outil `cribdrag`.
 

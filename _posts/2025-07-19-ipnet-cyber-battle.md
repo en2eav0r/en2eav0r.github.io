@@ -1,5 +1,5 @@
 ---
-title: "IPNET Cyber Battle — Togo's First University-Organized CTF"
+title: "IPNET Cyber Battle: Togo's First University-Organized CTF"
 date: 2025-07-19 00:00:00 +0000
 categories: [Achievements, Events]
 tags: [ctf, cybersecurity, togo, ipnet, organization, first]
@@ -42,7 +42,7 @@ It holds a historic distinction: **it is the first CTF competition ever organize
 
 ## Competition Format
 
-### Phase 1 — Pre-Qualification (OSINT + Forensics + Steganography)
+### Phase 1: Pre-Qualification (OSINT + Forensics + Steganography)
 
 Before reaching the main CTF, candidates had to pass a **multi-stage pre-qualification challenge** — a custom-designed puzzle chain created specifically to test skills across OSINT, forensics, cryptography, and steganography.
 
@@ -68,7 +68,7 @@ IPNET{y0u_4r3_th3_b3st!bRuh_3ssow7r3oU_g1v3_y0u_4cc3s_t0_th3_r0und_t4bl3_0f_fin4
 
 ---
 
-### Phase 2 — Main CTF (Jeopardy Format)
+### Phase 2: Main CTF (Jeopardy Format)
 
 | Aspect | Details |
 |--------|---------|
@@ -100,7 +100,7 @@ IPNET{y0u_4r3_th3_b3st!bRuh_3ssow7r3oU_g1v3_y0u_4cc3s_t0_th3_r0und_t4bl3_0f_fin4
 
 ## Awards
 
-### Best Cyber Battle Woman — BODJONA Essodiam T.N.
+### Best Cyber Battle Woman: BODJONA Essodiam T.N.
 
 <img src="/assets/images/cyberbattle-award-woman.jpg" alt="Best Cyber Battle Woman award" style="border-radius: 10px; width: 100%;" />
 
@@ -117,7 +117,7 @@ This award was not added as a formality. The winner went on to win **best female
 
 ---
 
-## The Origin — Edition 0 (2023)
+## The Origin: Edition 0 (2023)
 
 Before there was a platform, a scoreboard, or a professional-grade CTF — there was a conviction.
 
