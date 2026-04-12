@@ -20,7 +20,7 @@ The **Togo National CTF** is the official cybersecurity competition organized by
 
 | Member | Role |
 |---|---|
-| **ASSIMTI Essowèréou Charles** | Captain |
+| **ASSIMTI Essowèréou Charles** | Captain — `3ss0w7r30u` |
 | Daniel GOGO | Member |
 | Yaovi Didier Edem HOUNTODJI | Member |
 | Ilem I. Nelson Jr. LEMBO | Member |
@@ -29,11 +29,13 @@ The **Togo National CTF** is the official cybersecurity competition organized by
 
 ## Results
 
-| Rank | Team |
-|---|---|
-| 🥇 1st place | **#n0_m3rcy_f0r_th3m** |
-| 🥈 2nd place | #Bl4ck-Kn1Gh7 |
-| 🥉 3rd place | #Cyb3rKn1ght5 |
+| Rank | Team | Score |
+|---|---|---|
+| 🥇 1st place | **n0_m3rcy_f0r_7h3m!!** | **5,751 pts** |
+| 🥈 2nd place | Bl4ck-Kn1Gh7 | 3,851 pts |
+| 🥉 3rd place | Cyb3rKn1ght5 | 901 pts |
+
+**Date:** November 23, 2024 · **Organizers:** ANCy · DA CERT.tg · CANALBOX
 
 ---
 
