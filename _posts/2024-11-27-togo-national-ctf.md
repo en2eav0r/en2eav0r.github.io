@@ -4,7 +4,7 @@ date: 2024-11-27 00:00:00 +0000
 categories: [Achievements, CTF]
 tags: [ctf, competition, togo, national, first-place]
 image:
-  path: /assets/images/wu-national-ctf/ctf-national-scoreboard-official.jpg
+  path: /assets/images/wu-national-ctf/ctf-national-group.jpg
   alt: Scoreboard officiel CTF National Togo 2024
 ---
 
@@ -12,7 +12,7 @@ image:
 
 ## The Event
 
-The **CTF National du Togo** is an unmissable event in Togo's cybersecurity landscape, bringing together the most talented young people from across the entire country to compete in a high-stakes Capture The Flag competition. It is organized by **l'Agence Nationale de la Cybersécurité du Togo (ANCy)**, the state authority for cybersecurity in Togo, in partnership with **DA CERT.tg** and **CANALBOX**.
+The **CTF National du Togo** is an unmissable event in Togo's cybersecurity landscape, bringing together the most talented young people from across the entire country to compete in a high-stakes Capture The Flag competition. It is organized by **l'Agence Nationale de la Cybersécurité du Togo (ANCy)**, the state authority for cybersecurity in Togo, in partnership with **CDA, CERT.tg** and **CANALBOX**.
 
 The competition runs in two phases:
 - **Pre-qualification**, organized online, open to all, national selection
