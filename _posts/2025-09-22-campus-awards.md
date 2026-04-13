@@ -1,7 +1,7 @@
 ---
 title: "Two Awards, One Day: Impact Campus Trophy & Most Innovative Student"
 date: 2025-09-22 00:00:00 +0000
-categories: [Achievements, Awards]
+categories: [Achievements, Academic]
 tags: [award, ipnet, campus, innovation, leadership]
 ---
 

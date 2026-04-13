@@ -33,10 +33,10 @@ A record of the milestones that define my journey in cybersecurity, from first-y
 
 ---
 
-## Leadership & Community
+## Community
 
-{% assign lead_posts = site.posts | where_exp: "post", "post.categories contains 'Leadership' or post.categories contains 'Community' or post.categories contains 'Events'" %}
-{% for post in lead_posts %}
+{% assign community_posts = site.posts | where_exp: "post", "post.categories contains 'Community'" %}
+{% for post in community_posts %}
 ### [{{ post.title }}]({{ post.url }})
 {{ post.excerpt | strip_html | truncatewords: 25 }}
 [Read more]({{ post.url }})
@@ -45,9 +45,9 @@ A record of the milestones that define my journey in cybersecurity, from first-y
 
 ---
 
-## Academic & Awards
+## Academic
 
-{% assign acad_posts = site.posts | where_exp: "post", "post.categories contains 'Academic' or post.categories contains 'Awards'" %}
+{% assign acad_posts = site.posts | where_exp: "post", "post.categories contains 'Academic'" %}
 {% for post in acad_posts %}
 ### [{{ post.title }}]({{ post.url }})
 {{ post.excerpt | strip_html | truncatewords: 25 }}
