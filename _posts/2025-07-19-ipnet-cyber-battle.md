@@ -83,35 +83,51 @@ IPNET{y0u_4r3_th3_b3st!bRuh_3ssow7r3oU_g1v3_y0u_4cc3s_t0_th3_r0und_t4bl3_0f_fin4
 
 <img src="/assets/images/cyberbattle-scoreboard.png" alt="Scoreboard IPNET Cyber Battle 2025" style="border-radius: 10px; width: 100%;" />
 
-| Rank | Team | Score |
-|------|------|-------|
-| 🥇 1 | default | 4 050 pts |
-| 🥈 2 | g3n3s6 | 3 100 pts |
-| 🥉 3 | SxY | 2 700 pts |
-| 4 | Abd61 | 2 100 pts |
-| 5 | t0g37h3R | 2 000 pts |
-| 6 | Indice20 | 1 600 pts |
-| 7 | F_$oCieTy | 1 200 pts |
-| 8 | Ami1r | 1 200 pts |
-| 9 | Dmod | 1 050 pts |
-| 10 | F34r_DrK | 1 050 pts |
+| Rank | Pseudo | Real Name | Score |
+|------|--------|-----------|-------|
+| 🥇 1 | Arlesh | Abdoulaye Abiboulaye | 4 050 pts |
+| 🥈 2 | Gr3G | Bakonda Wenssa Grégoire | 3 100 pts |
+| 🥉 3 | SAY | Ayao Mawonyé Jean-Marie | 2 700 pts |
+| 4 | Abdól | Sitou Abdel Maaliki | 2 100 pts |
+| 5 | t0g37h3R | — | 2 000 pts |
+| 6 | Indice20 | — | 1 600 pts |
+| 7 | F_$oCieTy | — | 1 200 pts |
+| 8 | Ami1r | — | 1 200 pts |
+| 9 | Dmod | — | 1 050 pts |
+| 10 | F34r_DrK | — | 1 050 pts |
+
+<img src="/assets/images/cyberbattle-winner.jpg" alt="Official winners: IPNET Cyber Battle 2025" style="border-radius: 10px; width: 100%;" />
+
+*The official winner card. 13 teams competed. These three stood on top.*
 
 ---
 
 ## Awards
 
-### Best Cyber Battle Woman: BODJONA Essodiam T.N.
-
-<img src="/assets/images/cyberbattle-award-woman.jpg" alt="Best Cyber Battle Woman award" style="border-radius: 10px; width: 100%;" />
-
-This award was not added as a formality. The winner went on to win **best female participant at the national ANCY competition**, confirming that given the right environment, **talent has no gender**.
+The competition didn't just reward the fastest solvers. Three special awards were designed to recognize dimensions of excellence that raw points don't capture.
 
 | Prize | Description |
 |-------|-------------|
 | Top 3 Teams | Overall performance ranking |
-| First Blood | Fastest solve on the hardest challenge |
+| Blood Hunter | First to solve the hardest challenge of the event |
 | Best Writeup | Highest quality technical documentation |
 | Best Cyber Battle Woman | Excellence award for the top female participant |
+
+### Blood Hunter: Sitou Abdel Maaliki
+
+<img src="/assets/images/cyberbattle-bloodhunter.jpg" alt="Blood Hunter award: Sitou Abdel Maaliki" style="border-radius: 10px; width: 100%;" />
+
+The **Blood Hunter** award goes to the competitor who draws **first blood** on the hardest challenge in the competition. It is not about volume; it is about precision and speed on the challenge that defeats everyone else first.
+
+**Sitou Abdel Maaliki** (pseudo: `Abdól`), ranked 4th overall, claimed this title. Finishing 4th on the scoreboard while winning the most prestigious individual challenge award is a statement on its own.
+
+### Best Cyber Battle Woman: Bodjona Essosolam Trinity-Wonder
+
+<img src="/assets/images/cyberbattle-bestwoman.jpg" alt="Best Cyber Battle Woman: Bodjona Essosolam Trinity-Wonder" style="border-radius: 10px; width: 100%;" />
+
+This award was not added as a formality. **Bodjona Essosolam Trinity-Wonder** (pseudo: `Tr1n1tyX_`) competed with focus and consistency, earning the recognition of every person in that room.
+
+The story didn't stop there: she went on to win **best female participant at the national ANCY competition**, confirming that given the right environment, **talent has no gender**.
 
 ---
 
