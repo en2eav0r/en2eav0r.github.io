@@ -3,6 +3,9 @@ title: "FCC Forum CTF 2023: 1st Pre-qual, 3rd at the Final"
 date: 2023-12-11 00:00:00 +0000
 categories: [Achievements, CTF]
 tags: [ctf, fcc, guinea, conakry, redteam, anssi, competition, international]
+image:
+  path: /assets/images/fcc-ctf/fcc-prequal-scoreboard.jpg
+  alt: FCC CTF 2023 pre-qualification scoreboard
 ---
 
 > *Competing across borders with Redteam TG, at one of West Africa's serious cybersecurity forums.*
@@ -23,6 +26,10 @@ For this one I played with **Redteam TG**, which brings together some of the str
 |---|---|
 | Pre-qualification | **1st place** |
 | Final | **3rd place** |
+
+<img src="/assets/images/fcc-ctf/fcc-prequal-scoreboard.jpg" alt="FCC CTF 2023 pre-qualification scoreboard: RedTeam-TG 1st" style="border-radius: 10px; width: 100%;" />
+
+*The pre-qualification scoreboard. RedTeam-TG finished 1st with 2412 points, tied at the top with three other teams. The tie held through the pre-qual; we separated in the final.*
 
 We finished first in pre-qual and held a podium position in the final.
 

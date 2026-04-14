@@ -3,6 +3,9 @@ title: "JPOPE 2023: 1st Prize, Networks, Systems & Cybersecurity"
 date: 2023-09-01 00:00:00 +0000
 categories: [Achievements, Academic]
 tags: [jpope, ipnet, competition, academic, cybersecurity, networking, project]
+image:
+  path: /assets/images/jpope/jpope-prize-1.jpg
+  alt: JPOPE 2023 1st prize ceremony
 ---
 
 > *Convincing recruiters, headhunters, academic partners, and the general public, for hours, under pressure.*
@@ -21,5 +24,11 @@ The jury scores on technical depth, clarity, relevance, and how you hold up unde
 ## The result
 
 In **September 2023**, my team finished **1st place in the Networks, Systems & Cybersecurity category**.
+
+<img src="/assets/images/jpope/jpope-prize-1.jpg" alt="JPOPE 2023 prize ceremony: 1st place Networks & Cybersecurity" style="border-radius: 10px; width: 100%;" />
+
+<img src="/assets/images/jpope/jpope-prize-2.jpg" alt="JPOPE 2023 prize ceremony: team with check" style="border-radius: 10px; width: 100%;" />
+
+*Receiving the 1st place prize at JPOPE 2023.*
 
 Second year at IPNET. We built something technically solid and spent hours defending it in front of a demanding audience. Winning in that track, against teams from multiple year levels, told us we were building at a real level, not just school-project level.
