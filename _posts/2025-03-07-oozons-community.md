@@ -14,7 +14,7 @@ image:
 
 <img src="/assets/images/oozons-logo.png" alt="Oozons Logo" style="border-radius: 10px; width: 100%;" />
 
-[**Oozons**](https://com.oozons.com) is a Togolese digital community whose mission is to reduce unemployment in Africa through technology, providing free training, supporting entrepreneurship, and connecting local talent with global opportunities.
+[**Oozons**](https://com.oozons.com) is a Togolese digital community focused on reducing unemployment in Africa through technology: free training, entrepreneurship support, connecting local talent with real opportunities.
 
 | Stat | Value |
 |------|-------|
@@ -24,23 +24,23 @@ image:
 
 ---
 
-## My Role
+## My role
 
 <img src="/assets/images/oozons-charles-vp.jpg" alt="ASSIMTI Charles: Vice President, Oozons" style="border-radius: 10px; width: 100%;" />{: width="300"}
 
-**Vice President**: I joined as a volunteer, became Committee Head, then was elected Vice President, overseeing strategic direction and community growth across all programs.
+**Vice President**: I started as a volunteer, became Committee Head, then was elected Vice President, responsible for strategic direction and community growth across all programs.
 
 ---
 
-## Key Events
+## Key events
 
-### Phishing Attack Seminar: EPL · April 19, 2025
+### Phishing Attack Seminar: EPL, April 19, 2025
 
-Cybersecurity immersion at the **École Polytechnique de Lomé** themed *"Localizing machines via phishing attacks"*, covering Gophish, VirusTotal, Hybrid Analysis, SquareX. **78 reactions** on LinkedIn.
+Cybersecurity session at the **École Polytechnique de Lomé** themed *"Localizing machines via phishing attacks"*, covering Gophish, VirusTotal, Hybrid Analysis, and SquareX. **78 reactions** on LinkedIn.
 
 ---
 
-### Phishing Training: École Internationale MARIAM · January 2026
+### Phishing Training: École Internationale MARIAM, January 2026
 
 <img src="/assets/images/oozons-phishing-training.jpg" alt="Oozons team at École MARIAM" style="border-radius: 10px; width: 100%;" />
 
@@ -48,13 +48,13 @@ Practical security awareness delivered to students and staff at a non-technical 
 
 ---
 
-### IoT Session: Introduction to the Internet of Things
+### IoT session: introduction to the Internet of Things
 
 <img src="/assets/images/oozons-about-1.jpeg" alt="IoT session" style="border-radius: 10px; width: 100%;" />
 
 <img src="/assets/images/oozons-about-2.jpeg" alt="IoT session participants" style="border-radius: 10px; width: 100%;" />
 
-Hands-on in-person session covering connected devices, embedded systems, and practical IoT use cases.
+In-person session on connected devices, embedded systems, and practical IoT use cases.
 
 ---
 
@@ -74,7 +74,7 @@ Flagship hackathon hosted on **HackerRank**: 18 finalists, in-person finale at E
 
 ---
 
-### Workshop: Code Clash · January 10, 2026
+### Workshop: Code Clash, January 10, 2026
 
 <img src="/assets/images/oozons-workshop-codeclash.jpg" alt="Workshop Code Clash" style="border-radius: 10px; width: 100%;" />
 
@@ -82,15 +82,15 @@ Preparatory workshop themed *"Think before you code: introduction to Algorithms"
 
 ---
 
-### Live Coding & Technical Workshops
+### Live coding & technical workshops
 
 <img src="/assets/images/oozons-about-3.jpeg" alt="Live Coding session" style="border-radius: 10px; width: 100%;" />
 
-Regular sessions covering web development, data science, containerization, open, free, real-time.
+Regular sessions on web development, data science, and containerization. Open, free, real-time.
 
 ---
 
-### Teacher & Student Training: Lycée Avedji · 10 days
+### Teacher & student training: Lycée Avedji, 10 days
 
 A 10-day program (Windows 10, Word, Excel, PowerPoint, AI) for teachers and students. **91 likes, 17 comments** on LinkedIn.
 
@@ -98,7 +98,7 @@ A 10-day program (Windows 10, Word, Excel, PowerPoint, AI) for teachers and stud
 
 ---
 
-## Beyond Togo: A Sub-Regional Vision
+## Beyond Togo: a sub-regional vision
 
 In late 2025, Oozons organized a **2-day Python bootcamp** at **CEFOD Business School in Chad** with **IgoTech TD**, training **30+ young people**.
 

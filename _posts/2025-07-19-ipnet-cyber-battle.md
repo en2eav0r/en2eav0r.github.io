@@ -8,9 +8,9 @@ image:
   alt: IPNET Cyber Battle 2025 participants
 ---
 
-> *"Where Cyber Warriors Rise": A milestone event in Togolese cybersecurity history, organized entirely by students.*
+> *"Where Cyber Warriors Rise": organized entirely by students.*
 
-## Watch the Event
+## Watch the event
 
 [<img src="https://img.youtube.com/vi/HdqJ9TKKMVw/maxresdefault.jpg" alt="IPNET Cyber Battle: Official Video" style="border-radius: 10px; width: 100%;" />](https://www.youtube.com/watch?v=HdqJ9TKKMVw&t=1s)
 
@@ -18,35 +18,35 @@ image:
 
 ## Overview
 
-The **IPNET Cyber Battle** is the annual Capture The Flag (CTF) competition organized by the IPNET CyberSec Club at IPNET Institute of Technology, Togo.
+The **IPNET Cyber Battle** is the annual CTF organized by the IPNET CyberSec Club at IPNET Institute of Technology, Togo.
 
-It holds a historic distinction: **it is the first CTF competition ever organized by a university institution in Togo.** Before this event, cybersecurity competitions in the country were either informal or driven by external organizations. The IPNET CyberSec Club changed that, designing, deploying, and running a fully professional-grade CTF with a multi-stage format, custom challenges, and a competitive scoring system.
+Before this event, no university in Togo had ever organized a cybersecurity competition. The IPNET CyberSec Club built one: designed the challenges, deployed the infrastructure, ran the event from start to finish.
 
 ---
 
-## The Team
+## The team
 
 <img src="/assets/images/cyberbattle-group.jpg" alt="Group photo: IPNET Cyber Battle participants" style="border-radius: 10px; width: 100%;" />
 
 ---
 
-## Inside the Competition
+## Inside the competition
 
 <img src="/assets/images/cyberbattle-supervision.jpg" alt="Charles supervising a challenger" style="border-radius: 10px; width: 100%;" />
 
-*ASSIMTI Essowèréou Charles: President of the club, actively present during the competition, supervising challengers in real time.*
+*ASSIMTI Essowèréou Charles: President of the club, on the floor during the competition, supervising challengers in real time.*
 
 <img src="/assets/images/cyberbattle-girls-collab.jpg" alt="Two participants collaborating" style="border-radius: 10px; width: 100%;" />
 
 ---
 
-## Competition Format
+## Competition format
 
-### Phase 1: Pre-Qualification (OSINT + Forensics + Steganography)
+### Phase 1: pre-qualification (OSINT + Forensics + Steganography)
 
-Before reaching the main CTF, candidates had to pass a **multi-stage pre-qualification challenge**, a custom-designed puzzle chain created specifically to test skills across OSINT, forensics, cryptography, and steganography.
+Candidates had to clear a **10-step puzzle chain** before reaching the main CTF:
 
-| Step | Action | Skill Tested |
+| Step | Action | Skill tested |
 |------|--------|-------------|
 | 1 | Analyze a LinkedIn video containing **7 hidden QR codes** | OSINT · Visual analysis |
 | 2 | Decode a **Python ASCII script** from a QR code → hidden message | Scripting · Encoding |
@@ -64,11 +64,11 @@ Before reaching the main CTF, candidates had to pass a **multi-stage pre-qualifi
 IPNET{y0u_4r3_th3_b3st!bRuh_3ssow7r3oU_g1v3_y0u_4cc3s_t0_th3_r0und_t4bl3_0f_fin4l1sT!!_65547926$$64}
 ```
 
-> `3ssow7r3oU` embedded in the flag is a direct reference to the creator: ASSIMTI **Essowèréou** Charles. A signature hidden in plain sight.
+> `3ssow7r3oU` in the flag is a direct reference to the creator: ASSIMTI **Essowèréou** Charles. A signature hidden in plain sight.
 
 ---
 
-### Phase 2: Main CTF (Jeopardy Format)
+### Phase 2: main CTF (Jeopardy format)
 
 | Aspect | Details |
 |--------|---------|
@@ -85,9 +85,9 @@ IPNET{y0u_4r3_th3_b3st!bRuh_3ssow7r3oU_g1v3_y0u_4cc3s_t0_th3_r0und_t4bl3_0f_fin4
 
 | Rank | Pseudo | Real Name | Score |
 |------|--------|-----------|-------|
-| 🥇 1 | Arlesh | Abdoulaye Abiboulaye | 4 050 pts |
-| 🥈 2 | Gr3G | Bakonda Wenssa Grégoire | 3 100 pts |
-| 🥉 3 | SAY | Ayao Mawonyé Jean-Marie | 2 700 pts |
+| 1 | Arlesh | Abdoulaye Abiboulaye | 4 050 pts |
+| 2 | Gr3G | Bakonda Wenssa Grégoire | 3 100 pts |
+| 3 | SAY | Ayao Mawonyé Jean-Marie | 2 700 pts |
 | 4 | Abdól | Sitou Abdel Maaliki | 2 100 pts |
 | 5 | t0g37h3R | — | 2 000 pts |
 | 6 | Indice20 | — | 1 600 pts |
@@ -98,68 +98,60 @@ IPNET{y0u_4r3_th3_b3st!bRuh_3ssow7r3oU_g1v3_y0u_4cc3s_t0_th3_r0und_t4bl3_0f_fin4
 
 <img src="/assets/images/cyberbattle-winner.jpg" alt="Official winners: IPNET Cyber Battle 2025" style="border-radius: 10px; width: 100%;" />
 
-*The official winner card. 13 teams competed. These three stood on top.*
+*13 teams competed. These three stood on top.*
 
 ---
 
 ## Awards
 
-The competition didn't just reward the fastest solvers. Three special awards were designed to recognize dimensions of excellence that raw points don't capture.
+Beyond the scoreboard, four special awards:
 
 | Prize | Description |
 |-------|-------------|
 | Top 3 Teams | Overall performance ranking |
-| Blood Hunter | First to solve the hardest challenge of the event |
-| Best Writeup | Highest quality technical documentation |
-| Best Cyber Battle Woman | Excellence award for the top female participant |
+| Blood Hunter | First blood on the hardest challenge |
+| Best Writeup | Top quality technical documentation |
+| Best Cyber Battle Woman | Top female participant |
 
 ### Blood Hunter: Sitou Abdel Maaliki
 
 <img src="/assets/images/cyberbattle-bloodhunter.jpg" alt="Blood Hunter award: Sitou Abdel Maaliki" style="border-radius: 10px; width: 100%;" />
 
-The **Blood Hunter** award goes to the competitor who draws **first blood** on the hardest challenge in the competition. It is not about volume; it is about precision and speed on the challenge that defeats everyone else first.
-
-**Sitou Abdel Maaliki** (pseudo: `Abdól`), ranked 4th overall, claimed this title. Finishing 4th on the scoreboard while winning the most prestigious individual challenge award is a statement on its own.
+The **Blood Hunter** award goes to whoever draws first blood on the hardest challenge. **Sitou Abdel Maaliki** (`Abdól`), ranked 4th overall, took it. 4th on the scoreboard but first on the challenge that stopped everyone else.
 
 ### Best Cyber Battle Woman: Bodjona Essosolam Trinity-Wonder
 
 <img src="/assets/images/cyberbattle-bestwoman.jpg" alt="Best Cyber Battle Woman: Bodjona Essosolam Trinity-Wonder" style="border-radius: 10px; width: 100%;" />
 
-This award was not added as a formality. **Bodjona Essosolam Trinity-Wonder** (pseudo: `Tr1n1tyX_`) competed with focus and consistency, earning the recognition of every person in that room.
-
-The story didn't stop there: she went on to win **best female participant at the national ANCY competition**, confirming that given the right environment, **talent has no gender**.
+**Bodjona Essosolam Trinity-Wonder** (`Tr1n1tyX_`) competed with focus and consistency throughout. The award wasn't ceremonial. She went on to win best female participant at the national ANCY competition.
 
 ---
 
----
+## The origin: Edition 0 (2023)
 
-## The Origin: Edition 0 (2023)
+Before there was a platform, a scoreboard, or a CTFd instance, there was just the club and a decision.
 
-Before there was a platform, a scoreboard, or a professional-grade CTF, there was a conviction.
-
-The club had just been founded. I was in my final year of undergraduate studies. The goal was simple: bring together students who were genuinely passionate about cybersecurity and build something together. Early on, we started discussing topics like steganography, cryptography, and the world of CTF competitions, topics most students had never encountered in their official curriculum.
-
-We decided to organize a CTF ourselves. Not because we had the resources, we didn't. But because we had the will.
+The club had just been founded. I was in my final year of undergraduate studies. We were discussing steganography, cryptography, CTF competitions, things most students had never encountered in class. We decided to organize one ourselves. We had no resources. We did it anyway.
 
 **How we built it without CTFd:**
 
-> We considered CTFd, but dismissed it quickly, too many parameters, hosting constraints, infrastructure to manage. We had to be creative.
+> We looked at CTFd and dropped it fast: too many parameters, hosting constraints, infrastructure overhead. We had to get creative.
 
 | Component | Solution |
 |-----------|---------|
-| Challenge descriptions | A **Notion page** entirely designed by me, [View it here](https://www.notion.so/IPNET-Cyber-Battle-051fca4195ab4e3b817588ebf22d0628) |
-| Challenge files | A shared **Google Drive** (steganography, cryptography, forensics...) |
+| Challenge descriptions | A **Notion page** designed by me, [view it here](https://www.notion.so/IPNET-Cyber-Battle-051fca4195ab4e3b817588ebf22d0628) |
+| Challenge files | A shared **Google Drive** (steganography, cryptography, forensics) |
 | Submissions | Two **Telegram groups**, one per team |
 | Flag validation | A custom **flag checker** |
 | Scoreboard | A custom page with an **admin panel** |
 
-I also wrote an original **steganography course** specifically to prepare participants, [Read it on Notion](https://calm-bite-442.notion.site/Journ-e-2-Parlons-St-ganographie-85dbeebfec254cda950a8be7c6eeadc2).
+I also wrote a **steganography course** specifically to prepare participants: [read it on Notion](https://calm-bite-442.notion.site/Journ-e-2-Parlons-St-ganographie-85dbeebfec254cda950a8be7c6eeadc2).
 
 **Categories:** Steganography · Cryptography · Forensics
 
-This edition was raw, scrappy, and entirely built from scratch with zero budget. No sponsorship, no infrastructure, no external support, just students who wanted to create something that didn't exist yet at their institution.
+Zero budget. No sponsorship. No external support. Just students who wanted to build something that didn't exist yet at their school.
 
-That edition proved the concept. It showed that the club could organize, that students wanted to compete, and that it was worth investing in building something bigger. Two years later, that investment produced the 2025 edition: Togo's first university-organized CTF, on CTFd, with 13 teams, 7 categories, and a national audience.
+That edition proved the concept. Two years later: CTFd, 13 teams, 7 categories, a national audience, and three official awards.
 
 ---
 

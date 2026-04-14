@@ -9,23 +9,17 @@ tags: [jpope, ipnet, competition, academic, cybersecurity, networking, project]
 
 ## What is JPOPE?
 
-The **Journées Portes Ouvertes Projets Étudiants (JPOPE)** is one of IPNET's flagship events. It is the moment when the school opens its doors to the outside world: recruiters, headhunters, academic partners, and the general public come to discover the talent of IPNET students.
-
-It is not an exam. It is a performance.
-
-Over the course of the event, more than **40 student projects** are presented to a live, mixed audience, split across two tracks:
+The **Journées Portes Ouvertes Projets Étudiants (JPOPE)** is IPNET's annual open house. Recruiters, headhunters, academic partners, and the general public come in to see what students have been building. Over 40 projects are on display, across two tracks:
 
 - **Development** (software, web, mobile)
 - **Networks, Systems & Cybersecurity**
 
-## The Challenge
+You stand in front of your project. For hours. The audience is mixed: sometimes a seasoned engineer who knows exactly what to ask, sometimes someone who has never heard of the technology you built. You adapt on the fly.
 
-Teams must stand in front of their project and present it, explain it, and defend it for hours on end. The audience is unpredictable: sometimes seasoned professionals who push back hard, sometimes complete beginners who need everything explained from scratch. You have to read the room, adjust your language, and hold attention.
+The jury scores on technical depth, clarity, relevance, and how you hold up under questioning.
 
-The jury evaluates technical depth, clarity of presentation, relevance of the project, and ability to answer questions under pressure.
-
-## The Result
+## The result
 
 In **September 2023**, my team finished **1st place in the Networks, Systems & Cybersecurity category**.
 
-This was my second year at IPNET. We built something technically solid, and we defended it convincingly in front of a demanding audience. Winning the top prize in a competitive track, against teams from multiple year levels, confirmed that the work we were doing was not just school-grade work. It was real.
+Second year at IPNET. We built something technically solid and spent hours defending it in front of a demanding audience. Winning in that track, against teams from multiple year levels, told us we were building at a real level, not just school-project level.

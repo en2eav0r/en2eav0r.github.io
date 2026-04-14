@@ -10,15 +10,15 @@ image:
 
 > *Winners of the official national cybersecurity championship organized by the Togolese state.*
 
-## The Event
+## The event
 
-The **CTF National du Togo** is an unmissable event in Togo's cybersecurity landscape, bringing together the most talented young people from across the entire country to compete in a high-stakes Capture The Flag competition. It is organized by **l'Agence Nationale de la Cybersécurité du Togo (ANCy)**, the state authority for cybersecurity in Togo, in partnership with **CDA, CERT.tg** and **CANALBOX**.
+The **CTF National du Togo** is the country's main cybersecurity competition, organized by **l'Agence Nationale de la Cybersécurité du Togo (ANCy)**, in partnership with **CDA, CERT.tg** and **CANALBOX**.
 
-The competition runs in two phases:
-- **Pre-qualification**, organized online, open to all, national selection
-- **Final**, in-person, 24 hours non-stop
+It runs in two phases:
+- **Pre-qualification**: online, open to all, national selection
+- **Final**: in-person, 24 hours non-stop
 
-We won **both phases**: 1st place in the pre-qualification, and 1st place in the final.
+We won both. 1st in the pre-qualification, 1st in the final.
 
 ---
 
@@ -27,7 +27,7 @@ We won **both phases**: 1st place in the pre-qualification, and 1st place in the
 
 ---
 
-## The Team: n0_m3rcy_f0r_7h3m!!
+## The team: n0_m3rcy_f0r_7h3m!!
 
 <img src="/assets/images/wu-national-ctf/ctf-national-team-action.jpg" alt="Team in action" style="border-radius: 10px; width: 100%;" />
 *The team n0_m3rcy_f0r_7h3m!! competing live: ANCy banner in the background.*
@@ -39,7 +39,7 @@ We won **both phases**: 1st place in the pre-qualification, and 1st place in the
 | Yaovi Didier Edem HOUNTODJI | Member |
 | Ilem I. Nelson Jr. LEMBO | Member |
 
-Each team member had at least one area of specialization. I focused primarily on **PWN challenges**, binary exploitation, buffer overflows, and ROP chains. The preparation for the final was intense. When the day came, tensions were at their peak, and we gave everything to claim first place.
+Each of us had a specialty. Mine was **PWN**: binary exploitation, buffer overflows, ROP chains. The preparation was intense. When the day came, we were ready.
 
 ---
 
@@ -49,9 +49,9 @@ Each team member had at least one area of specialization. I focused primarily on
 
 | Rank | Team | Score |
 |---|---|---|
-| 🥇 1st place | **n0_m3rcy_f0r_7h3m!!** | **5,751 pts** |
-| 🥈 2nd place | Bl4ck-Kn1Gh7 | 3,851 pts |
-| 🥉 3rd place | Cyb3rKn1ght5 | 901 pts |
+| 1st | **n0_m3rcy_f0r_7h3m!!** | **5,751 pts** |
+| 2nd | Bl4ck-Kn1Gh7 | 3,851 pts |
+| 3rd | Cyb3rKn1ght5 | 901 pts |
 
 **Date:** November 23, 2024 · **Organizers:** ANCy · DA CERT.tg · CANALBOX
 
@@ -64,9 +64,9 @@ Each team member had at least one area of specialization. I focused primarily on
 
 ---
 
-## TVT Interview: Journal de 13h
+## TVT interview: Journal de 13h
 
-Following the victory, I was invited to the **TVT (Télévision Togolaise)**: Togo's national television channel, for an interview on the **Journal de 13h**, the country's flagship midday news broadcast.
+After the win, I was invited to **TVT (Télévision Togolaise)** for an interview on the **Journal de 13h**, the national midday news broadcast.
 
 [![Interview TVT: Journal de 13h](https://img.youtube.com/vi/nbGtDSE8JiM/maxresdefault.jpg)](https://www.youtube.com/watch?v=nbGtDSE8JiM)
 
@@ -76,6 +76,6 @@ Following the victory, I was invited to the **TVT (Télévision Togolaise)**: To
 
 ## Writeups
 
-Detailed technical solutions to the challenges solved during the competition:
+Technical solutions to the challenges solved during the competition:
 
-**[→ Read the full writeup](/posts/wu-ctf-national-togo/)**
+**[Read the full writeup](/posts/wu-ctf-national-togo/)**
