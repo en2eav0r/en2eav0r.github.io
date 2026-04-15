@@ -1,11 +1,11 @@
 ---
-title: "Zerodays CTF 2026 — Writeup"
+title: "Zerodays CTF 2026: Writeup"
 date: 2026-03-22 00:00:00 +0000
 categories: [Writeups, CTF]
 tags: [web, steganography, forensics, pwn, network, pcap, idor, sql-injection, path-traversal, stegseek, zsteg, pwntools, xor, buffer-overflow, zerodays, ireland]
 image:
   path: /assets/images/zerodays-ctf/tuffpigeon-challenge.png
-  alt: Zerodays CTF 2026 — Tuff Pigeon challenge
+  alt: Zerodays CTF 2026 Tuff Pigeon challenge
 ---
 
 Zerodays is The Irish Colleges Cyber-Security Challenge, held every year at Croke Park in Dublin. Teams of four compete across web, forensics, crypto, pwn, stegano, and network categories. This year's edition ran on March 22, 2026.
@@ -14,13 +14,13 @@ I played as **en2eavor**.
 
 ---
 
-## Tuff Pigeon — WarmUp
+## Tuff Pigeon (WarmUp)
 
 Three web steps. Each one gives a token fragment; combine them to get the flag.
 
 <img src="/assets/images/zerodays-ctf/tuffpigeon-challenge.png" alt="Tuff Pigeon challenge overview" style="border-radius: 10px; width: 100%;" />
 
-**Step 1 — IDOR.** The URL passes `?user=guest`. Swap it to `admin`:
+**Step 1: IDOR.** The URL passes `?user=guest`. Swap it to `admin`:
 
 ```
 https://tuffpigeon.zerodays.events/step1.php?user=admin
@@ -28,11 +28,11 @@ https://tuffpigeon.zerodays.events/step1.php?user=admin
 
 `token1 = id0r!`
 
-**Step 2 — SQL injection.** Enter `u' OR 1=1;#` in the username field. Authentication breaks and the second token comes back.
+**Step 2: SQL injection.** Enter `u' OR 1=1;#` in the username field. Authentication breaks and the second token comes back.
 
 `token2 = th4nks`
 
-**Step 3 — Path traversal.** Need to read `/opt/challenge/step3_token.txt`. Chain `../` until you're out of the web root:
+**Step 3: Path traversal.** Need to read `/opt/challenge/step3_token.txt`. Chain `../` until you're out of the web root:
 
 ```
 https://tuffpigeon.zerodays.events/step3.php?file=../../../../../../../../opt/challenge/step3_token.txt
@@ -46,9 +46,9 @@ Submit all three parts:
 
 ---
 
-## They dont know — Stegano
+## They dont know (Stegano)
 
-JPG file, so `steghide` is the natural first guess. I used `stegseek` with `rockyou` — it's faster and handles empty passphrases automatically:
+JPG file, so `steghide` is the natural first guess. I used `stegseek` with `rockyou`, it's faster and handles empty passphrases automatically:
 
 ```shell
 ➜ stegseek chall.jpg
@@ -66,7 +66,7 @@ Empty passphrase. `stegseek` caught it in seconds.
 
 ---
 
-## One Does Not Simply — Stegano
+## One Does Not Simply (Stegano)
 
 PNG file, so `zsteg` first:
 
@@ -75,7 +75,7 @@ PNG file, so `zsteg` first:
 meta mxfile   .. text: "%3Cmxfile%20host%3D%22app.diagrams.net%22..."
 ```
 
-The output is URL-encoded and long. I dropped it into CyberChef. After decoding, there's a code block with a long Base64 string inside — decode that too and you get an image with the flag on it.
+The output is URL-encoded and long. I dropped it into CyberChef. After decoding, there's a code block with a long Base64 string inside. Decode that too and you get an image with the flag on it.
 
 ```
 https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,false)&oeol=VT
@@ -83,9 +83,9 @@ https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,fal
 
 ---
 
-## Shark Attack — WarmUp
+## Shark Attack (WarmUp)
 
-PCAP file. Open in Wireshark, follow the stream — the traffic shows someone downloading a file called `baby.gif` over FTP.
+PCAP file. Open in Wireshark, follow the stream. The traffic shows someone downloading a file called `baby.gif` over FTP.
 
 <img src="/assets/images/zerodays-ctf/sharkattack-pcap-stream.png" alt="Following the FTP stream in Wireshark" style="border-radius: 10px; width: 100%;" />
 
@@ -97,11 +97,11 @@ The flag is on the image.
 
 ---
 
-## Nyan Logger — Forensics
+## Nyan Logger (Forensics)
 
 Windows Event Viewer file (`.evtx`). Open on Windows and filter for PowerShell event ID **4104** (ScriptBlock logging).
 
-The script logged is a full persistence payload — hidden directory, Defender disabled, new local user added to a privileged group, scheduled task registered at logon. Everything obfuscated with XOR.
+The script logged is a full persistence payload: hidden directory, Defender disabled, new local user added to a privileged group, scheduled task registered at logon. Everything obfuscated with XOR.
 
 Focus on the password variable:
 
@@ -124,7 +124,7 @@ print(''.join(chr(x ^ k) for x in b))
 # V21WeWIwUmhlWE43UlhZelRuUmZUREJuWnpGdVoxOHhNREZmTmpkOQ==
 ```
 
-That's Base64 of Base64 — decode twice:
+That's Base64 of Base64. Decode twice:
 
 ```shell
 ➜ echo -ne V21WeWIwUmhlWE43UlhZelRuUmZUREJuWnpGdVoxOHhNREZmTmpkOQ== | base64 -d | base64 -d
@@ -133,7 +133,7 @@ ZeroDays{Ev3Nt_L0gg1ng_101_67}
 
 ---
 
-## Trolling — Misc
+## Trolling (Misc)
 
 The file is named `.png` but opens as garbage. A hex editor shows it starts with the ASCII string `"get trolled"`, a few junk bytes, then valid JPEG data from offset `0x14` onward.
 
@@ -151,9 +151,9 @@ Flag's on the image.
 
 ---
 
-## Pwn Training — Pwn
+## Pwn Training (Pwn)
 
-`signal(SIGSEGV, crash_win)` is set at the top of `main`. A segfault normally kills the process — here it calls `crash_win()`, which prints the flag. So all we need is a crash.
+`signal(SIGSEGV, crash_win)` is set at the top of `main`. A segfault normally kills the process, but here it calls `crash_win()`, which prints the flag. So all we need is a crash.
 
 ```c
 int overflow()
@@ -172,7 +172,7 @@ int overflow()
 }
 ```
 
-`strchr(s, 65)` exits if it sees `'A'` (ASCII 65) anywhere in the input — so no `A`s. Fill with `B` instead. `gets()` has no length check, so overflowing past the 208-byte buffer and saved RBP is enough:
+`strchr(s, 65)` exits if it sees `'A'` (ASCII 65) anywhere in the input, so no `A`s. Fill with `B` instead. `gets()` has no length check, so overflowing past the 208-byte buffer and saved RBP is enough:
 
 ```python
 from pwn import *
@@ -197,9 +197,9 @@ ZeroDays{c0ngratz_y0u_ar3_n0t_a_pwN_sK1d}
 
 ---
 
-## ProGlovver — Network
+## ProGlovver (Network)
 
-PCAP file. Following UDP and TCP streams turns up a DNS TXT record with something that looks like a flag — doesn't work. Troll flag.
+PCAP file. Following UDP and TCP streams turns up a DNS TXT record with something that looks like a flag. Doesn't work. Troll flag.
 
 <img src="/assets/images/zerodays-ctf/proglovver-dns-troll.png" alt="DNS TXT troll flag" style="border-radius: 10px; width: 100%;" />
 
@@ -221,11 +221,11 @@ Piece them together manually:
 
 ---
 
-## Schizo Steg — Stegano
+## Schizo Steg (Stegano)
 
 Two files: `challenge.png` and `hint.png`.
 
-`hint.png` has exactly 16 colors — one per hex digit. Each pixel in `challenge.png` is one of those colors, and each color maps to a nibble (0–F):
+`hint.png` has exactly 16 colors, one per hex digit. Each pixel in `challenge.png` is one of those colors, and each color maps to a nibble (0-F):
 
 | Nibble | Color | RGB |
 |--------|-------|-----|
@@ -246,7 +246,7 @@ Two files: `challenge.png` and `hint.png`.
 | E | light-yellow | (255, 255, 128) |
 | F | white | (255, 255, 255) |
 
-Read pixels left-to-right, top-to-bottom — every two nibbles make one byte. Python to extract the hex string:
+Read pixels left-to-right, top-to-bottom. Every two nibbles make one byte. Python to extract the hex string:
 
 ```python
 #!/usr/bin/env python3
@@ -270,7 +270,7 @@ hex_str = "".join(f"{n:x}" for n in nibbles)
 print(hex_str)
 ```
 
-Drop the result into CyberChef — From Hex:
+Drop the result into CyberChef (From Hex):
 
 <img src="/assets/images/zerodays-ctf/schizosteg-cyberchef.png" alt="CyberChef hex decode" style="border-radius: 10px; width: 100%;" />
 
