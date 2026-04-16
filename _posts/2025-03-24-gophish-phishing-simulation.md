@@ -4,8 +4,8 @@ date: 2025-03-24 00:00:00 +0000
 categories: [Projects]
 tags: [gophish, phishing, social-engineering, red-team, smtp, landing-page, awareness, security-assessment]
 image:
-  path: /assets/images/gophish/gophish-interface.png
-  alt: Gophish platform interface
+  path: /assets/images/gophish/gophish-logo-official.png
+  alt: Gophish logo
 ---
 
 <img src="/assets/images/gophish/gophish-logo.png" alt="Gophish logo" style="border-radius: 10px; width: 40%; display: block; margin: 0 auto;" />
