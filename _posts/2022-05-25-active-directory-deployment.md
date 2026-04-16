@@ -32,7 +32,7 @@ The scenario for this project: a fictional institution called **LPRC** needs to 
 
 ## Network diagram
 
-<img src="/assets/images/active-directory/ad-visio-2.jpeg" alt="Active Directory network architecture diagram" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-visio-2.jpeg" alt="Active Directory network architecture diagram" style="border-radius: 10px; width: 65%;" />
 
 The architecture centers on a **Windows Server 2016** domain controller running AD DS, DNS, DHCP, WSUS, and Remote Access. Client machines (Windows 10) join the domain and receive their configuration via DHCP and GPO. A Cisco Catalyst switch handles LAN connectivity, Cisco access points cover WiFi, and a Cisco Firepower handles the perimeter. The VPN gateway allows remote users to authenticate against the AD server over IPSec.
 
@@ -72,9 +72,9 @@ For the lab deployment, we used **VMware Workstation Pro** to run the server and
 
 The server was given a static IP: `10.0.254.17`, with itself as the DNS server. The client was configured to use this same address as its DNS.
 
-<img src="/assets/images/active-directory/ad-manuel-3.png" alt="VMware virtual network configuration" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-3.png" alt="VMware virtual network configuration" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/active-directory/ad-manuel-5.png" alt="Windows Server VM setup" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-5.png" alt="Windows Server VM setup" style="border-radius: 10px; width: 65%;" />
 
 ---
 
@@ -82,13 +82,13 @@ The server was given a static IP: `10.0.254.17`, with itself as the DNS server. 
 
 From Server Manager, we added the **AD DS** role. DNS installs automatically alongside it — AD relies on DNS for domain resolution, so they go together.
 
-<img src="/assets/images/active-directory/ad-manuel-10.png" alt="Adding the AD DS role" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-10.png" alt="Adding the AD DS role" style="border-radius: 10px; width: 65%;" />
 
 After installation, the server was promoted to **domain controller** and a new forest was created. Domain name: `ppe.local`. After the promotion completes the machine reboots, and from that point on the administrator session shows the domain name.
 
-<img src="/assets/images/active-directory/ad-manuel-15.png" alt="Promoting server to domain controller" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-15.png" alt="Promoting server to domain controller" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/active-directory/ad-manuel-17.png" alt="Domain controller promotion completed" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-17.png" alt="Domain controller promotion completed" style="border-radius: 10px; width: 65%;" />
 
 ---
 
@@ -96,7 +96,7 @@ After installation, the server was promoted to **domain controller** and a new f
 
 DHCP was added as a separate role. After installation, a new scope was created: **DHCP_POOL_AD**, range `10.0.254.0/24`, with the server itself (`10.0.254.17`) as gateway and DNS server. Clients on the domain now get addresses automatically.
 
-<img src="/assets/images/active-directory/ad-manuel-22.png" alt="DHCP scope configuration" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-22.png" alt="DHCP scope configuration" style="border-radius: 10px; width: 65%;" />
 
 ---
 
@@ -109,11 +109,11 @@ Under **Active Directory Users and Computers**, we created an Organizational Uni
 
 OUs are the building block of AD. They let you apply GPOs to specific sets of users or machines rather than the whole domain.
 
-<img src="/assets/images/active-directory/ad-manuel-43.png" alt="Creating organizational unit SERVICE COMMERCIAL" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-43.png" alt="Creating organizational unit SERVICE COMMERCIAL" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/active-directory/ad-manuel-47.png" alt="User creation in AD" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-47.png" alt="User creation in AD" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/active-directory/ad-manuel-55.png" alt="Group Comptabilité created with members" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-55.png" alt="Group Comptabilité created with members" style="border-radius: 10px; width: 65%;" />
 
 ---
 
@@ -121,7 +121,7 @@ OUs are the building block of AD. They let you apply GPOs to specific sets of us
 
 On the Windows 10 machine, we changed the DNS to point at `10.0.254.17`, then joined the domain `ppe.local`. This requires domain admin credentials. After a reboot, the login screen shows an "Other user" option — logging in with a domain account (`comptable`) works, and the machine properties confirm it belongs to `ppe.local`.
 
-<img src="/assets/images/active-directory/ad-manuel-67.png" alt="Client machine joined to domain ppe.local" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-67.png" alt="Client machine joined to domain ppe.local" style="border-radius: 10px; width: 65%;" />
 
 ---
 
@@ -133,29 +133,29 @@ GPOs are how you push settings to users and machines without touching each one. 
 
 A company wallpaper was placed in a shared folder on the server (`DEPLOY`), then a GPO configured to push it to the `Groupe Comptabilité`. After the client runs `gpupdate /force`, the wallpaper changes automatically.
 
-<img src="/assets/images/active-directory/ad-manuel-73.png" alt="GPO wallpaper configuration" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-73.png" alt="GPO wallpaper configuration" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/active-directory/ad-manuel-80.png" alt="Wallpaper GPO applied on client machine" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-80.png" alt="Wallpaper GPO applied on client machine" style="border-radius: 10px; width: 65%;" />
 
 **2. Block CMD access (`GPO_U_CMD`)**
 
 A GPO was linked to the `SERVICE COMMERCIAL` OU disabling access to the command prompt for all users in that unit. Testing confirmed: trying to open CMD on the client machine results in an error.
 
-<img src="/assets/images/active-directory/ad-manuel-82.png" alt="CMD blocked via GPO on client" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-82.png" alt="CMD blocked via GPO on client" style="border-radius: 10px; width: 65%;" />
 
 **3. Block USB storage (`GPO_U_USB`)**
 
 A GPO was applied to block all removable storage classes. Plugging in a USB drive on the client machine shows an access denied error. This is a common enterprise policy to prevent data exfiltration.
 
-<img src="/assets/images/active-directory/ad-manuel-87.png" alt="USB access denied via GPO" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-87.png" alt="USB access denied via GPO" style="border-radius: 10px; width: 65%;" />
 
 **4. Deploy Firefox ESR by GPO**
 
 An MSI installer for Firefox ESR was placed in a shared `Applications` folder on the server. A GPO configured under **Computer Configuration > Software Installation** pushed the package to all domain computers. Running `gpupdate /force` on the client triggers the installation on next login — no manual install needed on each machine.
 
-<img src="/assets/images/active-directory/ad-manuel-91.png" alt="Firefox ESR GPO software deployment" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-91.png" alt="Firefox ESR GPO software deployment" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/active-directory/ad-manuel-92.png" alt="Firefox ESR installed on client after GPO" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-92.png" alt="Firefox ESR installed on client after GPO" style="border-radius: 10px; width: 65%;" />
 
 ---
 
@@ -168,13 +168,13 @@ Three GPOs were created to manage updates:
 - `GPO Servers`: same logic for servers
 - `GPO Communs`: shared policy for both, sets update schedule and points all machines to the internal WSUS server instead of Microsoft's servers directly
 
-<img src="/assets/images/active-directory/ad-manuel-111.png" alt="WSUS console showing update groups" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-111.png" alt="WSUS console showing update groups" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/active-directory/ad-manuel-113.png" alt="WSUS GPO configuration" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-113.png" alt="WSUS GPO configuration" style="border-radius: 10px; width: 65%;" />
 
 On the client machine, Windows Update settings confirm the policy: updates are managed by the organization, not pulled independently from Microsoft.
 
-<img src="/assets/images/active-directory/ad-manuel-126.png" alt="Windows Update managed by organization on client" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-126.png" alt="Windows Update managed by organization on client" style="border-radius: 10px; width: 65%;" />
 
 ---
 
@@ -184,9 +184,9 @@ The **Remote Access** role (DirectAccess + VPN) was installed and configured wit
 
 On the Windows 10 client, we added a VPN connection (L2TP/IPSec) pointing at the server's IP. Connecting with the `comptable` account succeeds. Trying with the `secretaire` account (not in the allowed group) fails — which is exactly what the policy should do.
 
-<img src="/assets/images/active-directory/ad-manuel-147.png" alt="VPN connection configured on Windows 10 client" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-147.png" alt="VPN connection configured on Windows 10 client" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/active-directory/ad-manuel-159.png" alt="VPN connection established with domain account" style="border-radius: 10px; width: 80%;" />
+<img src="/assets/images/active-directory/ad-manuel-159.png" alt="VPN connection established with domain account" style="border-radius: 10px; width: 65%;" />
 
 ---
 

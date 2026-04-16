@@ -24,7 +24,7 @@ That day, I won **two awards simultaneously**.
 
 > *Recognizes the initiative with the greatest campus impact.*
 
-<img src="/assets/images/campus-awards/campus-award-impact-check.jpg" alt="Impact Campus Trophy ceremony with 50,000 FCFA check" style="border-radius: 10px; width: 80%; display: block; margin: 0 auto;" />
+<img src="/assets/images/campus-awards/campus-award-impact-check.jpg" alt="Impact Campus Trophy ceremony with 50,000 FCFA check" style="border-radius: 10px; width: 65%;" />
 
 *Receiving the Impact Campus Trophy alongside a 50,000 FCFA prize from CORIS Bank.*
 
@@ -40,7 +40,7 @@ Awarded for organizing the **IPNET Cyber Battle**, the first CTF competition eve
 
 > *Honors exceptional leadership and innovation on campus.*
 
-<img src="/assets/images/campus-awards/campus-award-innovative.jpg" alt="Most Innovative Student award ceremony" style="border-radius: 10px; width: 80%; display: block; margin: 0 auto;" />
+<img src="/assets/images/campus-awards/campus-award-innovative.jpg" alt="Most Innovative Student award ceremony" style="border-radius: 10px; width: 65%;" />
 
 *Receiving the Most Innovative Student Award.*
 

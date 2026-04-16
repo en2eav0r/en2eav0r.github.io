@@ -18,7 +18,7 @@ I played as **en2eavor**.
 
 Three web steps. Each one gives a token fragment; combine them to get the flag.
 
-<img src="/assets/images/zerodays-ctf/tuffpigeon-challenge.png" alt="Tuff Pigeon challenge overview" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/zerodays-ctf/tuffpigeon-challenge.png" alt="Tuff Pigeon challenge overview" style="border-radius: 10px; width: 65%;" />
 
 **Step 1: IDOR.** The URL passes `?user=guest`. Swap it to `admin`:
 
@@ -38,11 +38,11 @@ https://tuffpigeon.zerodays.events/step1.php?user=admin
 https://tuffpigeon.zerodays.events/step3.php?file=../../../../../../../../opt/challenge/step3_token.txt
 ```
 
-<img src="/assets/images/zerodays-ctf/tuffpigeon-pathtraversal.png" alt="Path traversal result" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/zerodays-ctf/tuffpigeon-pathtraversal.png" alt="Path traversal result" style="border-radius: 10px; width: 65%;" />
 
 Submit all three parts:
 
-<img src="/assets/images/zerodays-ctf/tuffpigeon-submit.png" alt="Token submission" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/zerodays-ctf/tuffpigeon-submit.png" alt="Token submission" style="border-radius: 10px; width: 65%;" />
 
 ---
 
@@ -87,11 +87,11 @@ https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,fal
 
 PCAP file. Open in Wireshark, follow the stream. The traffic shows someone downloading a file called `baby.gif` over FTP.
 
-<img src="/assets/images/zerodays-ctf/sharkattack-pcap-stream.png" alt="Following the FTP stream in Wireshark" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/zerodays-ctf/sharkattack-pcap-stream.png" alt="Following the FTP stream in Wireshark" style="border-radius: 10px; width: 65%;" />
 
 Export it via **File → Export Objects → FTP-DATA**:
 
-<img src="/assets/images/zerodays-ctf/sharkattack-export-ftpdata.png" alt="Exporting FTP data objects" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/zerodays-ctf/sharkattack-export-ftpdata.png" alt="Exporting FTP data objects" style="border-radius: 10px; width: 65%;" />
 
 The flag is on the image.
 
@@ -145,7 +145,7 @@ jpeg_data = b'\xff\xd8' + data[0x14:]
 open('fixed.jpg', 'wb').write(jpeg_data)
 ```
 
-<img src="/assets/images/zerodays-ctf/trolling-fixed.png" alt="Repaired JPEG with the flag" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/zerodays-ctf/trolling-fixed.png" alt="Repaired JPEG with the flag" style="border-radius: 10px; width: 65%;" />
 
 Flag's on the image.
 
@@ -201,19 +201,19 @@ ZeroDays{c0ngratz_y0u_ar3_n0t_a_pwN_sK1d}
 
 PCAP file. Following UDP and TCP streams turns up a DNS TXT record with something that looks like a flag. Doesn't work. Troll flag.
 
-<img src="/assets/images/zerodays-ctf/proglovver-dns-troll.png" alt="DNS TXT troll flag" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/zerodays-ctf/proglovver-dns-troll.png" alt="DNS TXT troll flag" style="border-radius: 10px; width: 65%;" />
 
 Dig further and there's suspicious traffic on port 1337:
 
-<img src="/assets/images/zerodays-ctf/proglovver-port1337.png" alt="Suspicious packets on port 1337" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/zerodays-ctf/proglovver-port1337.png" alt="Suspicious packets on port 1337" style="border-radius: 10px; width: 65%;" />
 
 Each stream carries a piece of the real flag:
 
-<img src="/assets/images/zerodays-ctf/proglovver-stream1.png" alt="Stream 1" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/zerodays-ctf/proglovver-stream1.png" alt="Stream 1" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/zerodays-ctf/proglovver-stream2.png" alt="Stream 2" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/zerodays-ctf/proglovver-stream2.png" alt="Stream 2" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/zerodays-ctf/proglovver-stream3.png" alt="Stream 3" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/zerodays-ctf/proglovver-stream3.png" alt="Stream 3" style="border-radius: 10px; width: 65%;" />
 
 Piece them together manually:
 
@@ -272,6 +272,6 @@ print(hex_str)
 
 Drop the result into CyberChef (From Hex):
 
-<img src="/assets/images/zerodays-ctf/schizosteg-cyberchef.png" alt="CyberChef hex decode" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/zerodays-ctf/schizosteg-cyberchef.png" alt="CyberChef hex decode" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/zerodays-ctf/schizosteg-flag.png" alt="Schizo Steg flag" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/zerodays-ctf/schizosteg-flag.png" alt="Schizo Steg flag" style="border-radius: 10px; width: 65%;" />

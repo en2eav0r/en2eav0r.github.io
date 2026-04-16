@@ -8,7 +8,7 @@ image:
   alt: Gophish dashboard
 ---
 
-<img src="/assets/images/gophish/gophish-logo.png" alt="Gophish logo" style="border-radius: 10px; width: 40%; display: block; margin: 0 auto;" />
+<img src="/assets/images/gophish/gophish-logo.png" alt="Gophish logo" style="border-radius: 10px; width: 35%;" />
 
 Gophish is an open-source platform for running phishing simulations. You send realistic phishing emails to a defined set of targets, track who opens them, who clicks the link, and who submits credentials, then use that data to work on security awareness inside an organization.
 
@@ -32,15 +32,15 @@ The target is **Jean LOU**, a financial analyst with access to sensitive data. T
 
 [https://github.com/gophish/gophish/releases](https://github.com/gophish/gophish/releases)
 
-<img src="/assets/images/gophish/gophish-download.png" alt="Gophish GitHub releases page" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/gophish-download.png" alt="Gophish GitHub releases page" style="border-radius: 10px; width: 65%;" />
 
 **Extract the archive:**
 
-<img src="/assets/images/gophish/gophish-extract.png" alt="Extracting the Gophish archive" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/gophish-extract.png" alt="Extracting the Gophish archive" style="border-radius: 10px; width: 65%;" />
 
 **Launch from the command prompt.** The console prints your admin credentials and the local dashboard URL. Write them down before doing anything else.
 
-<img src="/assets/images/gophish/gophish-console.png" alt="Gophish console showing credentials and URL" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/gophish-console.png" alt="Gophish console showing credentials and URL" style="border-radius: 10px; width: 65%;" />
 
 ---
 
@@ -48,9 +48,9 @@ The target is **Jean LOU**, a financial analyst with access to sensitive data. T
 
 Open the URL from the console and log in with the credentials shown there. First login forces a password change.
 
-<img src="/assets/images/gophish/gophish-login.png" alt="Gophish login page" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/gophish-login.png" alt="Gophish login page" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/gophish/gophish-interface.png" alt="Gophish main interface" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/gophish-interface.png" alt="Gophish main interface" style="border-radius: 10px; width: 65%;" />
 
 The interface has five sections:
 
@@ -72,9 +72,9 @@ The interface has five sections:
 
 Go to **Users & Groups** and click **New Group**.
 
-<img src="/assets/images/gophish/users-groups-section.png" alt="Users and Groups section" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/users-groups-section.png" alt="Users and Groups section" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/gophish/new-group-form.png" alt="New group form" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/new-group-form.png" alt="New group form" style="border-radius: 10px; width: 65%;" />
 
 Follow these steps:
 
@@ -93,9 +93,9 @@ Follow these steps:
 
 Go to **Email Templates** and click **New Template**.
 
-<img src="/assets/images/gophish/email-templates-section.png" alt="Email Templates section" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/email-templates-section.png" alt="Email Templates section" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/gophish/new-template-form.png" alt="New Template form" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/new-template-form.png" alt="New Template form" style="border-radius: 10px; width: 65%;" />
 
 For this campaign, the email impersonates Facebook and tells the target to reset their password. The more believable the email, the more likely the target clicks.
 
@@ -108,15 +108,15 @@ The form fields:
 
 Make sure the call-to-action link uses `{{.URL}}`. Gophish substitutes this with the real landing page URL when the campaign runs.
 
-<img src="/assets/images/gophish/url-placeholder.png" alt="URL placeholder in template" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/url-placeholder.png" alt="URL placeholder in template" style="border-radius: 10px; width: 65%;" />
 
 Click **Source** to preview the raw HTML:
 
-<img src="/assets/images/gophish/source-preview.png" alt="HTML source preview" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/source-preview.png" alt="HTML source preview" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/gophish/html-preview.png" alt="HTML rendered preview" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/html-preview.png" alt="HTML rendered preview" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/gophish/email-preview.png" alt="Email preview" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/email-preview.png" alt="Email preview" style="border-radius: 10px; width: 65%;" />
 
 Click **Save Template**.
 
@@ -128,9 +128,9 @@ The landing page is the phishing page: where the target arrives after clicking a
 
 Go to **Landing Pages** and click **New Page**.
 
-<img src="/assets/images/gophish/landing-pages-section.png" alt="Landing Pages section" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/landing-pages-section.png" alt="Landing Pages section" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/gophish/new-landing-page-form.png" alt="New landing page form" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/new-landing-page-form.png" alt="New landing page form" style="border-radius: 10px; width: 65%;" />
 
 Configuration steps:
 
@@ -141,11 +141,11 @@ Configuration steps:
 
 Preview with the **Source** tab:
 
-<img src="/assets/images/gophish/source-preview.png" alt="Landing page source preview" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/source-preview.png" alt="Landing page source preview" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/gophish/landing-page-preview.png" alt="Landing page rendered preview" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/landing-page-preview.png" alt="Landing page rendered preview" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/gophish/landing-page-view.png" alt="Final landing page view" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/landing-page-view.png" alt="Final landing page view" style="border-radius: 10px; width: 65%;" />
 
 Click **Save Page**.
 
@@ -157,11 +157,11 @@ A sending profile is the SMTP configuration Gophish uses to deliver emails.
 
 Go to **Sending Profiles**.
 
-<img src="/assets/images/gophish/sending-profiles-section.png" alt="Sending Profiles section" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/sending-profiles-section.png" alt="Sending Profiles section" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/gophish/smtp-config.png" alt="SMTP configuration form" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/smtp-config.png" alt="SMTP configuration form" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/gophish/smtp-config-2.png" alt="SMTP configuration details" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/smtp-config-2.png" alt="SMTP configuration details" style="border-radius: 10px; width: 65%;" />
 
 The fields to fill in:
 
@@ -173,13 +173,13 @@ The fields to fill in:
 
 Before saving, test the configuration. Enter a valid email address and send a test message:
 
-<img src="/assets/images/gophish/test-email-send.png" alt="Test email field" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/test-email-send.png" alt="Test email field" style="border-radius: 10px; width: 65%;" />
 
 If the configuration is correct, a confirmation message appears:
 
-<img src="/assets/images/gophish/test-email-success.png" alt="Test email success message" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/test-email-success.png" alt="Test email success message" style="border-radius: 10px; width: 65%;" />
 
-<img src="/assets/images/gophish/sending-profile-saved.png" alt="Sending profile overview" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/sending-profile-saved.png" alt="Sending profile overview" style="border-radius: 10px; width: 65%;" />
 
 Click **Save Profile**.
 
@@ -189,7 +189,7 @@ Click **Save Profile**.
 
 Go to **Campaigns** and create a new one.
 
-<img src="/assets/images/gophish/campaign-creation.png" alt="Campaign creation form" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/campaign-creation.png" alt="Campaign creation form" style="border-radius: 10px; width: 65%;" />
 
 Six fields to fill in:
 
@@ -200,7 +200,7 @@ Six fields to fill in:
 5. Sending profile
 6. Target group (containing Jean LOU)
 
-<img src="/assets/images/gophish/campaign-launch.png" alt="Campaign launch button" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/campaign-launch.png" alt="Campaign launch button" style="border-radius: 10px; width: 65%;" />
 
 Click **Launch Campaign**.
 
@@ -208,11 +208,11 @@ Click **Launch Campaign**.
 
 ## Results
 
-<img src="/assets/images/gophish/campaign-overview.png" alt="Campaign live overview" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/campaign-overview.png" alt="Campaign live overview" style="border-radius: 10px; width: 65%;" />
 
 After launching, Gophish tracks activity in real time. A few moments later, the dashboard updates:
 
-<img src="/assets/images/gophish/campaign-results.png" alt="Campaign results summary" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/campaign-results.png" alt="Campaign results summary" style="border-radius: 10px; width: 65%;" />
 
 - **Email Sent:** one phishing email delivered to the target
 - **Email Opened:** the target opened the email (tracking pixel worked)
@@ -221,7 +221,7 @@ After launching, Gophish tracks activity in real time. A few moments later, the 
 
 The detailed view shows exactly what Jean LOU entered:
 
-<img src="/assets/images/gophish/captured-credentials.png" alt="Captured credentials from the phishing page" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/gophish/captured-credentials.png" alt="Captured credentials from the phishing page" style="border-radius: 10px; width: 65%;" />
 
 His Facebook credentials were captured. The simulation worked end to end.
 

@@ -27,7 +27,7 @@ For this one I played with **Redteam TG**, which brings together some of the str
 | Pre-qualification | **1st place** |
 | Final | **3rd place** |
 
-<img src="/assets/images/fcc-ctf/fcc-prequal-scoreboard.jpg" alt="FCC CTF 2023 pre-qualification scoreboard: RedTeam-TG 1st" style="border-radius: 10px; width: 80%; display: block; margin: 0 auto;" />
+<img src="/assets/images/fcc-ctf/fcc-prequal-scoreboard.jpg" alt="FCC CTF 2023 pre-qualification scoreboard: RedTeam-TG 1st" style="border-radius: 10px; width: 65%;" />
 
 *The pre-qualification scoreboard. RedTeam-TG finished 1st with 2412 points, tied at the top with three other teams. The tie held through the pre-qual; we separated in the final.*
 
