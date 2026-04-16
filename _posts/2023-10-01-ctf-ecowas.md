@@ -1,7 +1,7 @@
 ---
 title: "ECOWAS Hackathon 2022: 2nd in Togo, 76th in Africa"
 date: 2022-10-01 00:00:00 +0000
-categories: [Achievements, CTF]
+categories: [Achievements, CTF Competitions]
 tags: [ctf, ecowas, hackathon, competition, international, togo, second-place]
 image:
   path: /assets/images/ecowas/ecowas-2nd-place-poster.jpg

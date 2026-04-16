@@ -1,7 +1,7 @@
 ---
 title: "Togo National CTF 2024: 1st Place"
 date: 2024-11-27 00:00:00 +0000
-categories: [Achievements, CTF]
+categories: [Achievements, CTF Competitions]
 tags: [ctf, competition, togo, national, first-place]
 image:
   path: /assets/images/wu-national-ctf/ctf-national-congrats-poster.jpg

@@ -1,7 +1,7 @@
 ---
 title: "CTF National Togo 2024: Writeup, 1st Place"
 date: 2024-11-27 00:00:00 +0000
-categories: [Writeups, CTF National Togo]
+categories: [Writeups, CTF]
 tags: [pwn, crypto, buffer-overflow, rsa, rop, aslr, pwntools, togo, first-place, first-blood]
 image:
   path: /assets/images/wu-national-ctf/ctf-national-scoreboard-official.jpg

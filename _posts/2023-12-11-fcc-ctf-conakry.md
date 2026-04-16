@@ -1,7 +1,7 @@
 ---
 title: "FCC Forum CTF 2023: 1st Pre-qual, 3rd at the Final"
 date: 2023-12-11 00:00:00 +0000
-categories: [Achievements, CTF]
+categories: [Achievements, CTF Competitions]
 tags: [ctf, fcc, guinea, conakry, redteam, anssi, competition, international]
 image:
   path: /assets/images/fcc-ctf/fcc-prequal-scoreboard.jpg
