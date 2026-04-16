@@ -25,9 +25,9 @@ The jury scores on technical depth, clarity, relevance, and how you hold up unde
 
 In **September 2023**, my team finished **1st place in the Networks, Systems & Cybersecurity category**.
 
-<img src="/assets/images/jpope/jpope-prize-1.jpg" alt="JPOPE 2023 prize ceremony: 1st place Networks & Cybersecurity" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/jpope/jpope-prize-1.jpg" alt="JPOPE 2023 prize ceremony: 1st place Networks & Cybersecurity" style="border-radius: 10px; width: 80%; display: block; margin: 0 auto;" />
 
-<img src="/assets/images/jpope/jpope-prize-2.jpg" alt="JPOPE 2023 prize ceremony: team with check" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/jpope/jpope-prize-2.jpg" alt="JPOPE 2023 prize ceremony: team with check" style="border-radius: 10px; width: 80%; display: block; margin: 0 auto;" />
 
 *Receiving the 1st place prize at JPOPE 2023.*
 

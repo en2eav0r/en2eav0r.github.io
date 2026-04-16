@@ -16,7 +16,7 @@ image:
 
 The goal was to build something that works, using open-source tools, that can be deployed and operated without a massive budget.
 
-<img src="/assets/images/apast/apast-tools-overview.png" alt="APAST tool stack: Suricata + Winlogbeat → ELK → Telegram" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/apast/apast-tools-overview.png" alt="APAST tool stack: Suricata + Winlogbeat → ELK → Telegram" style="border-radius: 10px; width: 80%; display: block; margin: 0 auto;" />
 
 ---
 
@@ -37,7 +37,7 @@ Everything except the physical hardware is open-source and free.
 
 ## Architecture
 
-<img src="/assets/images/apast/apast-architecture.png" alt="APAST network architecture diagram" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/apast/apast-architecture.png" alt="APAST network architecture diagram" style="border-radius: 10px; width: 80%; display: block; margin: 0 auto;" />
 
 The network is segmented into three VLANs:
 
@@ -61,11 +61,11 @@ A **TAP (Test Access Point)** sits between the internal network and the router, 
 
 Once deployed, the Kibana interface gives a live view of everything happening on the network.
 
-<img src="/assets/images/apast/apast-dashboard-suricata.png" alt="Suricata events dashboard in Kibana" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/apast/apast-dashboard-suricata.png" alt="Suricata events dashboard in Kibana" style="border-radius: 10px; width: 80%; display: block; margin: 0 auto;" />
 
 The Suricata events overview shows total event count, protocol distribution over time, and top hosts generating traffic. All logs are stored with full metadata: source/destination IPs, protocols, hostnames, timestamps.
 
-<img src="/assets/images/apast/apast-kibana-geoip.png" alt="Kibana dashboard with GeoIP source tracing" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/apast/apast-kibana-geoip.png" alt="Kibana dashboard with GeoIP source tracing" style="border-radius: 10px; width: 80%; display: block; margin: 0 auto;" />
 
 The "Attack Source Tracing" part of APAST: every IP detected in an attack is geolocated via Google Cloud and plotted on an interactive world map. This makes it easy to identify attack origins at a glance and build context around incidents.
 
@@ -83,15 +83,15 @@ Three attack scenarios were run to validate the system.
 
 Custom Suricata rule written to detect the pattern:
 
-<img src="/assets/images/apast/apast-dos-rule.png" alt="Suricata DoS detection rule" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/apast/apast-dos-rule.png" alt="Suricata DoS detection rule" style="border-radius: 10px; width: 80%; display: block; margin: 0 auto;" />
 
 The attack was launched:
 
-<img src="/assets/images/apast/apast-dos-attack.png" alt="hping3 DoS attack from Kali Linux" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/apast/apast-dos-attack.png" alt="hping3 DoS attack from Kali Linux" style="border-radius: 10px; width: 80%; display: block; margin: 0 auto;" />
 
 Suricata caught it immediately. The log entry shows the exact timestamp of detection, matching the moment the attack started:
 
-<img src="/assets/images/apast/apast-dos-detection.png" alt="Suricata detection log: DoS attack" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/apast/apast-dos-detection.png" alt="Suricata detection log: DoS attack" style="border-radius: 10px; width: 80%; display: block; margin: 0 auto;" />
 
 The Telegram bot fired within seconds:
 
@@ -107,7 +107,7 @@ Detection, logging, and notification: all three objectives cleared.
 
 Custom Suricata rule for the pattern (5 SYN packets to port 22 from the same source within 60 seconds):
 
-<img src="/assets/images/apast/apast-ssh-rule.png" alt="Suricata SSH brute force rule" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/apast/apast-ssh-rule.png" alt="Suricata SSH brute force rule" style="border-radius: 10px; width: 80%; display: block; margin: 0 auto;" />
 
 Same result: detected, logged, alert sent:
 

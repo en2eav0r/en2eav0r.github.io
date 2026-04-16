@@ -16,7 +16,7 @@ The **ECOWAS Hackathon** is a cybersecurity hacking competition organized by the
 
 ## The result
 
-<img src="/assets/images/ecowas/ecowas-2nd-place-poster.jpg" alt="IPNET official ECOWAS Hackathon 2022 poster" style="border-radius: 10px; width: 100%;" />
+<img src="/assets/images/ecowas/ecowas-2nd-place-poster.jpg" alt="IPNET official ECOWAS Hackathon 2022 poster" style="border-radius: 10px; width: 80%; display: block; margin: 0 auto;" />
 
 A team of four second-year Licence Cybersecurity students from IPNET:
 
