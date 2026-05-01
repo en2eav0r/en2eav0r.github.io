@@ -3,6 +3,7 @@ title: "IPNET Cyber Battle: Togo's First University-Organized CTF"
 date: 2025-07-19 00:00:00 +0000
 categories: [Achievements, Academic]
 tags: [ctf, cybersecurity, togo, ipnet, organization, first]
+pin: true
 image:
   path: /assets/images/cyberbattle-group.jpg
   alt: IPNET Cyber Battle 2025 participants
