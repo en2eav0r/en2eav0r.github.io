@@ -10,7 +10,7 @@ image:
 
 The ECOWAS Regional Hackathon is not a student event or a local warmup. It is the official cybersecurity competition of the Economic Community of West African States, organized to identify the most technically capable teams across 15 member nations: Benin, Burkina Faso, Cape Verde, Côte d'Ivoire, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, and Togo. The winner of each country qualifies to represent their nation at the grand final, with all travel, accommodation, and meals covered by ECOWAS. This year, Ghana hosts the final.
 
-We entered as **RedTeam-TG**: en2eav0r, sibisaba, aaron_meta, and ding liren.
+I competed as a member of **RedTeam-TG**.
 
 The national qualifiers ran from April 1 to May 1, 2026, across three successive elimination phases. We finished first in Togo at every single one.
 
@@ -44,7 +44,7 @@ The top 5 teams per country advance to Phase 2. We went through in first.
 
 ## Phase 2: King of the Hill (April 25, 2026)
 
-**24 participants. 3 Togolese teams. We placed 1st again.**
+**24 participants. 6 teams. We placed 1st again.**
 
 King of the Hill is a different kind of competition. There are no flags sitting on a server waiting to be retrieved. The objective is to gain root access to a shared machine and write your team name into `/root/team.txt`. As long as your name is in that file, you accumulate points. Every time the machine resets, the race starts over.
 
@@ -96,7 +96,7 @@ RedTeam-TG qualified for the ECOWAS Grand Final in Ghana. ECOWAS covers the trav
 
 I want to be honest about what this took. The jeopardy phase demanded breadth: we had to be competent across cryptography, forensics, web, binary exploitation, steganography, OSINT, and mobile in the same sitting. The KOTH required automation and real-time decision-making, not just exploitation skill. The Boot2Root phase rewarded whoever was fastest and cleanest. Three completely different skill demands, back to back. That is not a format you pass by luck.
 
-Huge respect to sibisaba, aaron_meta, and ding liren. This was a team result at every phase.
+Huge respect to all of the team members. This was a team result at every phase.
 
 To the Togolese teams who pushed hard in Phase 1 (Government, FireTeam, L3arn3rs, Root Access TG): the level was serious. That competition is what made this qualification feel real.
 
