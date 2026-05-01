@@ -4,8 +4,8 @@ date: 2026-05-01 00:00:00 +0000
 categories: [Achievements, CTF Competitions]
 tags: [ecowas, ctf, jeopardy, koth, boot2root, redteam-tg, togo, west-africa, cybersecurity]
 image:
-  path: /assets/images/ecowas-2026/ecowas-p1-global-leaderboard.png
-  alt: RedTeam-TG — 1st place globally out of 1035 registered participants
+  path: /assets/images/ecowas-2026/ecowas-cover.png
+  alt: ECOWAS Regional Hackathon 2026 — RedTeam-TG
 ---
 
 The ECOWAS Regional Hackathon is not a student event or a local warmup. It is the official cybersecurity competition of the Economic Community of West African States, organized to identify the most technically capable teams across 15 member nations: Benin, Burkina Faso, Cape Verde, Côte d'Ivoire, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, and Togo. The winner of each country qualifies to represent their nation at the grand final, with all travel, accommodation, and meals covered by ECOWAS. This year, Ghana hosts the final.
