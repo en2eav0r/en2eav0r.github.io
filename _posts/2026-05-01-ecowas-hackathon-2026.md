@@ -5,40 +5,40 @@ categories: [Achievements, CTF Competitions]
 tags: [ecowas, ctf, jeopardy, koth, boot2root, redteam-tg, togo, west-africa, cybersecurity]
 image:
   path: /assets/images/ecowas-2026/ecowas-cover.png
-  alt: ECOWAS Regional Hackathon 2026 — RedTeam-TG
+  alt: Official logo of the 2026 ECOWAS Regional Hackathon
 ---
 
-The ECOWAS Regional Hackathon is not a student event or a local warmup. It is the official cybersecurity competition of the Economic Community of West African States, organized to identify the most technically capable teams across 15 member nations: Benin, Burkina Faso, Cape Verde, Côte d'Ivoire, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, and Togo. The winner of each country qualifies to represent their nation at the grand final, with all travel, accommodation, and meals covered by ECOWAS. This year, Ghana hosts the final.
+The ECOWAS Regional Hackathon is the official cybersecurity competition of the Economic Community of West African States, built around one goal: finding the strongest teams across 15 member nations. Benin, Burkina Faso, Cape Verde, Côte d'Ivoire, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, and Togo each run their own national qualifier. The team that finishes first in their country earns a spot at the continental grand final, with all travel, accommodation, and meals covered by ECOWAS. The 2026 final is in Ghana.
 
 I competed as a member of **RedTeam-TG**.
 
-The national qualifiers ran from April 1 to May 1, 2026, across three successive elimination phases. We finished first in Togo at every single one.
+The national qualifiers ran from April 1 to May 1, 2026, across three elimination phases. We finished first in Togo at every single one.
 
 ---
 
 ## Phase 1: Jeopardy (April 1 - May 1, 2026)
 
-**1035 registered. 317 teams competing. We placed 1st globally.**
+**1,035 registered participants. 317 teams competing. We placed 1st across all of West Africa.**
 
-The first phase was a classic Jeopardy CTF, open to all ECOWAS countries simultaneously. 1035 participants registered, forming 317 teams from across West Africa. Every country was competing against every other country on the same leaderboard.
+The first phase was a Jeopardy-style CTF, open to all ECOWAS countries at the same time on a shared global leaderboard. 1,035 participants signed up, split into 317 teams. Every country competed against every other country. There was no separate bracket for Togo — we were ranked alongside every team on the continent from the start.
 
-<img src="/assets/images/ecowas-2026/ecowas-registered.png" alt="1035 registered for the ECOWAS Hackathon 2026" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/ecowas-2026/ecowas-registered.png" alt="The ECOWAS Hackathon 2026 platform showing 1,035 registered participants across all member states" style="border-radius: 10px; width: 65%;" />
 
-The challenge set covered 13 categories: Crypto, Discord, Forensics, Misc, Mobile, Network Forensics, OSINT, Pwn, Reverse Engineering, Steganography, and Web. We solved every single challenge in every single category, reaching 100% completion across the board.
+The challenge set spanned 13 categories: Crypto, Discord, Forensics, Misc, Mobile, Network Forensics, OSINT, Pwn, Reverse Engineering, Steganography, and Web. We solved all of them.
 
-<img src="/assets/images/ecowas-2026/ecowas-p1-challenges.png" alt="All categories solved at 100%" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/ecowas-2026/ecowas-p1-challenges.png" alt="Challenge board showing all 13 categories completed at 100%" style="border-radius: 10px; width: 65%;" />
 
-Final score: **14,150 pts**. On the global leaderboard, covering all 317 teams from every country in West Africa, RedTeam-TG placed **1st**. First place, continent-wide, out of 1,035 registered competitors.
+Final score: **14,150 pts**. On the global leaderboard, RedTeam-TG placed **1st** — ahead of all 317 teams from every ECOWAS country, out of 1,035 registered competitors.
 
-<img src="/assets/images/ecowas-2026/ecowas-p1-global-leaderboard.png" alt="Global leaderboard — RedTeam-TG #1 out of 1035 registered" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/ecowas-2026/ecowas-p1-global-leaderboard.png" alt="Global leaderboard for Phase 1: RedTeam-TG ranked 1st out of 317 teams and 1,035 registered participants across West Africa" style="border-radius: 10px; width: 65%;" />
 
-On the Togo-only country leaderboard (49 teams), we also took first place, ahead of Government and FireTeam who finished tied with us on points but behind on solve time.
+On the Togo country leaderboard (49 teams), we also took first place. Government and FireTeam tied on points but finished behind us on solve time.
 
-<img src="/assets/images/ecowas-2026/ecowas-p1-country-top3.png" alt="Country leaderboard — RedTeam-TG #1 in Togo out of 49 teams" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/ecowas-2026/ecowas-p1-country-top3.png" alt="Togo country leaderboard for Phase 1: RedTeam-TG in 1st place out of 49 Togolese teams" style="border-radius: 10px; width: 65%;" />
 
 The top 5 teams per country advance to Phase 2. We went through in first.
 
-<img src="/assets/images/ecowas-2026/ecowas-p1-top5-togo.png" alt="Top 5 qualified for Phase 2 in Togo" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/ecowas-2026/ecowas-p1-top5-togo.png" alt="Top 5 Togolese teams qualified for Phase 2, with RedTeam-TG leading the standings" style="border-radius: 10px; width: 65%;" />
 
 ---
 
@@ -46,25 +46,25 @@ The top 5 teams per country advance to Phase 2. We went through in first.
 
 **24 participants. 6 teams. We placed 1st again.**
 
-King of the Hill is a different kind of competition. There are no flags sitting on a server waiting to be retrieved. The objective is to gain root access to a shared machine and write your team name into `/root/team.txt`. As long as your name is in that file, you accumulate points. Every time the machine resets, the race starts over.
+King of the Hill works differently from a regular CTF. There are no flags to find and submit. Instead, you gain root access to a shared machine and write your team name into `/root/team.txt`. Every 30 seconds the platform polls the file and awards a point to whoever controls it at that moment. When the machine resets, the race starts over from scratch.
 
-<img src="/assets/images/ecowas-2026/ecowas-p2-koth.png" alt="Togo KOTH — Phase 2 overview" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/ecowas-2026/ecowas-p2-koth.png" alt="Togo KOTH challenge page showing the King of the Hill format for Phase 2, April 25, 2026" style="border-radius: 10px; width: 65%;" />
 
-The machine for this phase was `shambles.local`. Access via Wireguard VPN. The command to claim the machine:
+The target machine for this phase was `shambles.local`, connected via Wireguard VPN. Claiming it meant running:
 
 ```bash
 echo "RedTeam-TG" > /root/team.txt
 ```
 
-Simple to write, hard to hold. The platform polls every 30 seconds and awards a tick for each interval you control the machine. Resets happen on a fixed schedule, which means every reset is a race between teams to exploit the machine fastest and reclaim root. You need automated tooling: a script ready to fire the moment the reset completes, not a manual workflow.
+Simple command. Hard to keep. Each reset is a race — you need to re-exploit the machine and reclaim root before anyone else does. That requires pre-written, automated tooling. A manual approach loses too much time.
 
-<img src="/assets/images/ecowas-2026/ecowas-p2-koth-details.png" alt="KOTH machine details — target IP and tick structure" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/ecowas-2026/ecowas-p2-koth-details.png" alt="KOTH instance details: target IP 10.100.10.46, team.txt path, and tick scoring structure" style="border-radius: 10px; width: 65%;" />
 
-The other pressure is defensive: once you have the machine, you need to patch the vulnerability you just used. Other teams are running the same exploits. If you leave the entry point open, someone will use it to overwrite your name. You are attacking and defending simultaneously, on the same machine, against live opponents.
+There is a defensive layer too. Once you have the machine, you need to patch the vulnerability you just exploited — because every other team is running the same attacks. If you leave the entry point open, someone writes over your name and your tick goes to them. You are attacker and defender at the same time, on the same machine, against live opponents.
 
-We held the machine consistently. Final score for Togo KOTH: RedTeam-TG **2,400 pts**, Government **1,700 pts**, L3arn3rs **1,200 pts**.
+We held control consistently throughout. Final score for Togo KOTH: RedTeam-TG **2,400 pts**, Government **1,700 pts**, L3arn3rs **1,200 pts**.
 
-<img src="/assets/images/ecowas-2026/ecowas-p2-koth-leaderboard.png" alt="Togo KOTH leaderboard — RedTeam-TG #1 with 2400 pts" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/ecowas-2026/ecowas-p2-koth-leaderboard.png" alt="Togo KOTH country leaderboard: RedTeam-TG in 1st place with 2,400 points, ahead of Government at 1,700 and L3arn3rs at 1,200" style="border-radius: 10px; width: 65%;" />
 
 **1st in Togo.** The top 2 teams advance to Phase 3. We qualified in first.
 
@@ -72,15 +72,15 @@ We held the machine consistently. Final score for Togo KOTH: RedTeam-TG **2,400 
 
 ## Phase 3: Battleground (April 30, 2026)
 
-**8 participants. 2 Togolese teams. We placed 1st. Only we scored.**
+**8 participants. 2 Togolese teams. We placed 1st. We were the only team to score.**
 
-The final phase of the national qualifier was a Boot2Root: one machine, two flags, find `user.txt` then `root.txt` as fast as possible. No time for reconnaissance theatre. This format rewards teams that can move methodically, escalate privileges clean, and not get stuck.
+The final phase was a Boot2Root: one machine, two flags, find `user.txt` then `root.txt` as fast as possible. Speed and precision both matter. You cannot afford to get stuck, and you cannot afford to rush into rabbit holes.
 
-<img src="/assets/images/ecowas-2026/ecowas-p3-battleground.png" alt="Togo BattleGround — Phase 3 overview" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/ecowas-2026/ecowas-p3-battleground.png" alt="Togo BattleGround challenge page showing the Boot2Root format for Phase 3, April 30, 2026" style="border-radius: 10px; width: 65%;" />
 
-The challenge was called **SeaFish**, worth 500 points. We solved it. The second team, Government, did not score at all.
+The machine was named **SeaFish**, worth 500 points. We solved it. The other qualified team, Government, did not score.
 
-<img src="/assets/images/ecowas-2026/ecowas-p3-battleground-leaderboard.png" alt="BattleGround leaderboard — RedTeam-TG #1 with 500 pts, only team to score" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/ecowas-2026/ecowas-p3-battleground-leaderboard.png" alt="Togo BattleGround final leaderboard: RedTeam-TG in 1st with 500 points, the only team to complete the Boot2Root challenge" style="border-radius: 10px; width: 65%;" />
 
 Final leaderboard: RedTeam-TG **500 pts**, Government **0 pts**.
 
@@ -90,14 +90,14 @@ Final leaderboard: RedTeam-TG **500 pts**, Government **0 pts**.
 
 ## The result
 
-Three phases. Three different formats. Three first-place finishes in Togo. Phase 1: first across all of West Africa, out of 1,035 registered participants.
+Three phases, three formats, three first-place finishes in Togo. And in Phase 1, first place across the entire continent — out of 1,035 registered participants from every ECOWAS country.
 
-RedTeam-TG qualified for the ECOWAS Grand Final in Ghana. ECOWAS covers the travel, accommodation, and meals.
+RedTeam-TG qualified for the ECOWAS Grand Final in Ghana. ECOWAS covers the travel, accommodation, and meals for the national representatives.
 
-I want to be honest about what this took. The jeopardy phase demanded breadth: we had to be competent across cryptography, forensics, web, binary exploitation, steganography, OSINT, and mobile in the same sitting. The KOTH required automation and real-time decision-making, not just exploitation skill. The Boot2Root phase rewarded whoever was fastest and cleanest. Three completely different skill demands, back to back. That is not a format you pass by luck.
+I want to be honest about what this required. The Jeopardy phase tested breadth: you had to hold your own in cryptography, web exploitation, forensics, binary exploitation, steganography, OSINT, and mobile security all at once. The KOTH tested something else entirely — automation, speed, and the ability to switch between attacking and defending mid-session. The Boot2Root tested pure methodology under pressure. None of these formats overlap much. Doing well in all three in a single qualifier is not a matter of knowing one thing deeply, it is a matter of knowing many things well enough to apply them fast.
 
 Huge respect to all of the team members. This was a team result at every phase.
 
-To the Togolese teams who pushed hard in Phase 1 (Government, FireTeam, L3arn3rs, Root Access TG): the level was serious. That competition is what made this qualification feel real.
+To the Togolese teams who pushed in Phase 1 (Government, FireTeam, L3arn3rs, Root Access TG): the competition was real. That pressure is part of what made this qualification meaningful.
 
 See you in Ghana.
