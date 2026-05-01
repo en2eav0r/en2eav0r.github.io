@@ -4,8 +4,8 @@ date: 2025-09-22 00:00:00 +0000
 categories: [Achievements, Academic]
 tags: [award, ipnet, campus, innovation, leadership]
 image:
-  path: /assets/images/campus-awards/campus-award-impact-check.jpg
-  alt: Impact Campus Trophy ceremony, JPOPE 2025
+  path: /assets/images/campus-awards/campus-award-innovative-cover.jpg
+  alt: Receiving the Most Innovative Student Award, JPOPE 2025
 ---
 
 > *Impact Campus Trophy & Most Innovative Student Award: IPNET Open House Day, September 22, 2025.*

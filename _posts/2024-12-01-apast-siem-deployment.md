@@ -4,7 +4,7 @@ date: 2024-12-01 00:00:00 +0000
 categories: [Projects]
 tags: [siem, suricata, elk, kibana, elasticsearch, winlogbeat, ids, ips, telegram, security, togo]
 image:
-  path: /assets/images/apast/apast-architecture.png
+  path: /assets/images/apast/apast-architecture-cover.jpg
   alt: APAST network architecture
 ---
 

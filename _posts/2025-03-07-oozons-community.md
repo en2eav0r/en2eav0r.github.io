@@ -4,7 +4,7 @@ date: 2025-03-07 00:00:00 +0000
 categories: [Achievements, Community]
 tags: [oozons, community, togo, education, digital, vice-president, hackathon]
 image:
-  path: /assets/images/oozons-epl-presentation.jpg
+  path: /assets/images/oozons-epl-presentation-cover.jpg
   alt: Phishing seminar at EPL, April 2025
 ---
 
