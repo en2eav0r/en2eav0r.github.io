@@ -145,8 +145,6 @@ int main() {
 
 I will leave it as an exercise: can you spot the vulnerability, name it, and patch it? If yes, you would have scored on that round. If not, you would have lost it.
 
-> Hint for the readers: the user input goes straight into the format string of `printf`. The fix is one character away.
-
 ### A peek at the standings
 
 Right before the Red vs Blue session, the admins gave us a rare look at the scoreboard.
