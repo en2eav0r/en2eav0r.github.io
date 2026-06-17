@@ -129,7 +129,7 @@ Two undeclared categories rotated through: **web** and **pwn**. In the team we h
 
 A handful of teams went before us. The vulns going around included SQL injection, XSS, buffer overflows, integer overflows, and more.
 
-When our turn came, the code looked roughly like this:
+When our turn came, here is an **illustrative example** in the same spirit as what we had to work with:
 
 ```c
 #include <stdio.h>
@@ -143,7 +143,7 @@ int main() {
 }
 ```
 
-I will leave it as an exercise: can you spot the vulnerability, name it, and patch it? If yes, you would have scored on that round. If not, you would have lost it.
+Just an example. Can you spot the vulnerability, name it, and patch it? If yes, you have the right reflex. That is what the round was rewarding.
 
 ### A peek at the standings
 
