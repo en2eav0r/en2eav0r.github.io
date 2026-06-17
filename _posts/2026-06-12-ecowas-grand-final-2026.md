@@ -226,3 +226,19 @@ To **Mrs. Folake Olagunju** and the ECOWAS Commission, and to the organizers in 
 To everyone in Togo who has been following the journey since the qualifiers: this one is for you.
 
 **Accra, June 2026. Bronze. First time on the ECOWAS Grand Final podium for Togo. We are not stopping here.**
+
+<style>
+img.emoji {
+  height: 1.1em;
+  width: auto;
+  margin: 0 .1em;
+  vertical-align: -0.2em;
+  display: inline-block;
+}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/@twemoji/api@latest/dist/twemoji.min.js" crossorigin="anonymous"></script>
+<script>
+  if (window.twemoji) {
+    twemoji.parse(document.body, { folder: 'svg', ext: '.svg' });
+  }
+</script>
