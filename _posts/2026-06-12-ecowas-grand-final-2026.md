@@ -53,18 +53,18 @@ Tuesday morning opened with a short ceremony before the competition kicked off. 
 
 | Country | Team |
 |---------|------|
-| 🇬🇭 Ghana | CYCLONE |
-| 🇬🇲 Gambia | GamHunters |
-| 🇨🇮 Côte d'Ivoire | Back2Root |
-| 🇸🇳 Senegal | Jambars |
-| 🇧🇯 Benin | Escadron |
-| 🇱🇷 Liberia | Lyberia Cybers Warriors |
-| 🇬🇼 Guinea-Bissau | Cyber_gw |
-| 🇳🇬 Nigeria | error |
-| 🇹🇬 Togo | **RedTeam-TG** |
-| 🇸🇱 Sierra Leone | Sudo-SL |
-| 🇨🇻 Cape Verde | CyberSharks |
-| 🇬🇳 Guinea | SilySec |
+| <img src="https://flagcdn.com/24x18/gh.png" alt="Ghana" style="vertical-align: middle;" /> Ghana | CYCLONE |
+| <img src="https://flagcdn.com/24x18/gm.png" alt="Gambia" style="vertical-align: middle;" /> Gambia | GamHunters |
+| <img src="https://flagcdn.com/24x18/ci.png" alt="Côte d'Ivoire" style="vertical-align: middle;" /> Côte d'Ivoire | Back2Root |
+| <img src="https://flagcdn.com/24x18/sn.png" alt="Senegal" style="vertical-align: middle;" /> Senegal | Jambars |
+| <img src="https://flagcdn.com/24x18/bj.png" alt="Benin" style="vertical-align: middle;" /> Benin | Escadron |
+| <img src="https://flagcdn.com/24x18/lr.png" alt="Liberia" style="vertical-align: middle;" /> Liberia | Lyberia Cybers Warriors |
+| <img src="https://flagcdn.com/24x18/gw.png" alt="Guinea-Bissau" style="vertical-align: middle;" /> Guinea-Bissau | Cyber_gw |
+| <img src="https://flagcdn.com/24x18/ng.png" alt="Nigeria" style="vertical-align: middle;" /> Nigeria | error |
+| <img src="https://flagcdn.com/24x18/tg.png" alt="Togo" style="vertical-align: middle;" /> **Togo** | **RedTeam-TG** |
+| <img src="https://flagcdn.com/24x18/sl.png" alt="Sierra Leone" style="vertical-align: middle;" /> Sierra Leone | Sudo-SL |
+| <img src="https://flagcdn.com/24x18/cv.png" alt="Cape Verde" style="vertical-align: middle;" /> Cape Verde | CyberSharks |
+| <img src="https://flagcdn.com/24x18/gn.png" alt="Guinea" style="vertical-align: middle;" /> Guinea | SilySec |
 
 <img src="/assets/images/ecowas-final/all-competitors.jpg" alt="Group photo of all 12 competing teams at the ECOWAS Hackathon 2026 Grand Final in Accra" style="border-radius: 10px; width: 65%;" />
 
@@ -203,9 +203,9 @@ Then the host said it: **the three remaining teams should stand and walk to the 
 
 | Rank | Country | Team |
 |------|---------|------|
-| 🥇 1st | 🇳🇬 Nigeria | error |
-| 🥈 2nd | 🇧🇯 Benin | Escadron |
-| 🥉 **3rd** | 🇹🇬 **Togo** | **RedTeam-TG** |
+| 🥇 1st | <img src="https://flagcdn.com/24x18/ng.png" alt="Nigeria" style="vertical-align: middle;" /> Nigeria | error |
+| 🥈 2nd | <img src="https://flagcdn.com/24x18/bj.png" alt="Benin" style="vertical-align: middle;" /> Benin | Escadron |
+| 🥉 **3rd** | <img src="https://flagcdn.com/24x18/tg.png" alt="Togo" style="vertical-align: middle;" /> **Togo** | **RedTeam-TG** |
 
 <img src="/assets/images/ecowas-final/togo-trophy.jpg" alt="RedTeam-TG with the 3rd place trophy at the ECOWAS Hackathon 2026 Grand Final" style="border-radius: 10px; width: 65%;" />
 
