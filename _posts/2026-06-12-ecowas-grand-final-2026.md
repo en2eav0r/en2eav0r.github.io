@@ -1,5 +1,5 @@
 ---
-title: "ECOWAS Hackathon 2026 Grand Final: Bronze for Togo in Accra"
+title: "From Lomé to Accra: Togo's First Podium at the ECOWAS Hackathon Grand Final"
 date: 2026-06-12 00:00:00 +0000
 categories: [Achievements, CTF Competitions]
 tags: [ecowas, ctf, jeopardy, koth, code-review, red-vs-blue, battleground, redteam-tg, togo, accra, ghana, west-africa, cybersecurity]
