@@ -1,0 +1,62 @@
+<section id="selected-work" class="mb-4 px-xl-1">
+  <h2 class="h4 mb-2">Selected work</h2>
+  <p class="text-muted mb-3">
+    I'm a network and cybersecurity engineer in Lomé. These are the projects that show what I build.
+    Each one states its status and links to the proof. <a href="{{ '/projects/' | relative_url }}">All projects</a>
+  </p>
+
+  <div class="row g-3">
+    <div class="col-md-4">
+      <div class="card h-100">
+        <div class="card-body">
+          <h3 class="h6 card-title mb-1">APAST</h3>
+          <p class="small text-muted mb-2">Intrusion detection and alerting</p>
+          <p class="small mb-2">
+            Suricata, Winlogbeat and the ELK stack wired together, with Telegram alerts,
+            so a small team with no budget can see attacks as they happen.
+          </p>
+          <p class="small mb-2"><strong>Status:</strong> lab prototype, tested against simulated DoS, SSH brute force and failed Windows logons.</p>
+          <p class="small mb-0">
+            <a href="{{ '/posts/apast-siem-deployment/' | relative_url }}">Architecture, tests and limits</a>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="card h-100">
+        <div class="card-body">
+          <h3 class="h6 card-title mb-1">PCAP Analyzer</h3>
+          <p class="small text-muted mb-2">Python, network forensics</p>
+          <p class="small mb-2">
+            Reads a packet capture and pulls out HTTP requests, TCP streams, database queries and
+            likely secrets, then writes JSON, text and CSV reports. Built to stop doing this by hand in Wireshark.
+          </p>
+          <p class="small mb-2"><strong>Status:</strong> working tool, written alone, open source.</p>
+          <p class="small mb-0">
+            <a href="https://github.com/en2eav0r/PCAP-Analyzer">Source code on GitHub</a>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="card h-100">
+        <div class="card-body">
+          <h3 class="h6 card-title mb-1">Active Directory for a client scenario</h3>
+          <p class="small text-muted mb-2">Windows Server, team of three</p>
+          <p class="small mb-2">
+            Domain, DHCP, group policies, WSUS and VPN for a fictional institution, delivered with a
+            deployment manual, a priced commercial offer and ten signed acceptance tests. I led the group.
+          </p>
+          <p class="small mb-2"><strong>Status:</strong> academic lab on VMware.</p>
+          <p class="small mb-0">
+            <a href="{{ '/posts/active-directory-deployment/' | relative_url }}">Deployment write-up</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <h2 class="h4 mt-4 mb-2">Latest posts</h2>
+</section>

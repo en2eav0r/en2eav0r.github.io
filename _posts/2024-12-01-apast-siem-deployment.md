@@ -16,6 +16,12 @@ image:
 
 The goal was to build something that works, using open-source tools, that can be deployed and operated without a massive budget.
 
+### Context, status and my role
+
+APAST was my end-of-degree project at IPNET Institute, supervised by a senior consultant at Cyber Defense Africa. I designed the architecture, installed and connected every component, wrote the Suricata rules and the Telegram bot integration, and ran the tests below.
+
+It is a **lab prototype**. The attacks in this post were simulated from an isolated attacker network, not observed on a production network. A real deployment would start with several weeks of rule tuning on the organization's own traffic.
+
 <img src="/assets/images/apast/apast-tools-overview.png" alt="APAST tool stack: Suricata + Winlogbeat → ELK → Telegram" style="border-radius: 10px; width: 65%;" />
 
 ---
@@ -68,6 +74,8 @@ The Suricata events overview shows total event count, protocol distribution over
 <img src="/assets/images/apast/apast-kibana-geoip.png" alt="Kibana dashboard with GeoIP source tracing" style="border-radius: 10px; width: 65%;" />
 
 The "Attack Source Tracing" part of APAST: every IP detected in an attack is geolocated via Google Cloud and plotted on an interactive world map. This makes it easy to identify attack origins at a glance and build context around incidents.
+
+One caveat. Geolocating an IP tells you where that address is registered, not who the attacker is or where they sit. Attackers usually go through VPNs, proxies, Tor or compromised machines, so the map gives context for an investigation. It is not attribution.
 
 ---
 
