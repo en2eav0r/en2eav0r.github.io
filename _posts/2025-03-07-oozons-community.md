@@ -22,6 +22,8 @@ image:
 | Volunteers | **100+** |
 | Sessions organized | **200+** |
 
+These figures describe the community's collective reach. They are not the output of one person.
+
 ---
 
 ## My role
@@ -29,6 +31,8 @@ image:
 <img src="/assets/images/oozons-charles-vp.jpg" alt="ASSIMTI Charles: Vice President, Oozons" style="border-radius: 10px; width: 45%;" />
 
 **Vice President**: I started as a volunteer, became Committee Head, then was elected Vice President, responsible for strategic direction and community growth across all programs.
+
+My role is organizational: helping set direction, coordinate programs and extend the community's reach. The trainers, volunteers, partners and local hosts named throughout this page are what make each activity possible.
 
 ---
 
@@ -119,3 +123,9 @@ A session organized in KARA, extending Oozons activities beyond Lomé and into t
 In late 2025, Oozons organized a **2-day Python bootcamp** at **CEFOD Business School in Chad** with **IgoTech TD**, training **30+ young people**.
 
 > *"To close out this year, we decided to do what we do best: train young people in technology."*
+
+## What the numbers mean
+
+Oozons works across different formats, so no single metric captures its impact. The 1,000+ people reached includes awareness activities and community programs; it should not be read as 1,000 people completing the same technical curriculum. Event-specific figures, such as 18 Code Clash finalists or more than 30 Python bootcamp participants, are stated separately where available.
+
+The next step for the community is to measure outcomes beyond attendance: completed training paths, projects shipped, competition participation and opportunities obtained after a program.

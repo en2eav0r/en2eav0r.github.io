@@ -35,7 +35,9 @@ To run it at scale, I took the open-source **[cyberstudent-ctf](https://github.c
 | National ANCY CTF | **1st place** |
 | International representation | **2 members** selected for **ICC Japan** |
 
-**70% of the teams at the national cybersecurity competition were trained by this club.**
+**Seven of the ten teams at the national cybersecurity competition included people trained by the club.**
+
+These are program-level results, not individual claims. My role was to found the club, design its training model, lead its operation and extend the technical infrastructure used to manage participation.
 
 ---
 
@@ -62,4 +64,18 @@ Anyone who solves a challenge has to present their method to the group. It devel
 
 - **ICC Japan**: 2 club members selected to represent Togo
 - **ANCY National CTF**: 1st place
-- **70% national market share** at the national competition
+- **National competition**: 7 of the 10 participating teams had been trained through the club
+
+## From training to public competition
+
+The club's weekly cycle created the participant base, but students also needed a real event in which to test themselves. That led to the [IPNET Cyber Battle](/posts/ipnet-cyber-battle/), a university-organized CTF built by students and opened as a visible showcase of their skills.
+
+The competitive results are documented separately:
+
+- [Togo National CTF 2024: 1st place](/posts/togo-national-ctf/)
+- [Togo National CTF 2024: technical writeup](/posts/wu-ctf-national-togo/)
+- [ICC Japan 2025: two Togolese representatives selected from the club](/posts/icc-japan/)
+
+## What still needs work
+
+The system is effective, but it is demanding to operate. Weekly challenge preparation, writeup review and member tracking depend on sustained volunteer effort. The next stage is to document more of the curriculum, improve mentor delegation and make progress data easier to review without weakening the anti-cheat rules.

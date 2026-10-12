@@ -20,6 +20,8 @@ The 2023 edition ran **December 11-12** at the Primus Hotel Kaloum in Conakry, u
 
 For this one I played with **Redteam TG**, which brings together some of the strongest cybersecurity practitioners in Togo. The bar was high and the team was serious. Good challenge.
 
+Unlike an individual exercise, a team CTF depends on parallel work. Players divide categories, share partial findings and change direction quickly when one challenge consumes too much time. Competing with Redteam TG placed my individual work inside that larger coordination problem.
+
 ## The result
 
 | Phase | Result |
@@ -33,6 +35,18 @@ For this one I played with **Redteam TG**, which brings together some of the str
 
 We finished first in pre-qual and held a podium position in the final.
 
+The two stages measure different things. Pre-qualification rewards the ability to solve enough of the challenge set to survive the cut. The final adds the pressure of a smaller field, a fixed event schedule and direct comparison with the teams that have already cleared that first filter.
+
 ## Context
 
 Playing in Guinea with a cross-border team was something different. It showed that the level I had built at home was competitive outside of it. More practically, it confirmed what I already believed: good CTF performance comes from the team dynamic as much as individual skill.
+
+## Why the result mattered
+
+The final ranking was not as high as the pre-qualification ranking, but it provided a more useful signal than an easy victory would have. We could lead the qualification stage and remain on the podium in the final, while still seeing the gap between a strong start and first place across an entire event.
+
+That experience became part of a progression rather than a standalone result: [1st place at the Togo National CTF 2024](/posts/togo-national-ctf/), selection for [Team Africa at ICC Japan 2025](/posts/icc-japan/), and qualification for the [ECOWAS Grand Final 2026](/posts/ecowas-hackathon-2026/).
+
+## Evidence and scope
+
+The scoreboard image above records RedTeam-TG at the top of the pre-qualification table with 2,412 points. The final position is a team result. This article deliberately avoids claiming individual ownership of challenges that were solved collaboratively.

@@ -16,6 +16,11 @@ On **September 22, 2025**, IPNET Institute of Technology held its **Open House D
 
 That day, I won **two awards simultaneously**.
 
+| Award | Work recognized |
+|---|---|
+| Impact Campus Trophy | Organizing the IPNET Cyber Battle and creating a visible cybersecurity event on campus |
+| Most Innovative Student | The broader work behind the IPNET CyberSec Club, its infrastructure, pedagogy and results |
+
 ---
 
 ## The awards
@@ -50,8 +55,14 @@ Recognition of the full body of work: founding the **IPNET CyberSec Club**, buil
 
 ## TVT national television: Journal de 13h
 
-After the **1st place victory at the CTF National du Togo 2024**, I was invited to **TVT (Télévision Togolaise)** for an interview on the **Journal de 13h**, the country's national midday news broadcast.
+This recognition followed an earlier public milestone. After the **1st place victory at the CTF National du Togo 2024**, I was invited to **TVT (Télévision Togolaise)** for an interview on the **Journal de 13h**, the country's national midday news broadcast. The interview is not one of the two JPOPE awards; it documents the wider competitive work that preceded them.
 
 [![Interview TVT: Journal de 13h](https://img.youtube.com/vi/nbGtDSE8JiM/maxresdefault.jpg)](https://www.youtube.com/watch?v=nbGtDSE8JiM)
 
 *Click to watch the interview on YouTube.*
+
+## Related work
+
+- [How the IPNET CyberSec Club trains students](/posts/ipnet-cybersec-club/)
+- [How the IPNET Cyber Battle was organized](/posts/ipnet-cyber-battle/)
+- [Togo National CTF 2024: result and team context](/posts/togo-national-ctf/)

@@ -5,52 +5,42 @@ icon: fas fa-trophy
 order: 4
 ---
 
-A record of the milestones that define my journey in cybersecurity, from first-year competitions at IPNET to representing Africa on the international stage.
+Results from cybersecurity competitions, technical projects, academic work and community initiatives. Team achievements are identified as such; the linked articles explain my role and the evidence behind each result.
 
----
+## Competition record
 
-## CTF Competitions
+| Year | Competition | Scope | Result |
+|---|---|---|---|
+| 2026 | [ECOWAS Regional Hackathon — Grand Final](/posts/ecowas-grand-final-2026/) | West Africa | **3rd place**, Accra |
+| 2026 | [ECOWAS Regional Hackathon — Togo qualifier](/posts/ecowas-hackathon-2026/) | West Africa | **1st in Togo** across all three phases; 1st overall in Phase 1 |
+| 2025 | [International Cybersecurity Challenge](/posts/icc-japan/) | International | Selected for **Team Africa**, Tokyo |
+| 2024 | [Togo National CTF](/posts/togo-national-ctf/) | National | **1st place**, team captain |
+| 2023 | [FCC Forum CTF](/posts/fcc-ctf-conakry/) | West Africa | **1st in pre-qualification**, 3rd in the final |
+| 2022 | [ECOWAS Hackathon](/posts/ctf-ecowas/) | Africa | **2nd in Togo**, 76th of 119 African teams |
 
-{% assign ctf_posts = site.posts | where_exp: "post", "post.categories contains 'CTF'" | where_exp: "post", "post.categories contains 'Achievements'" | sort: "date" | reverse %}
-{% for post in ctf_posts %}
-### [{{ post.title }}]({{ post.url }})
-{{ post.excerpt | strip_html | truncatewords: 25 }}
-[Read more]({{ post.url }})
+These are team results. Cybersecurity competitions reward specialization and coordination; the individual articles distinguish the team outcome from my own contribution whenever that information is available.
 
-{% endfor %}
+## Technical writeups
 
----
+- [Togo National CTF 2024: selected Pwn and Crypto challenges](/posts/wu-ctf-national-togo/)
+- [Zerodays CTF 2026: Web, Forensics, Network and Steganography](/posts/wu-zerodays-ctf-2026/)
 
-## International
+The writeups show the methodology behind the rankings: reconnaissance, exploitation, debugging and the reasoning used to recover each flag.
 
-{% assign intl_posts = site.posts | where_exp: "post", "post.categories contains 'International'" %}
-{% for post in intl_posts %}
-### [{{ post.title }}]({{ post.url }})
-{{ post.excerpt | strip_html | truncatewords: 25 }}
-[Read more]({{ post.url }})
+## Academic awards
 
-{% endfor %}
+| Year | Award | Context |
+|---|---|---|
+| 2025 | [Impact Campus Trophy and Most Innovative Student](/posts/campus-awards/) | Recognition for the IPNET Cyber Battle and sustained campus impact |
+| 2023 | [1st Prize — Networks, Systems & Cybersecurity](/posts/jpope-first-prize/) | JPOPE student project exhibition |
+| 2022 | [3rd Place — IPNET Internal Competition](/posts/ipnet-internal-competition/) | Only first-year student in the top five |
 
----
+## Leadership and community
 
-## Community
+- **[IPNET CyberSec Club](/posts/ipnet-cybersec-club/):** founder and president; a year-round training system for more than 60 students.
+- **[IPNET Cyber Battle](/posts/ipnet-cyber-battle/):** president and lead organizer of Togo's first university-organized CTF.
+- **[Oozons](/posts/oozons-community/):** Vice President, contributing to digital training, awareness and community programs.
 
-{% assign community_posts = site.posts | where_exp: "post", "post.categories contains 'Community'" %}
-{% for post in community_posts %}
-### [{{ post.title }}]({{ post.url }})
-{{ post.excerpt | strip_html | truncatewords: 25 }}
-[Read more]({{ post.url }})
+## How to read these results
 
-{% endfor %}
-
----
-
-## Academic
-
-{% assign acad_posts = site.posts | where_exp: "post", "post.categories contains 'Academic'" %}
-{% for post in acad_posts %}
-### [{{ post.title }}]({{ post.url }})
-{{ post.excerpt | strip_html | truncatewords: 25 }}
-[Read more]({{ post.url }})
-
-{% endfor %}
+A ranking says where a team finished; it does not explain the work behind it. Each linked case study adds the competition format, available evidence, lessons learned and the connection to the projects or training programs that followed.
