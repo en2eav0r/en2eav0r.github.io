@@ -20,6 +20,33 @@ Security tools and infrastructure I have built. Some ran in a lab, some are work
 
 ---
 
+## Network IDS lab with SPAN port mirroring
+
+- **Problem:** An IDS needs a copy of network traffic without sitting directly in the data path. A physical TAP would provide passive, non-intrusive visibility, but one was not available for this lab.
+- **Who it is for:** Network and security teams that need to monitor traffic with Suricata using existing switching equipment.
+- **What I did:** Built the lab on two physical Cisco Catalyst 3560G switches and used SPAN, Cisco's port-mirroring feature, as the alternative to a TAP. Traffic from the monitored interfaces was copied to the switch port connected to the IDS.
+- **Status:** Physical lab deployment using real switches.
+- **Proof:** [LinkedIn project post](https://lnkd.in/p/eH4dT77D)
+- **Limit and next step:** SPAN depends on switch resources and can drop packets when mirrored traffic exceeds the destination port's capacity. A dedicated network TAP would be the better choice for continuous production monitoring.
+
+A TAP, or Test Access Point, observes a critical network link without interrupting or slowing the traffic. It is commonly placed between a switch and a router. When a TAP is not available, SPAN, short for Switched Port Analyzer, can copy traffic from one or more source ports to the interface connected to the IDS. RSPAN extends the same principle across switches.
+
+For example, this Cisco configuration sends a copy of the traffic from ports 1 and 2 to the IDS on port 10:
+
+```text
+Switch(config)# monitor session 1 destination interface gigabitethernet0/10
+Switch(config)# monitor session 1 source interface gigabitethernet0/1 both
+Switch(config)# monitor session 1 source interface gigabitethernet0/2 both
+```
+
+Useful references:
+
+- [Deploying Suricata, part 1](https://www.criticaldesign.net/post/how-to-setup-a-suricata-ips)
+- [Deploying Suricata with the ELK stack, part 2](https://www.criticaldesign.net/post/how-to-setup-a-suricata-ips-elk-stack)
+- [Configuring a SPAN port](https://youtu.be/4XATFxLj7IY)
+
+---
+
 ## PCAP Analyzer
 
 - **Problem:** Going through a packet capture by hand in Wireshark is slow, and it's easy to miss a credential or a query buried in a TCP stream.
