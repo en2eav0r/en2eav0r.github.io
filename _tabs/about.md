@@ -35,7 +35,7 @@ The full list is on the [Achievements](/achievements/) page.
 
 These are team results. My part is stated each time.
 
-- **IPNET CyberSec Club.** I founded it, still lead it and designed its training program. The club has trained 60+ students, and 7 of the 10 teams at the national competition came from it.
+- **IPNET CYBER CLUB.** I founded it, still lead it and designed its training program. The club has trained 60+ students, and 7 of the 10 teams at the national competition came from it.
 - **IPNET CYBER BATTLE 2025.** I was president and lead organizer of Togo's first university-run CTF. We found the sponsors ourselves when the budget fell short.
 - **Oozons community.** I am Vice President. The community's awareness campaigns, HackerRank hackathon and training sessions have reached more than 1,000 people in total. That figure counts the whole team's work, not mine alone.
 

@@ -46,7 +46,7 @@ Finishing top 5 that early gave me visibility within the institution from day on
 Looking back, this was the first visible step in my time at IPNET:
 
 - In 2023, my team won [1st Prize in Networks, Systems & Cybersecurity at JPOPE](/posts/jpope-first-prize/).
-- I founded the [IPNET CyberSec Club](/posts/ipnet-cybersec-club/), building a structured training program for students from L1 to M2.
+- I founded the [IPNET CYBER CLUB](/posts/ipnet-cybersec-club/), building a structured training program for students from L1 to M2.
 - In 2025, I led the organization of the [IPNET CYBER BATTLE](/posts/ipnet-cyber-battle/), the first university-organized CTF in Togo.
 
 The result gave me enough credibility inside the school to start taking on larger projects. The club and the Cyber Battle came later.

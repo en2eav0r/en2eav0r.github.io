@@ -1,5 +1,5 @@
 ---
-title: "IPNET CyberSec Club: Building the Next Generation of Cybersecurity Professionals"
+title: "IPNET CYBER CLUB: Building the Next Generation of Cybersecurity Professionals"
 date: 2024-01-01 00:00:00 +0000
 categories: [Achievements, Academic]
 tags: [club, cybersecurity, ipnet, training, togo, leadership, discord, bot]
@@ -9,7 +9,7 @@ tags: [club, cybersecurity, ipnet, training, togo, leadership, discord, bot]
 
 ## What I built
 
-I founded and currently lead the **IPNET CyberSec Club**, a structured cybersecurity training program that grew from zero to **60+ active members** spanning every academic level (L1 to M2). It's not a hobby club. It's a full pedagogical system I designed, built, and operate.
+I founded and currently lead the **IPNET CYBER CLUB**, a structured cybersecurity training program that grew from zero to **60+ active members** spanning every academic level (L1 to M2). It's not a hobby club. It's a full pedagogical system I designed, built, and operate.
 
 To run it at scale, I took the open-source **[cyberstudent-ctf](https://github.com/cyberstudent-ctf)** bot as a foundation and extended it significantly, adding a mandatory writeup system, tiered group management, anti-cheat enforcement, milestone role progression, and admin tracking.
 

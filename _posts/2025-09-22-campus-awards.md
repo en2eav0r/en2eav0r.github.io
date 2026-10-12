@@ -33,9 +33,9 @@ This award recognized the organization of the **IPNET CYBER BATTLE**, the first 
 <img src="/assets/images/campus-awards/campus-award-innovative.jpg" alt="Most Innovative Student award ceremony" />
 <small class="media-caption">Receiving the Most Innovative Student Award.</small>
 
-This distinction recognized my work with the **IPNET CyberSec Club**, including its technical infrastructure, training program and competition results.
+This distinction recognized my work with the **IPNET CYBER CLUB**, including its technical infrastructure, training program and competition results.
 
 ## Related work
 
-- [How the IPNET CyberSec Club trains students](/posts/ipnet-cybersec-club/)
+- [How the IPNET CYBER CLUB trains students](/posts/ipnet-cybersec-club/)
 - [How the IPNET CYBER BATTLE was organized](/posts/ipnet-cyber-battle/)

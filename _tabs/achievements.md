@@ -32,13 +32,13 @@ The rankings only give the result. These writeups show some of the work behind t
 | Year | Award | Context |
 |---|---|---|
 | 2025 | [Impact Campus Trophy](/posts/campus-awards/#impact-campus-trophy) | Organization of the IPNET CYBER BATTLE |
-| 2025 | [Most Innovative Student Award](/posts/campus-awards/#most-innovative-student-award) | Work with the IPNET CyberSec Club |
+| 2025 | [Most Innovative Student Award](/posts/campus-awards/#most-innovative-student-award) | Work with the IPNET CYBER CLUB |
 | 2023 | [1st Prize in Networks, Systems & Cybersecurity](/posts/jpope-first-prize/) | JPOPE student project exhibition |
 | 2022 | [3rd Place in the IPNET Internal Competition](/posts/ipnet-internal-competition/) | Only first-year student in the top five |
 
 ## Leadership and community
 
-- **[IPNET CyberSec Club](/posts/ipnet-cybersec-club/):** founder and president; a year-round training system for more than 60 students.
+- **[IPNET CYBER CLUB](/posts/ipnet-cybersec-club/):** founder and president; a year-round training system for more than 60 students.
 - **[IPNET CYBER BATTLE](/posts/ipnet-cyber-battle/):** president and lead organizer of Togo's first university-organized CTF.
 - **[Oozons](/posts/oozons-community/):** Vice President, contributing to digital training, awareness and community programs.
 

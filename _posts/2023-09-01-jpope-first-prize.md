@@ -43,7 +43,7 @@ Second year at IPNET. We built something technically solid and spent hours defen
 
 The exhibition changed how I present technical work. A diagram or dashboard may impress another engineer, but it does not explain why the system exists. Since JPOPE, I have tried to show the problem first, then the choices I made and the result someone else can verify.
 
-That is why the [Projects page](/projects/) states who each system is for, what I built, its current status and its limits. I carried the same approach into student demonstrations at the [IPNET CyberSec Club](/posts/ipnet-cybersec-club/) and the [IPNET CYBER BATTLE](/posts/ipnet-cyber-battle/).
+That is why the [Projects page](/projects/) states who each system is for, what I built, its current status and its limits. I carried the same approach into student demonstrations at the [IPNET CYBER CLUB](/posts/ipnet-cybersec-club/) and the [IPNET CYBER BATTLE](/posts/ipnet-cyber-battle/).
 
 ## Evidence
 

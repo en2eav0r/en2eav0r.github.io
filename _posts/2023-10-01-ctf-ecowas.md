@@ -49,7 +49,7 @@ That gap stayed with me. The hunger to not fall one place short drove everything
 
 ## From second place to qualification
 
-After this competition, I trained more regularly and stopped thinking of preparation as something to do alone. That shift later fed into the [IPNET CyberSec Club](/posts/ipnet-cybersec-club/) and stronger national results.
+After this competition, I trained more regularly and stopped thinking of preparation as something to do alone. That shift later fed into the [IPNET CYBER CLUB](/posts/ipnet-cybersec-club/) and stronger national results.
 
 Four years later, I returned to the same competition cycle with RedTeam-TG. We finished [first in Togo across all three phases of the 2026 qualifier](/posts/ecowas-hackathon-2026/) and advanced to the continental final in Accra, where Togo earned [third place](/posts/ecowas-grand-final-2026/).
 

@@ -19,9 +19,9 @@ image:
 
 ## Overview
 
-The **IPNET CYBER BATTLE** is the annual CTF organized by the IPNET CyberSec Club at IPNET Institute of Technology, Togo.
+The **IPNET CYBER BATTLE** is the annual CTF organized by the IPNET CYBER CLUB at IPNET Institute of Technology, Togo.
 
-Before this event, no university in Togo had ever organized a cybersecurity competition. The IPNET CyberSec Club built one: designed the challenges, deployed the infrastructure, ran the event from start to finish.
+Before this event, no university in Togo had ever organized a cybersecurity competition. The IPNET CYBER CLUB built one: designed the challenges, deployed the infrastructure, ran the event from start to finish.
 
 ---
 
@@ -163,4 +163,4 @@ That edition proved the concept. Two years later: CTFd, 13 teams, 7 categories, 
 
 ---
 
-**Organized by ASSIMTI Essowèréou Charles**: President, IPNET CyberSec Club · Co-signed: PAWOU P. BATANA
+**Organized by ASSIMTI Essowèréou Charles**: President, IPNET CYBER CLUB · Co-signed: PAWOU P. BATANA
