@@ -19,7 +19,7 @@ article .content img:not(.avatar-img):not(.site-logo) {
   width: 100%;
   max-width: 100%;
   height: auto;
-  margin: 1.75rem auto 0.75rem;
+  margin: 0 auto;
   border: 1px solid var(--main-border-color);
   border-radius: 16px;
 }
@@ -32,7 +32,6 @@ article .content img.media-compact {
 
 @media (max-width: 576px) {
   article .content img:not(.avatar-img):not(.site-logo) {
-    margin-top: 1.25rem;
     border-radius: 12px;
   }
 }
