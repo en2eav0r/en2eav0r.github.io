@@ -8,6 +8,11 @@
 {%- endif -%}
 ';
 
+/* Keep long-form text comfortable without excessive vertical spacing. */
+article .content {
+  line-height: 1.6;
+}
+
 /* Article media follows the reading column. */
 article .content img:not(.avatar-img):not(.site-logo) {
   display: block;
