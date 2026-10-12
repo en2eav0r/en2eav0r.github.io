@@ -25,14 +25,40 @@ article .content img:not(.avatar-img):not(.site-logo):not(.emoji) {
 }
 
 /* Logos, portraits and mobile screenshots keep a useful natural scale. */
-article .content img.media-compact {
+article .content img.media-compact:not(.avatar-img):not(.site-logo):not(.emoji) {
   width: auto;
   max-width: min(100%, 30rem);
+  margin-right: auto;
+  margin-left: 0;
 }
 
 article .content img[src*='/images/gophish/'] {
   width: auto;
   max-width: 100%;
+}
+
+article .content img:not(.avatar-img):not(.site-logo):not(.emoji)[src*='/images/campus-awards/'] {
+  width: auto;
+  max-width: min(100%, 34rem);
+  margin-right: auto;
+  margin-left: 0;
+}
+
+article .content img:not(.avatar-img):not(.site-logo):not(.emoji)[src*='/images/wu-national-ctf/'] {
+  width: auto;
+  max-width: min(100%, 38rem);
+  margin-right: auto;
+  margin-left: 0;
+}
+
+article .content img.media-compact:not(.avatar-img):not(.site-logo):not(.emoji)[src*='/images/campus-awards/'],
+article .content img.media-compact:not(.avatar-img):not(.site-logo):not(.emoji)[src*='/images/wu-national-ctf/'] {
+  max-width: min(100%, 30rem);
+}
+
+article .content img[src*='/images/campus-awards/'] + .media-caption,
+article .content img[src*='/images/wu-national-ctf/'] + .media-caption {
+  text-align: left;
 }
 
 /* Zero Days screenshots stay at their natural size and follow the left edge. */
@@ -72,6 +98,12 @@ article .content .media-caption {
   font-style: normal;
   line-height: 1.45;
   text-align: center;
+}
+
+article .preview-img:has(> img[src*='/images/campus-awards/']) {
+  width: min(100%, 34rem);
+  margin-right: auto;
+  margin-left: 0;
 }
 
 article .content img.emoji {

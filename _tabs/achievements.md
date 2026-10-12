@@ -31,7 +31,8 @@ The rankings only give the result. These writeups show some of the work behind t
 
 | Year | Award | Context |
 |---|---|---|
-| 2025 | [Impact Campus Trophy and Most Innovative Student](/posts/campus-awards/) | Recognition for the IPNET CYBER BATTLE and sustained campus impact |
+| 2025 | [Impact Campus Trophy](/posts/campus-awards/#impact-campus-trophy) | Organization of the IPNET CYBER BATTLE |
+| 2025 | [Most Innovative Student Award](/posts/campus-awards/#most-innovative-student-award) | Work with the IPNET CyberSec Club |
 | 2023 | [1st Prize in Networks, Systems & Cybersecurity](/posts/jpope-first-prize/) | JPOPE student project exhibition |
 | 2022 | [3rd Place in the IPNET Internal Competition](/posts/ipnet-internal-competition/) | Only first-year student in the top five |
 

@@ -1,5 +1,5 @@
 ---
-title: "Two Awards, One Day: Impact Campus Trophy & Most Innovative Student"
+title: "JPOPE 2025: Two Campus Awards"
 date: 2025-09-22 00:00:00 +0000
 categories: [Achievements, Academic]
 tags: [award, ipnet, campus, innovation, leadership]
@@ -8,64 +8,34 @@ image:
   alt: Receiving the Most Innovative Student Award, JPOPE 2025
 ---
 
-> *Impact Campus Trophy & Most Innovative Student Award: IPNET Open House Day, September 22, 2025.*
+> *Impact Campus Trophy and Most Innovative Student Award, received at JPOPE 2025.*
 
-## The context
+On **September 22, 2025**, IPNET Institute of Technology held JPOPE 2025, its annual Open House Day. More than 50 student IT projects were presented to a jury, recruiters and the academic community. I received two separate awards that day.
 
-On **September 22, 2025**, IPNET Institute of Technology held its **Open House Day (JPOPE 2025)**, where over **50 student IT projects** were presented to a jury, recruiters, and the academic community.
-
-That day, I won **two awards simultaneously**.
-
-| Award | Work recognized |
-|---|---|
-| Impact Campus Trophy | Organizing the IPNET CYBER BATTLE and creating a visible cybersecurity event on campus |
-| Most Innovative Student | The broader work behind the IPNET CyberSec Club, its infrastructure, pedagogy and results |
-
----
-
-## The awards
-
-### Impact Campus Trophy
+## Impact Campus Trophy
 
 > *Recognizes the initiative with the greatest campus impact.*
 
 <img src="/assets/images/campus-awards/campus-award-impact-check.jpg" alt="Impact Campus Trophy ceremony with 50,000 FCFA check" />
-<small class="media-caption">Impact Campus Trophy ceremony with 50,000 FCFA check.</small>
-
-*Receiving the Impact Campus Trophy alongside a 50,000 FCFA prize from CORIS Bank.*
+<small class="media-caption">Receiving the Impact Campus Trophy and a 50,000 FCFA prize from CORIS Bank.</small>
 
 <img src="/assets/images/campus-awards/campus-trophy-closeup.jpg" alt="Close-up of the Impact Campus Trophy" class="media-compact" />
-<small class="media-caption">Close-up of the Impact Campus Trophy.</small>
+<small class="media-caption">The Impact Campus Trophy, presented at JPOPE 2025.</small>
 
-*"Innovation, Experience and Practice." JPOPE 2025, IPNET Institute of Technology.*
-
-Awarded for organizing the **IPNET CYBER BATTLE**, the first CTF competition ever run by a university in Togo. An event entirely conceived and built by students, which put IPNET on the national cybersecurity map.
+This award recognized the organization of the **IPNET CYBER BATTLE**, the first university-organized CTF in Togo.
 
 ---
 
-### Most Innovative Student Award
+## Most Innovative Student Award
 
 > *Honors exceptional leadership and innovation on campus.*
 
 <img src="/assets/images/campus-awards/campus-award-innovative.jpg" alt="Most Innovative Student award ceremony" />
-<small class="media-caption">Most Innovative Student award ceremony.</small>
+<small class="media-caption">Receiving the Most Innovative Student Award.</small>
 
-*Receiving the Most Innovative Student Award.*
-
-Recognition of the full body of work: founding the **IPNET CyberSec Club**, building its technical infrastructure, designing its pedagogy, and delivering results. Members of the club went on to dominate national competitions and represent Togo internationally.
-
----
-
-## TVT national television: Journal de 13h
-
-The TV interview came earlier. After our **1st place at the CTF National du Togo 2024**, **TVT (Télévision Togolaise)** invited me onto the **Journal de 13h**, the country's national midday news broadcast. It is separate from the two JPOPE awards, but it shows the competitive work that came before them.
-
-[![Interview TVT: Journal de 13h](https://img.youtube.com/vi/nbGtDSE8JiM/maxresdefault.jpg)](https://www.youtube.com/watch?v=nbGtDSE8JiM)
-
-*Click to watch the interview on YouTube.*
+This distinction recognized my work with the **IPNET CyberSec Club**, including its technical infrastructure, training program and competition results.
 
 ## Related work
 
 - [How the IPNET CyberSec Club trains students](/posts/ipnet-cybersec-club/)
 - [How the IPNET CYBER BATTLE was organized](/posts/ipnet-cyber-battle/)
-- [Togo National CTF 2024: result and team context](/posts/togo-national-ctf/)
