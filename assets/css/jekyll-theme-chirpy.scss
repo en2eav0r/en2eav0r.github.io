@@ -47,6 +47,23 @@ article .content img[src*='/images/zerodays-ctf/'] + .media-caption {
   text-align: left;
 }
 
+article .preview-img:has(> img[src*='/images/zerodays-ctf/zerodays-logo.png']) {
+  display: flex;
+  width: fit-content;
+  max-width: 100%;
+  height: auto;
+  margin-right: auto;
+  margin-left: 0;
+  aspect-ratio: auto;
+}
+
+article .preview-img > img[src*='/images/zerodays-ctf/zerodays-logo.png'] {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
 article .content .media-caption {
   display: block;
   margin: 0.5rem 0 1.25rem;
