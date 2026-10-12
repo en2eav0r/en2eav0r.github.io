@@ -6,7 +6,7 @@ article .content img:not(.avatar-img):not(.site-logo) {
   height: auto;
   margin: 1.75rem auto 0.75rem;
   border: 1px solid var(--main-border-color);
-  border-radius: 16px;
+  border-radius: 12px;
 }
 
 /* Logos, portraits and mobile screenshots keep a useful natural scale. */
@@ -18,6 +18,6 @@ article .content img.media-compact {
 @media (max-width: 576px) {
   article .content img:not(.avatar-img):not(.site-logo) {
     margin-top: 1.25rem;
-    border-radius: 12px;
+    border-radius: 10px;
   }
 }
