@@ -30,6 +30,21 @@ article .content img.media-compact {
   max-width: min(100%, 30rem);
 }
 
+article .content img[src*='/images/gophish/'] {
+  width: auto;
+  max-width: 100%;
+}
+
+article .content .media-caption {
+  display: block;
+  margin: 0.5rem 0 1.25rem;
+  color: var(--text-muted-color);
+  font-size: 0.875rem;
+  font-style: normal;
+  line-height: 1.45;
+  text-align: center;
+}
+
 article .content img.emoji {
   display: inline-block;
   width: 1.1em;
