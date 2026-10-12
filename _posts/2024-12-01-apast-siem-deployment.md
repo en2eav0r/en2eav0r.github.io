@@ -23,6 +23,7 @@ APAST was my end-of-degree project at IPNET Institute, supervised by a senior co
 It is a **lab prototype**. The attacks in this post were simulated from an isolated attacker network, not observed on a production network. A real deployment would start with several weeks of rule tuning on the organization's own traffic.
 
 <img src="/assets/images/apast/apast-tools-overview.png" alt="APAST tool stack: Suricata + Winlogbeat → ELK → Telegram" />
+<small class="media-caption">APAST tool stack: Suricata + Winlogbeat → ELK → Telegram.</small>
 
 ---
 
@@ -44,6 +45,7 @@ Everything except the physical hardware is open-source and free.
 ## Architecture
 
 <img src="/assets/images/apast/apast-architecture.png" alt="APAST network architecture diagram" />
+<small class="media-caption">APAST network architecture diagram.</small>
 
 The network is segmented into three VLANs:
 
@@ -68,10 +70,12 @@ A **TAP (Test Access Point)** sits between the internal network and the router, 
 Once deployed, the Kibana interface gives a live view of everything happening on the network.
 
 <img src="/assets/images/apast/apast-dashboard-suricata.png" alt="Suricata events dashboard in Kibana" />
+<small class="media-caption">Suricata events dashboard in Kibana.</small>
 
 The Suricata events overview shows total event count, protocol distribution over time, and top hosts generating traffic. All logs are stored with full metadata: source/destination IPs, protocols, hostnames, timestamps.
 
 <img src="/assets/images/apast/apast-kibana-geoip.png" alt="Kibana dashboard with GeoIP source tracing" />
+<small class="media-caption">Kibana dashboard with GeoIP source tracing.</small>
 
 The "Attack Source Tracing" part of APAST: every IP detected in an attack is geolocated via Google Cloud and plotted on an interactive world map. This makes it easy to identify attack origins at a glance and build context around incidents.
 
@@ -92,18 +96,22 @@ Three attack scenarios were run to validate the system.
 Custom Suricata rule written to detect the pattern:
 
 <img src="/assets/images/apast/apast-dos-rule.png" alt="Suricata DoS detection rule" />
+<small class="media-caption">Suricata DoS detection rule.</small>
 
 The attack was launched:
 
 <img src="/assets/images/apast/apast-dos-attack.png" alt="hping3 DoS attack from Kali Linux" />
+<small class="media-caption">hping3 DoS attack from Kali Linux.</small>
 
 Suricata caught it immediately. The log entry shows the exact timestamp of detection, matching the moment the attack started:
 
 <img src="/assets/images/apast/apast-dos-detection.png" alt="Suricata detection log: DoS attack" />
+<small class="media-caption">Suricata detection log: DoS attack.</small>
 
 The Telegram bot fired within seconds:
 
 <img src="/assets/images/apast/apast-telegram-dos.jpeg" alt="Telegram alert: DDoS attack detected" class="media-compact" />
+<small class="media-caption">Telegram alert: DDoS attack detected.</small>
 
 Detection, logging, and notification: all three objectives cleared.
 
@@ -116,10 +124,12 @@ Detection, logging, and notification: all three objectives cleared.
 Custom Suricata rule for the pattern (5 SYN packets to port 22 from the same source within 60 seconds):
 
 <img src="/assets/images/apast/apast-ssh-rule.png" alt="Suricata SSH brute force rule" />
+<small class="media-caption">Suricata SSH brute force rule.</small>
 
 Same result: detected, logged, alert sent:
 
 <img src="/assets/images/apast/apast-telegram-ssh.jpeg" alt="Telegram alert: SSH brute force attempt" class="media-compact" />
+<small class="media-caption">Telegram alert: SSH brute force attempt.</small>
 
 ---
 

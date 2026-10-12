@@ -30,6 +30,7 @@ In a team CTF, several challenges are moving at once. We divided the categories,
 | Final | **3rd place** |
 
 <img src="/assets/images/fcc-ctf/fcc-prequal-scoreboard.jpg" alt="FCC CTF 2023 pre-qualification scoreboard: RedTeam-TG 1st" />
+<small class="media-caption">FCC CTF 2023 pre-qualification scoreboard: RedTeam-TG 1st.</small>
 
 *The pre-qualification scoreboard. RedTeam-TG finished 1st with 2412 points, tied at the top with three other teams. The tie held through the pre-qual; we separated in the final.*
 

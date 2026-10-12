@@ -30,8 +30,10 @@ A working demonstration was only the starting point. One minute we were explaini
 In **September 2023**, my team finished **1st place in the Networks, Systems & Cybersecurity category**.
 
 <img src="/assets/images/jpope/jpope-prize-1.jpg" alt="JPOPE 2023 prize ceremony: 1st place Networks & Cybersecurity" />
+<small class="media-caption">JPOPE 2023 prize ceremony: 1st place Networks & Cybersecurity.</small>
 
 <img src="/assets/images/jpope/jpope-prize-2.jpg" alt="JPOPE 2023 prize ceremony: team with check" />
+<small class="media-caption">JPOPE 2023 prize ceremony: team with check.</small>
 
 *Receiving the 1st place prize at JPOPE 2023.*
 

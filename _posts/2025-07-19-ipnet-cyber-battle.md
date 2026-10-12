@@ -28,16 +28,19 @@ Before this event, no university in Togo had ever organized a cybersecurity comp
 ## The team
 
 <img src="/assets/images/cyberbattle-group.jpg" alt="Group photo: IPNET Cyber Battle participants" />
+<small class="media-caption">Group photo: IPNET Cyber Battle participants.</small>
 
 ---
 
 ## Inside the competition
 
 <img src="/assets/images/cyberbattle-supervision.jpg" alt="Charles supervising a challenger" />
+<small class="media-caption">Charles supervising a challenger.</small>
 
 *ASSIMTI Essowèréou Charles: President of the club, on the floor during the competition, supervising challengers in real time.*
 
 <img src="/assets/images/cyberbattle-girls-collab.jpg" alt="Two participants collaborating" />
+<small class="media-caption">Two participants collaborating.</small>
 
 ---
 
@@ -83,6 +86,7 @@ IPNET{y0u_4r3_th3_b3st!bRuh_3ssow7r3oU_g1v3_y0u_4cc3s_t0_th3_r0und_t4bl3_0f_fin4
 ## Scoreboard
 
 <img src="/assets/images/cyberbattle-scoreboard.png" alt="Scoreboard IPNET Cyber Battle 2025" />
+<small class="media-caption">Scoreboard IPNET Cyber Battle 2025.</small>
 
 | Rank | Pseudo | Real Name | Score |
 |------|--------|-----------|-------|
@@ -98,6 +102,7 @@ IPNET{y0u_4r3_th3_b3st!bRuh_3ssow7r3oU_g1v3_y0u_4cc3s_t0_th3_r0und_t4bl3_0f_fin4
 | 10 | F34r_DrK | Not listed | 1 050 pts |
 
 <img src="/assets/images/cyberbattle-winner.jpg" alt="Official winners: IPNET Cyber Battle 2025" />
+<small class="media-caption">Official winners: IPNET Cyber Battle 2025.</small>
 
 *13 teams competed. These three stood on top.*
 
@@ -117,12 +122,14 @@ Beyond the scoreboard, four special awards:
 ### Blood Hunter: Sitou Abdel Maaliki
 
 <img src="/assets/images/cyberbattle-bloodhunter.jpg" alt="Blood Hunter award: Sitou Abdel Maaliki" />
+<small class="media-caption">Blood Hunter award: Sitou Abdel Maaliki.</small>
 
 The **Blood Hunter** award goes to whoever draws first blood on the hardest challenge. **Sitou Abdel Maaliki** (`Abdól`), ranked 4th overall, took it. 4th on the scoreboard but first on the challenge that stopped everyone else.
 
 ### Best Cyber Battle Woman: Bodjona Essosolam Trinity-Wonder
 
 <img src="/assets/images/cyberbattle-bestwoman.jpg" alt="Best Cyber Battle Woman: Bodjona Essosolam Trinity-Wonder" />
+<small class="media-caption">Best Cyber Battle Woman: Bodjona Essosolam Trinity-Wonder.</small>
 
 **Bodjona Essosolam Trinity-Wonder** (`Tr1n1tyX_`) competed with focus and consistency throughout. The award wasn't ceremonial. She went on to win best female participant at the national ANCY competition.
 
