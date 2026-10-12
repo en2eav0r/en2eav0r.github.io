@@ -11,8 +11,8 @@ This page brings together my competition results, academic awards and community 
 
 | Year | Competition | Scope | Result |
 |---|---|---|---|
-| 2026 | [ECOWAS Regional Hackathon — Grand Final](/posts/ecowas-grand-final-2026/) | West Africa | **3rd place**, Accra |
-| 2026 | [ECOWAS Regional Hackathon — Togo qualifier](/posts/ecowas-hackathon-2026/) | West Africa | **1st in Togo** across all three phases; 1st overall in Phase 1 |
+| 2026 | [ECOWAS Regional Hackathon Grand Final](/posts/ecowas-grand-final-2026/) | West Africa | **3rd place**, Accra |
+| 2026 | [ECOWAS Regional Hackathon, Togo qualifier](/posts/ecowas-hackathon-2026/) | West Africa | **1st in Togo** across all three phases; 1st overall in Phase 1 |
 | 2025 | [International Cybersecurity Challenge](/posts/icc-japan/) | International | Selected for **Team Africa**, Tokyo |
 | 2024 | [Togo National CTF](/posts/togo-national-ctf/) | National | **1st place**, team captain |
 | 2023 | [FCC Forum CTF](/posts/fcc-ctf-conakry/) | West Africa | **1st in pre-qualification**, 3rd in the final |
@@ -32,8 +32,8 @@ The rankings only give the result. These writeups show some of the work behind t
 | Year | Award | Context |
 |---|---|---|
 | 2025 | [Impact Campus Trophy and Most Innovative Student](/posts/campus-awards/) | Recognition for the IPNET Cyber Battle and sustained campus impact |
-| 2023 | [1st Prize — Networks, Systems & Cybersecurity](/posts/jpope-first-prize/) | JPOPE student project exhibition |
-| 2022 | [3rd Place — IPNET Internal Competition](/posts/ipnet-internal-competition/) | Only first-year student in the top five |
+| 2023 | [1st Prize in Networks, Systems & Cybersecurity](/posts/jpope-first-prize/) | JPOPE student project exhibition |
+| 2022 | [3rd Place in the IPNET Internal Competition](/posts/ipnet-internal-competition/) | Only first-year student in the top five |
 
 ## Leadership and community
 

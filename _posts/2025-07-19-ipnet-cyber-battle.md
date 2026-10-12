@@ -90,12 +90,12 @@ IPNET{y0u_4r3_th3_b3st!bRuh_3ssow7r3oU_g1v3_y0u_4cc3s_t0_th3_r0und_t4bl3_0f_fin4
 | 2 | Gr3G | Bakonda Wenssa Grégoire | 3 100 pts |
 | 3 | SAY | Ayao Mawonyé Jean-Marie | 2 700 pts |
 | 4 | Abdól | Sitou Abdel Maaliki | 2 100 pts |
-| 5 | t0g37h3R | — | 2 000 pts |
-| 6 | Indice20 | — | 1 600 pts |
-| 7 | F_$oCieTy | — | 1 200 pts |
-| 8 | Ami1r | — | 1 200 pts |
-| 9 | Dmod | — | 1 050 pts |
-| 10 | F34r_DrK | — | 1 050 pts |
+| 5 | t0g37h3R | Not listed | 2 000 pts |
+| 6 | Indice20 | Not listed | 1 600 pts |
+| 7 | F_$oCieTy | Not listed | 1 200 pts |
+| 8 | Ami1r | Not listed | 1 200 pts |
+| 9 | Dmod | Not listed | 1 050 pts |
+| 10 | F34r_DrK | Not listed | 1 050 pts |
 
 <img src="/assets/images/cyberbattle-winner.jpg" alt="Official winners: IPNET Cyber Battle 2025" style="border-radius: 10px; width: 65%;" />
 

@@ -35,7 +35,7 @@ That day, I won **two awards simultaneously**.
 
 <img src="/assets/images/campus-awards/campus-trophy-closeup.jpg" alt="Close-up of the Impact Campus Trophy" style="border-radius: 10px; width: 60%; display: block; margin: auto;" />
 
-*"Innovation, Experience and Practice" — JPOPE 2025, IPNET Institute of Technology.*
+*"Innovation, Experience and Practice." JPOPE 2025, IPNET Institute of Technology.*
 
 Awarded for organizing the **IPNET Cyber Battle**, the first CTF competition ever run by a university in Togo. An event entirely conceived and built by students, which put IPNET on the national cybersecurity map.
 

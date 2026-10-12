@@ -127,7 +127,7 @@ Same result: detected, logged, alert sent:
 
 **Attack:** Intentional wrong-password attempt on the Windows client.
 
-Winlogbeat picked up the failed logon event and pushed it to Kibana. The dashboard updated in real time, showing the event timestamp, username, and the `event.action: authentication_failed` field. No custom rule needed — Windows event ID 4625 is captured automatically.
+Winlogbeat picked up the failed logon event and pushed it to Kibana. The dashboard updated in real time, showing the event timestamp, username, and the `event.action: authentication_failed` field. No custom rule was needed because Windows event ID 4625 is captured automatically.
 
 ---
 

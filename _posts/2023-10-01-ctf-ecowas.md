@@ -42,7 +42,7 @@ Second place put us on the national podium, but only the winner qualified. We we
 
 ## The lesson
 
-76th out of 119 African teams in our second year. Respectable — but 2nd nationally means we were one position away from the only slot that matters.
+We finished 76th out of 119 African teams in our second year. It was respectable, but 2nd nationally meant we were one position away from the only qualifying slot.
 
 That gap stayed with me. The hunger to not fall one place short drove everything that came after: the preparation, the CTF club, and eventually the national title.
 

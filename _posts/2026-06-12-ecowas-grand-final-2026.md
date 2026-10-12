@@ -192,7 +192,7 @@ Then the host said it: the three remaining teams should stand and go to the back
 
 ---
 
-## Final standings — ECOWAS Hackathon 2026 Grand Final
+## Final standings: ECOWAS Hackathon 2026 Grand Final
 
 | Rank | Country | Team |
 |------|---------|------|

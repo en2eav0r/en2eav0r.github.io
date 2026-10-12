@@ -64,7 +64,7 @@ In-person session on connected devices, embedded systems, and practical IoT use 
 
 ---
 
-### OOZONS CODE CLASH 2026: February–March 2026
+### OOZONS CODE CLASH 2026: February to March 2026
 
 <img src="/assets/images/oozons-code-clash-2026.jpg" alt="Code Clash 2026" style="border-radius: 10px; width: 65%;" />
 
