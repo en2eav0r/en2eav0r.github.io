@@ -29,7 +29,7 @@ We entered as four second-year students from IPNET. It was one of our first chan
 
 ## The result
 
-<img src="/assets/images/ecowas/ecowas-2nd-place-poster.jpg" alt="IPNET official ECOWAS Hackathon 2022 poster" />
+<img src="/assets/images/ecowas/ecowas-2nd-place-poster.jpg" alt="IPNET official ECOWAS Hackathon 2022 poster" class="media-compact" />
 
 A team of four second-year Licence Cybersecurity students from IPNET:
 

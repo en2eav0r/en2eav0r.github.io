@@ -218,18 +218,12 @@ To everyone in Togo who's been following the journey since the qualifiers: this 
 
 Bronze for Togo, and the first time we've ever been on the ECOWAS Grand Final podium. Still hasn't fully sunk in.
 
-<style>
-img.emoji {
-  height: 1.1em;
-  width: auto;
-  margin: 0 .1em;
-  vertical-align: -0.2em;
-  display: inline-block;
-}
-</style>
-<script src="https://cdn.jsdelivr.net/npm/@twemoji/api@latest/dist/twemoji.min.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@twemoji/api@17.0.3/dist/twemoji.min.js" crossorigin="anonymous"></script>
 <script>
   if (window.twemoji) {
-    twemoji.parse(document.body, { folder: 'svg', ext: '.svg' });
+    const articleContent = document.querySelector('article .content');
+    if (articleContent) {
+      twemoji.parse(articleContent, { folder: 'svg', ext: '.svg' });
+    }
   }
 </script>

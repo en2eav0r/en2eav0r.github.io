@@ -272,6 +272,6 @@ print(hex_str)
 
 Drop the result into CyberChef (From Hex):
 
-<img src="/assets/images/zerodays-ctf/schizosteg-cyberchef.png" alt="CyberChef hex decode" />
+<img src="/assets/images/zerodays-ctf/schizosteg-cyberchef.png" alt="CyberChef hex decode" class="media-compact" />
 
 <img src="/assets/images/zerodays-ctf/schizosteg-flag.png" alt="Schizo Steg flag" />

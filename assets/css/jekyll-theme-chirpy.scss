@@ -14,7 +14,7 @@ article .content {
 }
 
 /* Article media follows the reading column. */
-article .content img:not(.avatar-img):not(.site-logo) {
+article .content img:not(.avatar-img):not(.site-logo):not(.emoji) {
   display: block;
   width: 100%;
   max-width: 100%;
@@ -30,8 +30,19 @@ article .content img.media-compact {
   max-width: min(100%, 30rem);
 }
 
+article .content img.emoji {
+  display: inline-block;
+  width: 1.1em;
+  height: 1.1em;
+  max-width: none;
+  margin: 0 0.15em 0 0;
+  border: 0;
+  border-radius: 0;
+  vertical-align: -0.15em;
+}
+
 @media (max-width: 576px) {
-  article .content img:not(.avatar-img):not(.site-logo) {
+  article .content img:not(.avatar-img):not(.site-logo):not(.emoji) {
     border-radius: 12px;
   }
 }

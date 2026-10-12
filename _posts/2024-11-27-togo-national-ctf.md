@@ -65,7 +65,7 @@ Each of us had a specialty. Mine was **PWN**: binary exploitation, buffer overfl
 
 **Date:** November 23, 2024 · **Organizers:** ANCy · DA CERT.tg · CANALBOX
 
-<img src="/assets/images/wu-national-ctf/ctf-national-congrats-poster.jpg" alt="IPNET official congratulations poster" />
+<img src="/assets/images/wu-national-ctf/ctf-national-congrats-poster.jpg" alt="IPNET official congratulations poster" class="media-compact" />
 
 *IPNET Institute of Technology's official congratulations post. All four members of n0_m3rcy_f0r_7h3m!! are IPNET students.*
 
@@ -73,7 +73,7 @@ Each of us had a specialty. Mine was **PWN**: binary exploitation, buffer overfl
 
 ## Prize
 
-<img src="/assets/images/wu-national-ctf/ctf-national-prize.jpg" alt="2,000,000 FCFA prize check from ANCy" />
+<img src="/assets/images/wu-national-ctf/ctf-national-prize.jpg" alt="2,000,000 FCFA prize check from ANCy" class="media-compact" />
 *The 2,000,000 F CFA prize check awarded by the Agence Nationale de la Cybersécurité du Togo.*
 
 ---

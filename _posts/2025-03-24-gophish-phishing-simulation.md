@@ -22,7 +22,7 @@ The fictional company **SNOW**, a software solutions firm, wants to test how its
 
 The target is **Jean LOU**, a financial analyst with access to sensitive data. That kind of profile is exactly what a real attacker would go after.
 
-<img src="/assets/images/gophish/target-email.png" alt="Target email address (redacted)" />
+<img src="/assets/images/gophish/target-email.png" alt="Target email address (redacted)" class="media-compact" />
 
 ---
 
