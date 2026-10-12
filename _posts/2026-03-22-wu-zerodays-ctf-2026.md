@@ -4,8 +4,8 @@ date: 2026-03-22 00:00:00 +0000
 categories: [Writeups, CTF]
 tags: [web, steganography, forensics, pwn, network, pcap, idor, sql-injection, path-traversal, stegseek, zsteg, pwntools, xor, buffer-overflow, zerodays, ireland]
 image:
-  path: /assets/images/zerodays-ctf/tuffpigeon-challenge.png
-  alt: Zerodays CTF 2026 Tuff Pigeon challenge
+  path: /assets/images/zerodays-ctf/zerodays-logo.png
+  alt: Official Zero Days Security logo
 ---
 
 Zerodays is The Irish Colleges Cyber-Security Challenge, held every year at Croke Park in Dublin. Teams of four compete across web, forensics, crypto, pwn, stegano, and network categories. This year's edition ran on March 22, 2026.
