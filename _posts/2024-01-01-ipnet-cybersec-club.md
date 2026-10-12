@@ -37,7 +37,7 @@ To run it at scale, I took the open-source **[cyberstudent-ctf](https://github.c
 
 **Seven of the ten teams at the national cybersecurity competition included people trained by the club.**
 
-These are program-level results, not individual claims. My role was to found the club, design its training model, lead its operation and extend the technical infrastructure used to manage participation.
+Those numbers belong to the club as a whole. I founded it, designed the training model, led its operation and extended the bot used to manage participation.
 
 ---
 
@@ -68,7 +68,7 @@ Anyone who solves a challenge has to present their method to the group. It devel
 
 ## From training to public competition
 
-The club's weekly cycle created the participant base, but students also needed a real event in which to test themselves. That led to the [IPNET Cyber Battle](/posts/ipnet-cyber-battle/), a university-organized CTF built by students and opened as a visible showcase of their skills.
+Weekly challenges were useful, but the members also needed a real event with a clock, a scoreboard and unfamiliar opponents. That became the [IPNET Cyber Battle](/posts/ipnet-cyber-battle/), a CTF organized by students at IPNET.
 
 The competitive results are documented separately:
 
@@ -78,4 +78,4 @@ The competitive results are documented separately:
 
 ## What still needs work
 
-The system is effective, but it is demanding to operate. Weekly challenge preparation, writeup review and member tracking depend on sustained volunteer effort. The next stage is to document more of the curriculum, improve mentor delegation and make progress data easier to review without weakening the anti-cheat rules.
+Running the club every week takes time. Someone has to prepare the challenges, review the writeups and follow member progress. The next step is to document more of the curriculum and share more of that work with mentors. I also want the bot to make progress easier to review without weakening its anti-cheat rules.

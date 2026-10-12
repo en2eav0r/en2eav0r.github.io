@@ -25,7 +25,7 @@ Every year level competes in the same bracket.
 | My level | First year |
 | Final position | **3rd overall** |
 
-That common bracket is what made the result meaningful. I was not being compared only with other first-year students; I was answering the same questions and being ranked alongside students who had already spent several years at the institution.
+The common bracket mattered. I was answering the same questions as students who had already spent two or three years at IPNET, not competing in a separate first-year category.
 
 ## The result
 
@@ -35,7 +35,7 @@ I was in my first year. The other four people in the top 5 were all upperclassme
 
 That was enough to get noticed. It also told me something: I didn't need to spend years building up before I could compete at that level.
 
-The competition was not technical, but it tested skills that later became important in technical leadership: understanding an institution beyond the classroom, communicating clearly under pressure and being able to represent its purpose to other people.
+The competition was not technical. Still, it forced me to understand the school beyond the courses and to explain its purpose under pressure. I would use both skills again when I started leading student activities.
 
 ## Why it mattered
 
@@ -43,10 +43,10 @@ Finishing top 5 that early gave me visibility within the institution from day on
 
 ## What followed
 
-This result became the first entry in a longer progression at IPNET:
+Looking back, this was the first visible step in my time at IPNET:
 
 - In 2023, my team won [1st Prize in Networks, Systems & Cybersecurity at JPOPE](/posts/jpope-first-prize/).
 - I founded the [IPNET CyberSec Club](/posts/ipnet-cybersec-club/), building a structured training program for students from L1 to M2.
 - In 2025, I led the organization of the [IPNET Cyber Battle](/posts/ipnet-cyber-battle/), the first university-organized CTF in Togo.
 
-The third-place finish matters less as an isolated award than as the point where participation became leadership.
+The result gave me enough credibility inside the school to start taking on larger projects. The club and the Cyber Battle came later.

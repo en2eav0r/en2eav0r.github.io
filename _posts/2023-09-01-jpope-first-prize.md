@@ -23,13 +23,7 @@ The jury scores on technical depth, clarity, relevance, and how you hold up unde
 
 ### What the format tested
 
-Winning required more than a working demonstration. During the exhibition, a team had to move continuously between three levels of explanation:
-
-- describe the problem to a visitor with no technical background;
-- defend the architecture and implementation choices to an engineer;
-- explain the project's practical value to recruiters and institutional partners.
-
-That combination made the event as much a test of technical communication as of implementation.
+A working demonstration was only the starting point. One minute we were explaining the problem to a visitor who had never seen the technology. The next, an engineer wanted to know why we had chosen that architecture. Recruiters cared about what the project could do outside the lab. We had to switch registers without losing the thread.
 
 ## The result
 
@@ -45,9 +39,9 @@ Second year at IPNET. We built something technically solid and spent hours defen
 
 ## What I took from it
 
-The project exhibition changed the way I present technical work. A diagram, a command or a dashboard is not enough on its own: the audience needs to understand the problem, the decision behind the implementation and the result that can be verified.
+The exhibition changed how I present technical work. A diagram or dashboard may impress another engineer, but it does not explain why the system exists. Since JPOPE, I have tried to show the problem first, then the choices I made and the result someone else can verify.
 
-That approach now appears throughout this portfolio. The [Projects page](/projects/) separates the problem, intended user, contribution, status, proof and limitations for each system. It also shaped how I later organized student demonstrations through the [IPNET CyberSec Club](/posts/ipnet-cybersec-club/) and the [IPNET Cyber Battle](/posts/ipnet-cyber-battle/).
+That is why the [Projects page](/projects/) states who each system is for, what I built, its current status and its limits. I carried the same approach into student demonstrations at the [IPNET CyberSec Club](/posts/ipnet-cybersec-club/) and the [IPNET Cyber Battle](/posts/ipnet-cyber-battle/).
 
 ## Evidence
 

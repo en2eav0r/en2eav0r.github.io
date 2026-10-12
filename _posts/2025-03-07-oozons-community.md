@@ -22,7 +22,7 @@ image:
 | Volunteers | **100+** |
 | Sessions organized | **200+** |
 
-These figures describe the community's collective reach. They are not the output of one person.
+These are Oozons figures, not my personal totals.
 
 ---
 
@@ -32,7 +32,7 @@ These figures describe the community's collective reach. They are not the output
 
 **Vice President**: I started as a volunteer, became Committee Head, then was elected Vice President, responsible for strategic direction and community growth across all programs.
 
-My role is organizational: helping set direction, coordinate programs and extend the community's reach. The trainers, volunteers, partners and local hosts named throughout this page are what make each activity possible.
+As Vice President, I help set the direction and coordinate programs. Each activity still depends on the trainers, volunteers, partners and local hosts who deliver it.
 
 ---
 
@@ -126,6 +126,6 @@ In late 2025, Oozons organized a **2-day Python bootcamp** at **CEFOD Business S
 
 ## What the numbers mean
 
-Oozons works across different formats, so no single metric captures its impact. The 1,000+ people reached includes awareness activities and community programs; it should not be read as 1,000 people completing the same technical curriculum. Event-specific figures, such as 18 Code Clash finalists or more than 30 Python bootcamp participants, are stated separately where available.
+The 1,000+ figure combines awareness activities and community programs. It does not mean that 1,000 people completed the same technical course. Where we have a number tied to one event, such as the 18 Code Clash finalists or the 30+ Python bootcamp participants, I list it separately.
 
-The next step for the community is to measure outcomes beyond attendance: completed training paths, projects shipped, competition participation and opportunities obtained after a program.
+Attendance tells only part of the story. We still need better follow-up on completed training, projects built after a session and opportunities participants obtained later.

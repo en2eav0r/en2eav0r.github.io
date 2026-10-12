@@ -20,7 +20,7 @@ The 2023 edition ran **December 11-12** at the Primus Hotel Kaloum in Conakry, u
 
 For this one I played with **Redteam TG**, which brings together some of the strongest cybersecurity practitioners in Togo. The bar was high and the team was serious. Good challenge.
 
-Unlike an individual exercise, a team CTF depends on parallel work. Players divide categories, share partial findings and change direction quickly when one challenge consumes too much time. Competing with Redteam TG placed my individual work inside that larger coordination problem.
+In a team CTF, several challenges are moving at once. We divided the categories, passed partial findings to one another and dropped a path when it was eating too much time. Playing with Redteam TG taught me how much of a result depends on that coordination.
 
 ## The result
 
@@ -35,7 +35,7 @@ Unlike an individual exercise, a team CTF depends on parallel work. Players divi
 
 We finished first in pre-qual and held a podium position in the final.
 
-The two stages measure different things. Pre-qualification rewards the ability to solve enough of the challenge set to survive the cut. The final adds the pressure of a smaller field, a fixed event schedule and direct comparison with the teams that have already cleared that first filter.
+The pre-qualification and final did not feel the same. The first stage was about solving enough to make the cut. In the final, every remaining team had already done that, and small delays cost places.
 
 ## Context
 
@@ -43,9 +43,9 @@ Playing in Guinea with a cross-border team was something different. It showed th
 
 ## Why the result mattered
 
-The final ranking was not as high as the pre-qualification ranking, but it provided a more useful signal than an easy victory would have. We could lead the qualification stage and remain on the podium in the final, while still seeing the gap between a strong start and first place across an entire event.
+We led the pre-qualification and dropped to third in the final. I would have preferred to keep first place, obviously. The drop showed that topping an online stage and winning the full event were two different jobs.
 
-That experience became part of a progression rather than a standalone result: [1st place at the Togo National CTF 2024](/posts/togo-national-ctf/), selection for [Team Africa at ICC Japan 2025](/posts/icc-japan/), and qualification for the [ECOWAS Grand Final 2026](/posts/ecowas-hackathon-2026/).
+The next results were [1st place at the Togo National CTF 2024](/posts/togo-national-ctf/), selection for [Team Africa at ICC Japan 2025](/posts/icc-japan/) and qualification for the [ECOWAS Grand Final 2026](/posts/ecowas-hackathon-2026/).
 
 ## Evidence and scope
 

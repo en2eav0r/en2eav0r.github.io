@@ -5,7 +5,7 @@ icon: fas fa-trophy
 order: 4
 ---
 
-Results from cybersecurity competitions, technical projects, academic work and community initiatives. Team achievements are identified as such; the linked articles explain my role and the evidence behind each result.
+This page brings together my competition results, academic awards and community work. Most CTF results belong to a team. The linked articles give the context and state my role when it is documented.
 
 ## Competition record
 
@@ -18,14 +18,14 @@ Results from cybersecurity competitions, technical projects, academic work and c
 | 2023 | [FCC Forum CTF](/posts/fcc-ctf-conakry/) | West Africa | **1st in pre-qualification**, 3rd in the final |
 | 2022 | [ECOWAS Hackathon](/posts/ctf-ecowas/) | Africa | **2nd in Togo**, 76th of 119 African teams |
 
-These are team results. Cybersecurity competitions reward specialization and coordination; the individual articles distinguish the team outcome from my own contribution whenever that information is available.
+These are team results. The articles behind them separate the team's ranking from my own contribution whenever that information is available.
 
 ## Technical writeups
 
 - [Togo National CTF 2024: selected Pwn and Crypto challenges](/posts/wu-ctf-national-togo/)
 - [Zerodays CTF 2026: Web, Forensics, Network and Steganography](/posts/wu-zerodays-ctf-2026/)
 
-The writeups show the methodology behind the rankings: reconnaissance, exploitation, debugging and the reasoning used to recover each flag.
+The rankings only give the result. These writeups show some of the work behind them, from the first checks on a challenge to the exploit or decoding method that recovered the flag.
 
 ## Academic awards
 
@@ -41,6 +41,4 @@ The writeups show the methodology behind the rankings: reconnaissance, exploitat
 - **[IPNET Cyber Battle](/posts/ipnet-cyber-battle/):** president and lead organizer of Togo's first university-organized CTF.
 - **[Oozons](/posts/oozons-community/):** Vice President, contributing to digital training, awareness and community programs.
 
-## How to read these results
-
-A ranking says where a team finished; it does not explain the work behind it. Each linked case study adds the competition format, available evidence, lessons learned and the connection to the projects or training programs that followed.
+The ranking tables are the short version. The linked pages contain the competition format, screenshots and the decisions made during each event.

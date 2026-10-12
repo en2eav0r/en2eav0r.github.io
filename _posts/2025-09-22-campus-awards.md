@@ -55,7 +55,7 @@ Recognition of the full body of work: founding the **IPNET CyberSec Club**, buil
 
 ## TVT national television: Journal de 13h
 
-This recognition followed an earlier public milestone. After the **1st place victory at the CTF National du Togo 2024**, I was invited to **TVT (Télévision Togolaise)** for an interview on the **Journal de 13h**, the country's national midday news broadcast. The interview is not one of the two JPOPE awards; it documents the wider competitive work that preceded them.
+The TV interview came earlier. After our **1st place at the CTF National du Togo 2024**, **TVT (Télévision Togolaise)** invited me onto the **Journal de 13h**, the country's national midday news broadcast. It is separate from the two JPOPE awards, but it shows the competitive work that came before them.
 
 [![Interview TVT: Journal de 13h](https://img.youtube.com/vi/nbGtDSE8JiM/maxresdefault.jpg)](https://www.youtube.com/watch?v=nbGtDSE8JiM)
 
