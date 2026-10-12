@@ -51,6 +51,14 @@ article .content img:not(.avatar-img):not(.site-logo):not(.emoji)[src*='/images/
   margin-left: 0;
 }
 
+article .content .img-link:has(> img[src*='/images/wu-national-ctf/']) {
+  display: flex;
+  width: fit-content;
+  max-width: 100%;
+  margin-right: auto;
+  margin-left: 0;
+}
+
 article .content img.media-compact:not(.avatar-img):not(.site-logo):not(.emoji)[src*='/images/campus-awards/'],
 article .content img.media-compact:not(.avatar-img):not(.site-logo):not(.emoji)[src*='/images/wu-national-ctf/'] {
   max-width: min(100%, 30rem);
