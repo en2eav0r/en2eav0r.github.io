@@ -1,25 +1,25 @@
 ---
-title: "IPNET Cyber Battle: Togo's First University-Organized CTF"
+title: "IPNET CYBER BATTLE: Togo's First University-Organized CTF"
 date: 2025-07-19 00:00:00 +0000
 categories: [Achievements, Academic]
 tags: [ctf, cybersecurity, togo, ipnet, organization, first]
 pin: true
 image:
   path: /assets/images/cyberbattle-group.jpg
-  alt: IPNET Cyber Battle 2025 participants
+  alt: IPNET CYBER BATTLE 2025 participants
 ---
 
 > *"Where Cyber Warriors Rise": organized entirely by students.*
 
 ## Watch the event
 
-[<img src="https://img.youtube.com/vi/HdqJ9TKKMVw/maxresdefault.jpg" alt="IPNET Cyber Battle: Official Video" />](https://www.youtube.com/watch?v=HdqJ9TKKMVw&t=1s)
+[<img src="https://img.youtube.com/vi/HdqJ9TKKMVw/maxresdefault.jpg" alt="IPNET CYBER BATTLE: Official Video" />](https://www.youtube.com/watch?v=HdqJ9TKKMVw&t=1s)
 
 ---
 
 ## Overview
 
-The **IPNET Cyber Battle** is the annual CTF organized by the IPNET CyberSec Club at IPNET Institute of Technology, Togo.
+The **IPNET CYBER BATTLE** is the annual CTF organized by the IPNET CyberSec Club at IPNET Institute of Technology, Togo.
 
 Before this event, no university in Togo had ever organized a cybersecurity competition. The IPNET CyberSec Club built one: designed the challenges, deployed the infrastructure, ran the event from start to finish.
 
@@ -27,8 +27,8 @@ Before this event, no university in Togo had ever organized a cybersecurity comp
 
 ## The team
 
-<img src="/assets/images/cyberbattle-group.jpg" alt="Group photo: IPNET Cyber Battle participants" />
-<small class="media-caption">Group photo: IPNET Cyber Battle participants.</small>
+<img src="/assets/images/cyberbattle-group.jpg" alt="Group photo: IPNET CYBER BATTLE participants" />
+<small class="media-caption">Group photo: IPNET CYBER BATTLE participants.</small>
 
 ---
 
@@ -85,8 +85,8 @@ IPNET{y0u_4r3_th3_b3st!bRuh_3ssow7r3oU_g1v3_y0u_4cc3s_t0_th3_r0und_t4bl3_0f_fin4
 
 ## Scoreboard
 
-<img src="/assets/images/cyberbattle-scoreboard.png" alt="Scoreboard IPNET Cyber Battle 2025" />
-<small class="media-caption">Scoreboard IPNET Cyber Battle 2025.</small>
+<img src="/assets/images/cyberbattle-scoreboard.png" alt="Scoreboard IPNET CYBER BATTLE 2025" />
+<small class="media-caption">Scoreboard IPNET CYBER BATTLE 2025.</small>
 
 | Rank | Pseudo | Real Name | Score |
 |------|--------|-----------|-------|
@@ -101,8 +101,8 @@ IPNET{y0u_4r3_th3_b3st!bRuh_3ssow7r3oU_g1v3_y0u_4cc3s_t0_th3_r0und_t4bl3_0f_fin4
 | 9 | Dmod | Not listed | 1 050 pts |
 | 10 | F34r_DrK | Not listed | 1 050 pts |
 
-<img src="/assets/images/cyberbattle-winner.jpg" alt="Official winners: IPNET Cyber Battle 2025" />
-<small class="media-caption">Official winners: IPNET Cyber Battle 2025.</small>
+<img src="/assets/images/cyberbattle-winner.jpg" alt="Official winners: IPNET CYBER BATTLE 2025" />
+<small class="media-caption">Official winners: IPNET CYBER BATTLE 2025.</small>
 
 *13 teams competed. These three stood on top.*
 

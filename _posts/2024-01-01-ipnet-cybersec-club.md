@@ -56,7 +56,7 @@ Anyone who solves a challenge has to present their method to the group. It devel
 - **Zero-tolerance deadline policy**: writeup by the following Saturday or temporary exclusion
 - **Anti-cheat system**: the bot monitors all channels and removes any flag shared outside authorized areas
 - **Best Cyber Battle Woman award**: a deliberate choice to recognize women in cybersecurity
-- **Togo's first university-run CTF**: the [IPNET Cyber Battle](/posts/ipnet-cyber-battle/)
+- **Togo's first university-run CTF**: the [IPNET CYBER BATTLE](/posts/ipnet-cyber-battle/)
 
 ---
 
@@ -68,7 +68,7 @@ Anyone who solves a challenge has to present their method to the group. It devel
 
 ## From training to public competition
 
-Weekly challenges were useful, but the members also needed a real event with a clock, a scoreboard and unfamiliar opponents. That became the [IPNET Cyber Battle](/posts/ipnet-cyber-battle/), a CTF organized by students at IPNET.
+Weekly challenges were useful, but the members also needed a real event with a clock, a scoreboard and unfamiliar opponents. That became the [IPNET CYBER BATTLE](/posts/ipnet-cyber-battle/), a CTF organized by students at IPNET.
 
 The competitive results are documented separately:
 

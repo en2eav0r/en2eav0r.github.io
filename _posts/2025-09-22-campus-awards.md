@@ -18,7 +18,7 @@ That day, I won **two awards simultaneously**.
 
 | Award | Work recognized |
 |---|---|
-| Impact Campus Trophy | Organizing the IPNET Cyber Battle and creating a visible cybersecurity event on campus |
+| Impact Campus Trophy | Organizing the IPNET CYBER BATTLE and creating a visible cybersecurity event on campus |
 | Most Innovative Student | The broader work behind the IPNET CyberSec Club, its infrastructure, pedagogy and results |
 
 ---
@@ -39,7 +39,7 @@ That day, I won **two awards simultaneously**.
 
 *"Innovation, Experience and Practice." JPOPE 2025, IPNET Institute of Technology.*
 
-Awarded for organizing the **IPNET Cyber Battle**, the first CTF competition ever run by a university in Togo. An event entirely conceived and built by students, which put IPNET on the national cybersecurity map.
+Awarded for organizing the **IPNET CYBER BATTLE**, the first CTF competition ever run by a university in Togo. An event entirely conceived and built by students, which put IPNET on the national cybersecurity map.
 
 ---
 
@@ -67,5 +67,5 @@ The TV interview came earlier. After our **1st place at the CTF National du Togo
 ## Related work
 
 - [How the IPNET CyberSec Club trains students](/posts/ipnet-cybersec-club/)
-- [How the IPNET Cyber Battle was organized](/posts/ipnet-cyber-battle/)
+- [How the IPNET CYBER BATTLE was organized](/posts/ipnet-cyber-battle/)
 - [Togo National CTF 2024: result and team context](/posts/togo-national-ctf/)
