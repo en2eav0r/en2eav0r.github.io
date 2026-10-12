@@ -13,7 +13,7 @@ image:
 
 ## Watch the event
 
-[<img src="https://img.youtube.com/vi/HdqJ9TKKMVw/maxresdefault.jpg" alt="IPNET Cyber Battle: Official Video" style="border-radius: 10px; width: 65%;" />](https://www.youtube.com/watch?v=HdqJ9TKKMVw&t=1s)
+[<img src="https://img.youtube.com/vi/HdqJ9TKKMVw/maxresdefault.jpg" alt="IPNET Cyber Battle: Official Video" />](https://www.youtube.com/watch?v=HdqJ9TKKMVw&t=1s)
 
 ---
 
@@ -27,17 +27,17 @@ Before this event, no university in Togo had ever organized a cybersecurity comp
 
 ## The team
 
-<img src="/assets/images/cyberbattle-group.jpg" alt="Group photo: IPNET Cyber Battle participants" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/cyberbattle-group.jpg" alt="Group photo: IPNET Cyber Battle participants" />
 
 ---
 
 ## Inside the competition
 
-<img src="/assets/images/cyberbattle-supervision.jpg" alt="Charles supervising a challenger" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/cyberbattle-supervision.jpg" alt="Charles supervising a challenger" />
 
 *ASSIMTI Essowèréou Charles: President of the club, on the floor during the competition, supervising challengers in real time.*
 
-<img src="/assets/images/cyberbattle-girls-collab.jpg" alt="Two participants collaborating" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/cyberbattle-girls-collab.jpg" alt="Two participants collaborating" />
 
 ---
 
@@ -82,7 +82,7 @@ IPNET{y0u_4r3_th3_b3st!bRuh_3ssow7r3oU_g1v3_y0u_4cc3s_t0_th3_r0und_t4bl3_0f_fin4
 
 ## Scoreboard
 
-<img src="/assets/images/cyberbattle-scoreboard.png" alt="Scoreboard IPNET Cyber Battle 2025" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/cyberbattle-scoreboard.png" alt="Scoreboard IPNET Cyber Battle 2025" />
 
 | Rank | Pseudo | Real Name | Score |
 |------|--------|-----------|-------|
@@ -97,7 +97,7 @@ IPNET{y0u_4r3_th3_b3st!bRuh_3ssow7r3oU_g1v3_y0u_4cc3s_t0_th3_r0und_t4bl3_0f_fin4
 | 9 | Dmod | Not listed | 1 050 pts |
 | 10 | F34r_DrK | Not listed | 1 050 pts |
 
-<img src="/assets/images/cyberbattle-winner.jpg" alt="Official winners: IPNET Cyber Battle 2025" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/cyberbattle-winner.jpg" alt="Official winners: IPNET Cyber Battle 2025" />
 
 *13 teams competed. These three stood on top.*
 
@@ -116,13 +116,13 @@ Beyond the scoreboard, four special awards:
 
 ### Blood Hunter: Sitou Abdel Maaliki
 
-<img src="/assets/images/cyberbattle-bloodhunter.jpg" alt="Blood Hunter award: Sitou Abdel Maaliki" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/cyberbattle-bloodhunter.jpg" alt="Blood Hunter award: Sitou Abdel Maaliki" />
 
 The **Blood Hunter** award goes to whoever draws first blood on the hardest challenge. **Sitou Abdel Maaliki** (`Abdól`), ranked 4th overall, took it. 4th on the scoreboard but first on the challenge that stopped everyone else.
 
 ### Best Cyber Battle Woman: Bodjona Essosolam Trinity-Wonder
 
-<img src="/assets/images/cyberbattle-bestwoman.jpg" alt="Best Cyber Battle Woman: Bodjona Essosolam Trinity-Wonder" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/cyberbattle-bestwoman.jpg" alt="Best Cyber Battle Woman: Bodjona Essosolam Trinity-Wonder" />
 
 **Bodjona Essosolam Trinity-Wonder** (`Tr1n1tyX_`) competed with focus and consistency throughout. The award wasn't ceremonial. She went on to win best female participant at the national ANCY competition.
 

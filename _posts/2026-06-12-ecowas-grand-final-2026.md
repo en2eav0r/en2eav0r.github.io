@@ -66,7 +66,7 @@ Twelve countries in the room:
 | 🇨🇻 Cape Verde | CyberSharks |
 | 🇬🇳 Guinea | SilySec |
 
-<img src="/assets/images/ecowas-final/all-competitors.jpg" alt="Group photo of all 12 competing teams at the ECOWAS Hackathon 2026 Grand Final in Accra" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/ecowas-final/all-competitors.jpg" alt="Group photo of all 12 competing teams at the ECOWAS Hackathon 2026 Grand Final in Accra" />
 
 ---
 
@@ -88,7 +88,7 @@ KOTH started Wednesday at 9 a.m. Going in, we knew this was the round where the 
 
 If you don't know KOTH: you have to break into a shared machine, get root, then patch the vuln you used so no other team can come in the same way. To prove you have control, you write your team name into `/root/team.txt`. First to claim the hill gets a bonus, every tick your name is still in the file you score, and the machine resets every hour so everyone fights for it again.
 
-<img src="/assets/images/ecowas-final/koth-format.webp" alt="Diagram of the King of the Hill format used at the ECOWAS Grand Final 2026" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/ecowas-final/koth-format.webp" alt="Diagram of the King of the Hill format used at the ECOWAS Grand Final 2026" />
 
 In a competition setting that format is dangerous. Your performance depends entirely on the bracket you draw. If you're in a strong group you have to take the hill first or you bleed points the whole hour. And the gap compounds: once a team is king and patches well, catching up gets really hard.
 
@@ -104,7 +104,7 @@ The second KOTH session, the one that was supposed to give us a chance to recove
 
 Meanwhile Nigeria dominated their KOTH bracket from start to finish, and Guinea did the same in theirs. You could already guess who was going to end up at the top.
 
-<img src="/assets/images/ecowas-final/redteam-tg-laptops.jpg" alt="RedTeam-TG focused on their laptops during the ECOWAS Grand Final competition floor" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/ecowas-final/redteam-tg-laptops.jpg" alt="RedTeam-TG focused on their laptops during the ECOWAS Grand Final competition floor" />
 
 ---
 
@@ -188,7 +188,7 @@ The results ceremony was hard to sit through. Every team got called up, every ce
 
 Then the host said it: the three remaining teams should stand and go to the back of the room. We stood up. That's when I understood we had actually done it.
 
-<img src="/assets/images/ecowas-final/podium-prizes.jpg" alt="Closing ceremony of the ECOWAS Hackathon 2026 Grand Final with the top teams holding their prizes" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/ecowas-final/podium-prizes.jpg" alt="Closing ceremony of the ECOWAS Hackathon 2026 Grand Final with the top teams holding their prizes" />
 
 ---
 
@@ -200,7 +200,7 @@ Then the host said it: the three remaining teams should stand and go to the back
 | 🥈 2nd | 🇧🇯 Benin | Escadron |
 | 🥉 **3rd** | 🇹🇬 **Togo** | **RedTeam-TG** |
 
-<img src="/assets/images/ecowas-final/togo-trophy.jpg" alt="RedTeam-TG with the 3rd place trophy at the ECOWAS Hackathon 2026 Grand Final" style="border-radius: 10px; width: 65%;" />
+<img src="/assets/images/ecowas-final/togo-trophy.jpg" alt="RedTeam-TG with the 3rd place trophy at the ECOWAS Hackathon 2026 Grand Final" />
 
 First time at this stage for me, and a first for Togo at this competition. My teammates and I put Togo on the ECOWAS podium. I still don't really have words for what that felt like.
 

@@ -1,4 +1,23 @@
-/* Rounded borders on all post images */
-img:not(.avatar-img):not(.site-logo) {
+/* Article media should follow the reading column instead of arbitrary widths. */
+article .content img:not(.avatar-img):not(.site-logo) {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 1.75rem auto 0.75rem;
+  border: 1px solid var(--main-border-color);
   border-radius: 12px;
+}
+
+/* Logos, portraits and mobile screenshots keep a useful natural scale. */
+article .content img.media-compact {
+  width: auto;
+  max-width: min(100%, 30rem);
+}
+
+@media (max-width: 576px) {
+  article .content img:not(.avatar-img):not(.site-logo) {
+    margin-top: 1.25rem;
+    border-radius: 10px;
+  }
 }
