@@ -9,6 +9,17 @@ Security tools and infrastructure I have built. Some ran in a lab, some are work
 
 ---
 
+## Vigie: phishing-link protection before navigation
+
+- **Problem:** A newly created phishing page may not appear in blocklists yet, especially when it targets a bank or mobile money service in West Africa.
+- **Who it is for:** People receiving links through WhatsApp, SMS, email or documents, with Togo and West Africa as the first target region.
+- **What I did:** Built the investigation server, the web application and the Windows client. Vigie checks redirects, domain signals, page content, brand identity and threat feeds before an AI model reviews the collected evidence. Fixed safety rules make the final decision stricter when needed.
+- **Status:** Working web and Windows versions. Android is in progress.
+- **Proof:** [Technical write-up and evaluation results](/posts/vigie-link-protection/) · [Live demo](https://vigie.assimti-charles.tech) · [Source code](https://github.com/en2eav0r/vigie)
+- **Limit and next step:** The test allowed 57 of 60 legitimate sites. Reducing those false positives and signing the Windows installer come next.
+
+---
+
 ## APAST: intrusion detection and alerting
 
 - **Problem:** Small organizations in Togo get attacked and have no detection in place, usually because commercial SIEMs cost too much.
