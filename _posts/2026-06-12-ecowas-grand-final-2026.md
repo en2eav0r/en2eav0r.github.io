@@ -3,6 +3,8 @@ title: "From Lomé to Accra: Togo's First Podium at the ECOWAS Hackathon Grand F
 date: 2026-06-12 00:00:00 +0000
 categories: [Achievements, CTF Competitions]
 tags: [ecowas, ctf, jeopardy, koth, code-review, red-vs-blue, battleground, redteam-tg, togo, accra, ghana, west-africa, cybersecurity]
+pin: true
+pin_order: 2
 image:
   path: /assets/images/ecowas-final/ecowas-final-cover.jpg
   alt: RedTeam-TG on stage, applauded by the other teams after the ECOWAS Grand Final 2026 results

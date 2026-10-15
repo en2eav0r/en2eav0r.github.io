@@ -4,6 +4,7 @@ date: 2025-07-19 00:00:00 +0000
 categories: [Achievements, Academic]
 tags: [ctf, cybersecurity, togo, ipnet, organization, first]
 pin: true
+pin_order: 3
 image:
   path: /assets/images/cyberbattle-group.jpg
   alt: IPNET CYBER BATTLE 2025 participants
