@@ -61,7 +61,7 @@ Useful references:
 ## PCAP Analyzer
 
 - **Problem:** Going through a packet capture by hand in Wireshark is slow, and it's easy to miss a credential or a query buried in a TCP stream.
-- **Who it is for:** Analysts doing network forensics, and CTF players working on forensics challenges.
+- **Who it is for:** I developed it for Team AFRICC to use at the International Cybersecurity Challenge 2025 in Japan. It is also useful to analysts doing network forensics and CTF players working on forensics challenges.
 - **What I did:** Wrote the whole tool in Python. It rebuilds TCP streams, parses HTTP, Redis and PostgreSQL traffic, uses entropy to spot encrypted payloads, flags credentials, tokens and injection patterns, and exports JSON, text and CSV reports.
 - **Status:** Working tool, open source.
 - **Proof:** [Source code and documentation](https://github.com/en2eav0r/PCAP-Analyzer)

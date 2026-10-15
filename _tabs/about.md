@@ -17,7 +17,7 @@ Since 2024 I have worked as a network and cybersecurity engineer at a petroleum 
 I started building before I knew it was a job. In high school I made a website from my phone so students could download past exam papers. Today the work is more technical:
 
 - **[APAST](/posts/apast-siem-deployment/)**, an intrusion detection setup with real-time Telegram alerts, built from open-source tools so a small team can afford it.
-- **[PCAP Analyzer](https://github.com/en2eav0r/PCAP-Analyzer)**, a Python tool that turns a packet capture into a readable report of streams, queries and leaked secrets.
+- **[PCAP Analyzer](https://github.com/en2eav0r/PCAP-Analyzer)**, a Python tool I developed for Team AFRICC to use at ICC 2025 in Japan. It turns packet captures into readable reports of streams, queries and leaked secrets.
 
 The [Projects](/projects/) page says for each one what I did myself and what is still missing.
 
