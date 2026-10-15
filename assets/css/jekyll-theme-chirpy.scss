@@ -31,6 +31,13 @@ article .content img:not(.avatar-img):not(.site-logo):not(.emoji) {
   background-color: #f3f6fb;
 }
 
+/* Preserve the complete square award photo in its wide home-page card. */
+#post-list .post-preview img[src*='/images/campus-awards/campus-award-innovative.jpg'] {
+  object-fit: contain;
+  object-position: center;
+  background-color: #fdfdfd;
+}
+
 /* Logos, portraits and mobile screenshots keep a useful natural scale. */
 article .content img.media-compact:not(.avatar-img):not(.site-logo):not(.emoji) {
   width: auto;
