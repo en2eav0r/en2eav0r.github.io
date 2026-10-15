@@ -24,6 +24,13 @@ article .content img:not(.avatar-img):not(.site-logo):not(.emoji) {
   border-radius: 16px;
 }
 
+/* Keep the full Vigie interface visible in its home-page card. */
+#post-list .post-preview img[src*='/images/vigie/hero.png'] {
+  object-fit: contain;
+  object-position: center;
+  background-color: #f3f6fb;
+}
+
 /* Logos, portraits and mobile screenshots keep a useful natural scale. */
 article .content img.media-compact:not(.avatar-img):not(.site-logo):not(.emoji) {
   width: auto;
