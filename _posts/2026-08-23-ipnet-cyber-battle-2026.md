@@ -187,9 +187,14 @@ The participant accounts are consistent on this point. Flags mattered, but the l
 
 After 24 hours, the final podium was:
 
-1. **Chibrax2000**, first place and 100,000 FCFA.
-2. **n0_m3Rcy**, second place and 50,000 FCFA.
-3. **Cyber_Rangers**, third place and 25,000 FCFA.
+1. **Chibrax2000**, first place with 2765 points and 100,000 FCFA.
+2. **n0_m3Rcy**, second place with 2675 points and 50,000 FCFA.
+3. **Cyber_Rangers**, third place with 2575 points and 25,000 FCFA.
+
+<figure class="cyber-battle-scoreboard-shot">
+  <img src="/assets/images/cyber-battle-2026/final-scoreboard.webp" alt="Final scoreboard of IPNET CYBER BATTLE 2026 showing the ranking and scores of the ten teams" loading="lazy">
+  <figcaption>The final scoreboard after 24 hours of competition.</figcaption>
+</figure>
 
 <div class="cyber-battle-winner-grid" aria-label="The three winning teams at IPNET CYBER BATTLE 2026">
   <figure>
