@@ -60,7 +60,7 @@ A continuous Jeopardy CTF remained at the center of the competition, with web, f
 
 The opening did not go as smoothly as planned. Before several teams could attack a web challenge or inspect a forensic image, they first had to reach the competition platform.
 
-The same moment appears in several participant accounts. Members of Chibrax2000, Cyber_Rangers and TriH4ck remember repeated connection attempts, page refreshes and a short period of confusion. Abdel Maaliki SITOU estimated that his team spent between ten and twenty minutes trying to access the interface. One participant later joked that connecting to the platform had become the first challenge of the day.
+The same moment appears in several participant accounts. Members of Chibrax2000, Cyber_Rangers and TriH4ck remember repeated connection attempts, page refreshes and a short period of confusion. **Abdel Maaliki SITOU** estimated that his team spent between ten and twenty minutes trying to access the interface. One participant later joked that connecting to the platform had become the first challenge of the day.
 
 It was frustrating in the room, but it also changed the opening mood. Teams had to communicate and stay calm before the intended competition had even started. Once access stabilized, the 24-hour clock felt real.
 
@@ -70,7 +70,7 @@ It was frustrating in the room, but it also changed the opening mood. Teams had 
 
 Each team appeared before the jury and received a piece of vulnerable code. The players had three minutes to identify the flaw, name it and explain how they would patch it. No computer and no AI. They had to read, reason and answer live.
 
-For Abdel Maaliki SITOU of Cyber_Rangers, this was one of the most enjoyable rounds because code review was already part of his personal practice. It showed why we wanted several formats. A player who was not the fastest in a Jeopardy category could still become decisive when the challenge called for careful reading and a clear explanation.
+For **Abdel Maaliki SITOU** of Cyber_Rangers, this was one of the most enjoyable rounds because code review was already part of his personal practice. It showed why we wanted several formats. A player who was not the fastest in a Jeopardy category could still become decisive when the challenge called for careful reading and a clear explanation.
 
 ### Lockpicking
 
@@ -91,7 +91,7 @@ The change of medium mattered. There was no command to rerun and no search resul
 
 For each selected Jeopardy category, every team chose its strongest player. Those specialists then faced the same challenge in a separate arena where AI was forbidden. The first three to solve it earned bonuses for their teams.
 
-Ten players entered the arena without their teammates to cover a mistake. They had only their knowledge, their reasoning and the time available. Loukouman KERIM represented n0_m3Rcy in web security. Abdel Maaliki SITOU represented Cyber_Rangers in steganography. The round turned a team event into a direct technical confrontation for a few minutes.
+Ten players entered the arena without their teammates to cover a mistake. They had only their knowledge, their reasoning and the time available. **Loukouman KERIM** represented n0_m3Rcy in web security. **Abdel Maaliki SITOU** represented Cyber_Rangers in steganography. The round turned a team event into a direct technical confrontation for a few minutes.
 
 <div class="cyber-battle-photo-grid" aria-label="Virtuoso Arena">
   <figure>
@@ -147,9 +147,9 @@ Seven speakers took part. Each brought a different view of cybersecurity, from f
   </figure>
 </div>
 
-Zariétou OURO-SAMA hosted the morning. The format mixed talks, demonstrations and questions from students before the room shifted into competition mode.
+**Zariétou OURO-SAMA** hosted the morning. The format mixed talks, demonstrations and questions from students before the room shifted into competition mode.
 
-Daniel ALLADO left the audience with a simple boundary: without authorization, there is no test. HAALIDE-TRAORE Zou-Nouréïn moved the discussion beyond tools and asked whether real resilience was possible without cooperation between people, companies and public institutions. Dr Nagbandjoa DOUNWOURGUE connected that question to Togo's cybersecurity ecosystem and the role of the National Cybersecurity Agency.
+**Daniel ALLADO** left the audience with a simple boundary: without authorization, there is no test. **HAALIDE-TRAORE Zou-Nouréïn** moved the discussion beyond tools and asked whether real resilience was possible without cooperation between people, companies and public institutions. **Dr Nagbandjoa DOUNWOURGUE** connected that question to Togo's cybersecurity ecosystem and the role of the National Cybersecurity Agency.
 
 The transition from workshop to competition was deliberate. The morning opened the field to people who were curious about cybersecurity. A few hours later, the competitors had to apply the same ideas under time pressure.
 
@@ -161,7 +161,7 @@ Our communication goals included growing the club's LinkedIn page to 1,000 follo
 
 The event also relied on organizations that backed the initiative in different ways. The partners and supporters presented during the campaign included **APSI-TG**, **BASE8**, **IPNET Institute of Technology**, **DigiDesk**, **Hack The Box Meetup Lomé** and **Hackviser**.
 
-Each partnership said something about the event we wanted to build. APSI-TG linked the competition to the professional cybersecurity community in Togo. BASE8 supported youth leadership and the participation of young women. Hack The Box Meetup Lomé brought a community of more than 580 members and experience from 25 events. Hackviser represented learning through practice. DigiDesk helped an initiative led by young people gain visibility, while IPNET gave the project its home and its educational foundation.
+Each partnership said something about the event we wanted to build. **APSI-TG** linked the competition to the professional cybersecurity community in Togo. **BASE8** supported youth leadership and the participation of young women. **Hack The Box Meetup Lomé** brought a community of more than 580 members and experience from 25 events. **Hackviser** represented learning through practice. **DigiDesk** helped an initiative led by young people gain visibility, while **IPNET Institute of Technology** gave the project its home and its educational foundation.
 
 The public campaign became part of the organization itself. We introduced the teams, announced the speakers one by one, explained the special rounds and gave the partners a reason for supporting the event. By the time the doors opened, the audience already knew some of the names and rivalries.
 
@@ -169,7 +169,7 @@ The public campaign became part of the organization itself. We introduced the te
 
 The first hours were technical. Later, the competition became just as much about energy, priorities and trust.
 
-While one player entered the Virtuoso Arena or attempted the lockpicking round, the other team members still had to keep the Jeopardy CTF moving. Captains divided categories, decided when to abandon a bad lead and tried to keep everyone focused. Stive Dossa MEWANOU TOFFON, captain of RedSquad, later described the job as coordinating efforts, identifying priorities and maintaining the team's momentum once fatigue set in.
+While one player entered the Virtuoso Arena or attempted the lockpicking round, the other team members still had to keep the Jeopardy CTF moving. Captains divided categories, decided when to abandon a bad lead and tried to keep everyone focused. **Stive Dossa MEWANOU TOFFON**, captain of RedSquad, later described the job as coordinating efforts, identifying priorities and maintaining the team's momentum once fatigue set in.
 
 The participant accounts are consistent on this point. Flags mattered, but the lasting lesson was how to keep working after a failed approach. Teams searched, tested, got stuck, changed direction and started again. The pressure exposed communication problems quickly. It also made good teamwork impossible to miss.
 
@@ -181,14 +181,34 @@ After 24 hours, the final podium was:
 2. **n0_m3Rcy**, second place.
 3. **Cyber_Rangers**, third place.
 
+<div class="cyber-battle-winner-grid" aria-label="The three winning teams at IPNET CYBER BATTLE 2026">
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/winners/first-place.webp" alt="Chibrax2000 receiving the first-place trophy and 100,000 FCFA prize" loading="lazy">
+    <figcaption><strong>1st place: Chibrax2000</strong><span>100,000 FCFA</span></figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/winners/second-place.webp" alt="n0_m3Rcy receiving the second-place prize" loading="lazy">
+    <figcaption><strong>2nd place: n0_m3Rcy</strong><span>50,000 FCFA</span></figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/winners/third-place.webp" alt="Cyber_Rangers receiving the third-place prize" loading="lazy">
+    <figcaption><strong>3rd place: Cyber_Rangers</strong><span>25,000 FCFA</span></figcaption>
+  </figure>
+</div>
+
 Two individual awards recognized performances outside the team ranking:
 
-- **Best Cyber Battle Woman 2026:** Audrey BATCHATI, captain of DarkKernel.
-- **Blood Hunter:** Patrick MOGAO of n0_m3Rcy.
+- **Best Cyber Battle Woman 2026:** **Audrey BATCHATI**, captain of DarkKernel.
+- **Blood Hunter:** **Patrick MOGAO** of n0_m3Rcy.
 
-Chibrax2000 won **100,000 FCFA**. Its members were Elpidio Alexis AMOUSSOU, Kodjogan Josias KOUDADZE and Tchamiye Lidao Tchendie. n0_m3Rcy brought together Dominique-Savio SAKOI, Patrick MOGAO and Loukouman KERIM. Cyber_Rangers was formed by Yendoubouame Joseph NAKORE, Abdel Maaliki SITOU and Yaovi Emmanuel KOMLAN.
+<figure class="cyber-battle-award-photo">
+  <img src="/assets/images/cyber-battle-2026/winners/best-cyber-battle-woman.webp" alt="Audrey BATCHATI receiving the Best Cyber Battle Woman 2026 trophy and prize" loading="lazy">
+  <figcaption><strong>Audrey BATCHATI</strong>, Best Cyber Battle Woman 2026</figcaption>
+</figure>
 
-Patrick MOGAO left with both the second-place team result and the Blood Hunter distinction. Audrey BATCHATI captained DarkKernel with Joël Ekoue KOUVAHE and Essognim Marcel Jr KASSANG before receiving the Best Cyber Battle Woman award.
+Chibrax2000 won **100,000 FCFA**. Its members were **Elpidio Alexis AMOUSSOU**, **Kodjogan Josias KOUDADZE** and **Tchamiye Lidao Tchendie**. n0_m3Rcy brought together **Dominique-Savio SAKOI**, **Patrick MOGAO** and **Loukouman KERIM**. Cyber_Rangers was formed by **Yendoubouame Joseph NAKORE**, **Abdel Maaliki SITOU** and **Yaovi Emmanuel KOMLAN**.
+
+**Patrick MOGAO** left with both the second-place team result and the Blood Hunter distinction. **Audrey BATCHATI** captained DarkKernel with **Joël Ekoue KOUVAHE** and **Essognim Marcel Jr KASSANG** before receiving the Best Cyber Battle Woman award.
 
 ## What I am taking into 2027
 
@@ -199,20 +219,3 @@ It also showed us where the event needs to improve. Platform access must be test
 The best evidence came after the closing ceremony. Participants wrote about the failed attempts, the stress, the jokes, the locks that refused to open and the teammates who kept them going. They did not describe a perfect event. They described one they remembered.
 
 That is the standard for 2027: keep the technical level high, fix the rough edges and give more young people a place where they can find out what they are capable of.
-
-## Sources used while preparing this draft
-
-- [IPNET CYBERSEC CLUB on LinkedIn](https://www.linkedin.com/company/ipnetcybersec)
-- [Workshop speakers and opening recap](https://www.linkedin.com/feed/update/urn:li:activity:7497060732409401344/)
-- [CYBER BATTLE 2026 workshop and competition transition](https://www.linkedin.com/feed/update/urn:li:activity:7498290567869669376/)
-- [Virtuoso Arena recap](https://www.linkedin.com/feed/update/urn:li:activity:7498635597721485312/)
-- [Lockpicking recap](https://www.linkedin.com/feed/update/urn:li:activity:7498393852156874754/)
-- [Best Cyber Battle Woman 2026 announcement](https://fr.linkedin.com/posts/ipnet-ctf_cyberbattle2026-cyberbattle2026-ipnetcybersecclub-activity-7492157740488847360-yOCP)
-- [Cyber_Rangers participant recap](https://fr.linkedin.com/posts/yendoubouame-joseph-nakore-a25413333_cyberbattle2026-cybersecurity-ctf-activity-7498716119533256705-XPxr)
-- [Audrey BATCHATI's recap](https://fr.linkedin.com/posts/audrey-batchati-361b05266_darkkernel-cybersecurity-ctf-activity-7499115146066264065-uz8b)
-- [Patrick MOGAO's recap](https://fr.linkedin.com/posts/patrickmogao_n0m3rcy-n0m3rcy-cyberbattle2026-activity-7500836197032722433-Ac_6)
-- [Ten teams announced for CYBER BATTLE 2026](https://www.linkedin.com/feed/update/urn:li:activity:7492233248438370304/)
-- [Best Cyber Battle Woman participants](https://www.linkedin.com/feed/update/urn:li:activity:7492157740488847360/)
-- [TriH4ck participant recap](https://www.linkedin.com/feed/update/urn:li:activity:7499953834337693696/)
-- [RedSquad captain's recap](https://www.linkedin.com/feed/update/urn:li:activity:7499166853265526784/)
-- [Daniel ALLADO's workshop recap](https://www.linkedin.com/feed/update/urn:li:activity:7498052168587898880/)

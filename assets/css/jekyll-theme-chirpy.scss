@@ -275,6 +275,54 @@ article .content .cyber-battle-featured-poster img:not(.avatar-img):not(.site-lo
   border-radius: 12px;
 }
 
+article .content .cyber-battle-winner-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+article .content .cyber-battle-winner-grid figure {
+  min-width: 0;
+  margin: 0;
+}
+
+article .content .cyber-battle-winner-grid img:not(.avatar-img):not(.site-logo):not(.emoji) {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  margin: 0;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+article .content .cyber-battle-winner-grid figcaption {
+  display: grid;
+  gap: 0.15rem;
+  margin-top: 0.55rem;
+  color: var(--text-muted-color);
+  text-align: left;
+}
+
+article .content .cyber-battle-winner-grid figcaption strong {
+  color: var(--heading-color);
+}
+
+article .content .cyber-battle-award-photo {
+  max-width: 48rem;
+  margin: 1.5rem 0 2rem;
+}
+
+article .content .cyber-battle-award-photo img:not(.avatar-img):not(.site-logo):not(.emoji) {
+  width: 100%;
+  margin: 0;
+  border-radius: 12px;
+}
+
+article .content .cyber-battle-award-photo figcaption {
+  margin-top: 0.55rem;
+  text-align: left;
+}
+
 article .content .cyber-battle-photo-grid img:not(.avatar-img):not(.site-logo):not(.emoji) {
   aspect-ratio: 4 / 3;
   object-fit: cover;
@@ -307,6 +355,10 @@ article .content .cyber-battle-speaker-grid figcaption strong {
 
   article .content .cyber-battle-team-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  article .content .cyber-battle-winner-grid {
+    grid-template-columns: 1fr;
   }
 
 }
