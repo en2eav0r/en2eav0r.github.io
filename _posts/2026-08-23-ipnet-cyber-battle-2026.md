@@ -38,16 +38,16 @@ The largest change was the duration. The 2025 competition ran for 12 hours. The 
 It also became a team competition. Ten teams of three entered the event.
 
 <div class="cyber-battle-team-grid" aria-label="The ten teams competing in IPNET CYBER BATTLE 2026">
-  <figure><img src="/assets/images/cyber-battle-2026/teams/team-chibrax2000.jpg" alt="Chibrax2000 team presentation" loading="lazy"></figure>
-  <figure><img src="/assets/images/cyber-battle-2026/teams/team-cyber-rangers.jpg" alt="Cyber_Rangers team presentation" loading="lazy"></figure>
-  <figure><img src="/assets/images/cyber-battle-2026/teams/team-darkkernel.jpg" alt="DarkKernel team presentation" loading="lazy"></figure>
-  <figure><img src="/assets/images/cyber-battle-2026/teams/team-n0-m3rcy.jpg" alt="n0_m3Rcy team presentation" loading="lazy"></figure>
-  <figure><img src="/assets/images/cyber-battle-2026/teams/team-sh4d0wbr0wk3rs.jpg" alt="Sh4d0wBr0wk3rs team presentation" loading="lazy"></figure>
-  <figure><img src="/assets/images/cyber-battle-2026/teams/team-down-7h3m-4ll.jpg" alt="Down_7h3m_4ll team presentation" loading="lazy"></figure>
-  <figure><img src="/assets/images/cyber-battle-2026/teams/team-redsquad.jpg" alt="RedSquad team presentation" loading="lazy"></figure>
-  <figure><img src="/assets/images/cyber-battle-2026/teams/team-trih4ck.jpg" alt="TriH4ck team presentation" loading="lazy"></figure>
-  <figure><img src="/assets/images/cyber-battle-2026/teams/team-5hadow-3ncrypt.jpg" alt="5hadow_3ncrypt team presentation" loading="lazy"></figure>
-  <figure><img src="/assets/images/cyber-battle-2026/teams/team-shinobi.jpg" alt="SHINOBI team presentation" loading="lazy"></figure>
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-chibrax2000.jpg" alt="Chibrax2000 team presentation" loading="lazy"><figcaption>Chibrax2000</figcaption></figure>
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-cyber-rangers.jpg" alt="Cyber_Rangers team presentation" loading="lazy"><figcaption>Cyber_Rangers</figcaption></figure>
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-darkkernel.jpg" alt="DarkKernel team presentation" loading="lazy"><figcaption>DarkKernel</figcaption></figure>
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-n0-m3rcy.jpg" alt="n0_m3Rcy team presentation" loading="lazy"><figcaption>n0_m3Rcy</figcaption></figure>
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-sh4d0wbr0wk3rs.jpg" alt="Sh4d0wBr0wk3rs team presentation" loading="lazy"><figcaption>Sh4d0wBr0wk3rs</figcaption></figure>
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-down-7h3m-4ll.jpg" alt="Down_7h3m_4ll team presentation" loading="lazy"><figcaption>Down_7h3m_4ll</figcaption></figure>
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-redsquad.jpg" alt="RedSquad team presentation" loading="lazy"><figcaption>RedSquad</figcaption></figure>
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-trih4ck.jpg" alt="TriH4ck team presentation" loading="lazy"><figcaption>TriH4ck</figcaption></figure>
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-5hadow-3ncrypt.jpg" alt="5hadow_3ncrypt team presentation" loading="lazy"><figcaption>5hadow_3ncrypt</figcaption></figure>
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-shinobi.jpg" alt="SHINOBI team presentation" loading="lazy"><figcaption>SHINOBI</figcaption></figure>
 </div>
 
 We introduced each team before the event instead of treating the players as anonymous names on a scoreboard. Chibrax2000 arrived with the idea that every flag was a victory and every challenge a lesson. DarkKernel wanted to master the environment from its core. TriH4ck described hacking as a way to learn, while Sh4d0wBr0wk3rs came with a much more direct line: they did not knock on doors, they walked through walls. These identities gave people someone to follow before the first flag was captured.
