@@ -222,7 +222,7 @@ article .content .cyber-battle-photo-grid {
 }
 
 article .content .cyber-battle-speaker-grid {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 1.25rem 1rem;
 }
 
@@ -234,10 +234,6 @@ article .content .cyber-battle-speaker-grid figure,
 article .content .cyber-battle-photo-grid figure {
   min-width: 0;
   margin: 0;
-}
-
-article .content .cyber-battle-speaker-grid figure:last-child:nth-child(3n + 1) {
-  grid-column: 2;
 }
 
 article .content .cyber-battle-speaker-grid img:not(.avatar-img):not(.site-logo):not(.emoji),
@@ -284,9 +280,6 @@ article .content .cyber-battle-speaker-grid figcaption strong {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
-  article .content .cyber-battle-speaker-grid figure:last-child:nth-child(3n + 1) {
-    grid-column: auto;
-  }
 }
 
 article .preview-img:has(> img[src*='/images/campus-awards/']) {
