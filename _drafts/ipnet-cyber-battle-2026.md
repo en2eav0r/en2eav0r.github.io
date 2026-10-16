@@ -70,20 +70,27 @@ The women taking part competed in a dedicated speed round while their work throu
 
 ## The workshop
 
-The morning began with workshops open to a wider audience. The goal was to make the event useful even for people who were not competing and to create direct conversations with cybersecurity practitioners.
+The morning began with a free workshop at IPNET Agbalépédo, from 8 a.m. to 1 p.m. It was open to the public, with registration limited to 50 places. This part of the event mattered to us because CYBER BATTLE should also serve people who are curious about cybersecurity but are not ready to enter a 24-hour CTF.
 
-Two sessions mentioned by participants were:
+Seven speakers took part:
 
-- **How to approach your career plan as a junior**, presented by Yves Stanislas ADANI, CISA.
-- **From zero to initial access in five minutes**, presented by Isidore Badéra ALI.
+- **Yves Stanislas ADANI, CISA**, on building a career plan as a junior.
+- **Isidore Badéra ALI**, pentester at Cyber Defense Africa, with a live session titled *From zero to initial access in five minutes*.
+- **Daniel ALLADO**, on ethics and the responsibility that comes with offensive security skills.
+- **HAALIDE-TRAORE Zou-Nouréïn**, representing APSI-TG, on collective action and cyber resilience.
+- **Dr Nagbandjoa DOUNWOURGUE**, on Togo's cybersecurity ecosystem and the role of the National Cybersecurity Agency.
+- **ATTER Koffi Kallern**, Web Security Researcher, on getting started in bug bounty from an African perspective.
+- **Bérénice Ablavi HAGBEGNON**, representing BASE8, on leadership in campus and technology communities.
 
-<!-- TODO: Add the complete workshop program, speakers, attendance and one personal moment from the morning. -->
+Zariétou OURO-SAMA hosted the morning. The format mixed talks, demonstrations and questions from students before the room shifted into competition mode.
 
 ## Organizing the event
 
 This edition required more method than the previous one. We wanted stronger public visibility, better coverage of the players and enough food for at least 45 people across the full 24 hours.
 
 Our communication goals included growing the club's LinkedIn page to 1,000 followers and starting a TikTok series about the players. The idea was simple: every participant had a story, and the public needed a reason to care about the people behind the team names.
+
+The event also relied on organizations that backed the initiative in different ways. The partners and supporters presented during the campaign included **APSI-TG**, **BASE8**, **IPNET Institute of Technology**, **DigiDesk** and **Hack The Box Meetup Lomé**. Their involvement covered more than visibility. It connected the competition with professional communities, student leadership and the wider cybersecurity ecosystem in Togo.
 
 <!-- TODO: Explain the budget, sponsor outreach, food plan, night supervision, platform setup and the problems that happened during preparation. -->
 
@@ -111,6 +118,10 @@ The result only tells one part of the story. I still want to write about the dec
 ## Sources used while preparing this draft
 
 - [IPNET CYBERSEC CLUB on LinkedIn](https://www.linkedin.com/company/ipnetcybersec)
+- [Workshop speakers and opening recap](https://www.linkedin.com/feed/update/urn:li:activity:7497060732409401344/)
+- [CYBER BATTLE 2026 workshop and competition transition](https://www.linkedin.com/feed/update/urn:li:activity:7498290567869669376/)
+- [Virtuoso Arena recap](https://www.linkedin.com/feed/update/urn:li:activity:7498635597721485312/)
+- [Lockpicking recap](https://www.linkedin.com/feed/update/urn:li:activity:7498393852156874754/)
 - [Best Cyber Battle Woman 2026 announcement](https://fr.linkedin.com/posts/ipnet-ctf_cyberbattle2026-cyberbattle2026-ipnetcybersecclub-activity-7492157740488847360-yOCP)
 - [Cyber_Rangers participant recap](https://fr.linkedin.com/posts/yendoubouame-joseph-nakore-a25413333_cyberbattle2026-cybersecurity-ctf-activity-7498716119533256705-XPxr)
 - [Audrey BATCHATI's recap](https://fr.linkedin.com/posts/audrey-batchati-361b05266_darkkernel-cybersecurity-ctf-activity-7499115146066264065-uz8b)
