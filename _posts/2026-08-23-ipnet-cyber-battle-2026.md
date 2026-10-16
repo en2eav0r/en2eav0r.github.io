@@ -177,9 +177,9 @@ The participant accounts are consistent on this point. Flags mattered, but the l
 
 After 24 hours, the final podium was:
 
-1. **Chibrax2000**, first place and a prize of 100,000 FCFA.
-2. **n0_m3Rcy**, second place.
-3. **Cyber_Rangers**, third place.
+1. **Chibrax2000**, first place and 100,000 FCFA.
+2. **n0_m3Rcy**, second place and 50,000 FCFA.
+3. **Cyber_Rangers**, third place and 25,000 FCFA.
 
 <div class="cyber-battle-winner-grid" aria-label="The three winning teams at IPNET CYBER BATTLE 2026">
   <figure>
@@ -196,10 +196,12 @@ After 24 hours, the final podium was:
   </figure>
 </div>
 
+The champion team also received the official 2026 trophy, three annual **HTB Pro Labs & VIP+** subscriptions and the champions' T-shirts. The second- and third-place teams each received three annual **HTB Pro Labs & VIP+** subscriptions and official T-shirts alongside their financial awards.
+
 Three individual awards recognized performances outside the team ranking:
 
-- **Best Cyber Battle Woman 2026:** **Audrey BATCHATI**, captain of DarkKernel.
-- **Blood Hunter:** **Patrick MOGAO** of n0_m3Rcy.
+- **Best Cyber Battle Woman 2026:** **Audrey BATCHATI**, captain of DarkKernel, received 25,000 FCFA, the special inclusion award, an official certificate of female leadership and three annual **HTB Pro Labs & VIP+** subscriptions.
+- **First Blood:** **Patrick MOGAO** of n0_m3Rcy received an official elite certificate and one annual **HTB Pro Labs** subscription.
 - **Best Writeup:** **AYAYI Jean-Marie**, recognized for the clarity, precision and technical rigor of his writeups throughout the year and during IPNET CYBER BATTLE 2026.
 
 <div class="cyber-battle-award-grid" aria-label="Individual award winners at IPNET CYBER BATTLE 2026">
@@ -215,7 +217,9 @@ Three individual awards recognized performances outside the team ranking:
 
 Chibrax2000 won **100,000 FCFA**. Its members were **Elpidio Alexis AMOUSSOU**, **Kodjogan Josias KOUDADZE** and **Tchamiye Lidao Tchendie**. n0_m3Rcy brought together **Dominique-Savio SAKOI**, **Patrick MOGAO** and **Loukouman KERIM**. Cyber_Rangers was formed by **Yendoubouame Joseph NAKORE**, **Abdel Maaliki SITOU** and **Yaovi Emmanuel KOMLAN**.
 
-**Patrick MOGAO** left with both the second-place team result and the Blood Hunter distinction. **Audrey BATCHATI** captained DarkKernel with **Joël Ekoue KOUVAHE** and **Essognim Marcel Jr KASSANG** before receiving the Best Cyber Battle Woman award.
+Every competitor received an official IPNET CYBER BATTLE 2026 performance certificate.
+
+**Patrick MOGAO** left with both the second-place team result and the First Blood distinction. **Audrey BATCHATI** captained DarkKernel with **Joël Ekoue KOUVAHE** and **Essognim Marcel Jr KASSANG** before receiving the Best Cyber Battle Woman award.
 
 ## What I am taking into 2027
 
