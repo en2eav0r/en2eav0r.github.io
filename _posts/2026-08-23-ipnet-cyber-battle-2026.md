@@ -196,15 +196,22 @@ After 24 hours, the final podium was:
   </figure>
 </div>
 
-Two individual awards recognized performances outside the team ranking:
+Three individual awards recognized performances outside the team ranking:
 
 - **Best Cyber Battle Woman 2026:** **Audrey BATCHATI**, captain of DarkKernel.
 - **Blood Hunter:** **Patrick MOGAO** of n0_m3Rcy.
+- **Best Writeup:** **AYAYI Jean-Marie**, recognized for the clarity, precision and technical rigor of his writeups throughout the year and during IPNET CYBER BATTLE 2026.
 
-<figure class="cyber-battle-award-photo">
-  <img src="/assets/images/cyber-battle-2026/winners/best-cyber-battle-woman.webp" alt="Audrey BATCHATI receiving the Best Cyber Battle Woman 2026 trophy and prize" loading="lazy">
-  <figcaption><strong>Audrey BATCHATI</strong>, Best Cyber Battle Woman 2026</figcaption>
-</figure>
+<div class="cyber-battle-award-grid" aria-label="Individual award winners at IPNET CYBER BATTLE 2026">
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/winners/best-cyber-battle-woman.webp" alt="Audrey BATCHATI receiving the Best Cyber Battle Woman 2026 trophy and prize" loading="lazy">
+    <figcaption><strong>Audrey BATCHATI</strong><span>Best Cyber Battle Woman 2026</span></figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/winners/best-writeup.webp" alt="AYAYI Jean-Marie receiving the Best Writeup award" loading="lazy">
+    <figcaption><strong>AYAYI Jean-Marie</strong><span>Best Writeup</span></figcaption>
+  </figure>
+</div>
 
 Chibrax2000 won **100,000 FCFA**. Its members were **Elpidio Alexis AMOUSSOU**, **Kodjogan Josias KOUDADZE** and **Tchamiye Lidao Tchendie**. n0_m3Rcy brought together **Dominique-Savio SAKOI**, **Patrick MOGAO** and **Loukouman KERIM**. Cyber_Rangers was formed by **Yendoubouame Joseph NAKORE**, **Abdel Maaliki SITOU** and **Yaovi Emmanuel KOMLAN**.
 

@@ -316,20 +316,36 @@ article .content .cyber-battle-winner-grid figcaption strong {
   color: var(--heading-color);
 }
 
-article .content .cyber-battle-award-photo {
-  max-width: 48rem;
+article .content .cyber-battle-award-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
   margin: 1.5rem 0 2rem;
 }
 
-article .content .cyber-battle-award-photo img:not(.avatar-img):not(.site-logo):not(.emoji) {
-  width: 100%;
+article .content .cyber-battle-award-grid figure {
+  min-width: 0;
   margin: 0;
+}
+
+article .content .cyber-battle-award-grid img:not(.avatar-img):not(.site-logo):not(.emoji) {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  margin: 0;
+  object-fit: cover;
   border-radius: 12px;
 }
 
-article .content .cyber-battle-award-photo figcaption {
+article .content .cyber-battle-award-grid figcaption {
+  display: grid;
+  gap: 0.15rem;
   margin-top: 0.55rem;
+  color: var(--text-muted-color);
   text-align: left;
+}
+
+article .content .cyber-battle-award-grid figcaption strong {
+  color: var(--heading-color);
 }
 
 article .content .cyber-battle-photo-grid img:not(.avatar-img):not(.site-logo):not(.emoji) {
@@ -367,6 +383,10 @@ article .content .cyber-battle-speaker-grid figcaption strong {
   }
 
   article .content .cyber-battle-winner-grid {
+    grid-template-columns: 1fr;
+  }
+
+  article .content .cyber-battle-award-grid {
     grid-template-columns: 1fr;
   }
 
