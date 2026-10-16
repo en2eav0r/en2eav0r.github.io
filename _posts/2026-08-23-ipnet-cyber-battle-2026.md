@@ -164,6 +164,13 @@ This edition required more method than the previous one. We wanted stronger publ
 
 Our communication goals included growing the club's LinkedIn page to 1,000 followers and starting a TikTok series about the players. The idea was simple: every participant had a story, and the public needed a reason to care about the people behind the team names.
 
+The LinkedIn goal was reached. The IPNET CYBERSEC CLUB page crossed **1,000 followers** during the campaign.
+
+<figure class="cyber-battle-milestone-shot">
+  <img src="/assets/images/cyber-battle-2026/linkedin-1000-followers.webp" alt="IPNET CYBERSEC CLUB LinkedIn page showing 1,000 followers" loading="lazy">
+  <figcaption>The IPNET CYBERSEC CLUB reached 1,000 followers on LinkedIn.</figcaption>
+</figure>
+
 The event also relied on organizations that backed the initiative in different ways. The partners and supporters presented during the campaign included **APSI-TG**, **BASE8**, **IPNET Institute of Technology**, **DigiDesk**, **Hack The Box Meetup Lomé** and **Hackviser**.
 
 Each partnership said something about the event we wanted to build. **APSI-TG** linked the competition to the professional cybersecurity community in Togo. **BASE8** supported youth leadership and the participation of young women. **Hack The Box Meetup Lomé** brought a community of more than 580 members and experience from 25 events. **Hackviser** represented learning through practice. **DigiDesk** helped an initiative led by young people gain visibility, while **IPNET Institute of Technology** gave the project its home and its educational foundation.
