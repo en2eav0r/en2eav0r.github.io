@@ -201,8 +201,8 @@ The champion team also received the official 2026 trophy, three annual **HTB Pro
 Three individual awards recognized performances outside the team ranking:
 
 - **Best Cyber Battle Woman 2026:** **Audrey BATCHATI**, captain of DarkKernel, received 25,000 FCFA, the special inclusion award, an official certificate of female leadership and three annual **HTB Pro Labs & VIP+** subscriptions.
-- **First Blood:** **Patrick MOGAO** of n0_m3Rcy received an official elite certificate and one annual **HTB Pro Labs** subscription.
-- **Best Writeup:** **AYAYI Jean-Marie**, recognized for the clarity, precision and technical rigor of his writeups throughout the year and during IPNET CYBER BATTLE 2026.
+- **Blood Hunter:** **Patrick MOGAO** of n0_m3Rcy received an official elite certificate and one annual **HTB Pro Labs** subscription.
+- **Best Writeup:** **AYAYI Jean-Marie**, recognized for the clarity, precision and technical rigor of his writeups throughout the year.
 
 <div class="cyber-battle-award-grid" aria-label="Individual award winners at IPNET CYBER BATTLE 2026">
   <figure>
@@ -219,7 +219,7 @@ Chibrax2000 won **100,000 FCFA**. Its members were **Elpidio Alexis AMOUSSOU**, 
 
 Every competitor received an official IPNET CYBER BATTLE 2026 performance certificate.
 
-**Patrick MOGAO** left with both the second-place team result and the First Blood distinction. **Audrey BATCHATI** captained DarkKernel with **Joël Ekoue KOUVAHE** and **Essognim Marcel Jr KASSANG** before receiving the Best Cyber Battle Woman award.
+**Patrick MOGAO** left with both the second-place team result and the Blood Hunter distinction. **Audrey BATCHATI** captained DarkKernel with **Joël Ekoue KOUVAHE** and **Essognim Marcel Jr KASSANG** before receiving the Best Cyber Battle Woman award.
 
 ## What I am taking into 2027
 
