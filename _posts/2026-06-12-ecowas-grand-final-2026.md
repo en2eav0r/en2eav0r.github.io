@@ -1,5 +1,6 @@
 ---
 title: "From Lomé to Accra: Togo's First Podium at the ECOWAS Hackathon Grand Final"
+description: "How RedTeam-TG reached the podium in Accra and secured Togo's first ECOWAS Hackathon Grand Final medal."
 date: 2026-06-12 00:00:00 +0000
 categories: [Achievements, CTF Competitions]
 tags: [ecowas, ctf, jeopardy, koth, code-review, red-vs-blue, battleground, redteam-tg, togo, accra, ghana, west-africa, cybersecurity]

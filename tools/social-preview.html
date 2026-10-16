@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <style>
+      * { box-sizing: border-box; }
+      html, body { width: 1200px; height: 630px; margin: 0; overflow: hidden; }
+      body {
+        display: grid;
+        grid-template-columns: 330px 1fr;
+        align-items: center;
+        gap: 68px;
+        padding: 72px 84px;
+        color: #f2f2f3;
+        background:
+          radial-gradient(circle at 13% 12%, rgba(178, 35, 43, 0.24), transparent 31%),
+          linear-gradient(135deg, #111216 0%, #1b1b1f 100%);
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      .portrait {
+        width: 300px;
+        height: 300px;
+        padding: 9px;
+        border: 1px solid rgba(255, 255, 255, 0.16);
+        border-radius: 50%;
+        background: rgba(255, 255, 255, 0.04);
+        box-shadow: 0 26px 70px rgba(0, 0, 0, 0.38);
+      }
+      .portrait img { width: 100%; height: 100%; border-radius: 50%; object-fit: cover; }
+      .eyebrow {
+        margin: 0 0 18px;
+        color: #e0535a;
+        font-size: 22px;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+      }
+      h1 { max-width: 650px; margin: 0 0 22px; font-size: 60px; line-height: 1.02; letter-spacing: -0.045em; }
+      .role { max-width: 630px; margin: 0; color: #b9bac1; font-size: 29px; line-height: 1.35; }
+      .domain { margin: 38px 0 0; color: #f2f2f3; font-size: 22px; font-weight: 700; }
+      .rule { position: absolute; right: 84px; bottom: 58px; left: 482px; height: 1px; background: rgba(255, 255, 255, 0.13); }
+    </style>
+  </head>
+  <body>
+    <div class="portrait"><img src="../assets/images/avatar.jpg" alt=""></div>
+    <main>
+      <p class="eyebrow">Cybersecurity portfolio</p>
+      <h1>ASSIMTI Essowèréou Charles</h1>
+      <p class="role">Security tools, infrastructure projects, CTF results and community work.</p>
+      <p class="domain">assimti-charles.tech</p>
+    </main>
+    <div class="rule"></div>
+  </body>
+</html>

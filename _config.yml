@@ -29,9 +29,6 @@ url: "https://assimti-charles.tech"
 github:
   username: en2eav0r
 
-twitter:
-  username: # leave empty
-
 social:
   name: ASSIMTI Essowèréou Charles
   email: # add your email if you want
@@ -39,6 +36,8 @@ social:
   links:
     - https://github.com/en2eav0r
     - https://www.linkedin.com/in/charlesassimti
+
+social_preview_image: /assets/images/social-preview.png
 
 # Site Verification Settings
 webmaster_verifications:

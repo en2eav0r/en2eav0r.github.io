@@ -8,6 +8,44 @@
 {%- endif -%}
 ';
 
+/* Give the home page a clear introduction without turning it into a landing page. */
+#home-intro {
+  margin-bottom: 2.25rem;
+  padding-bottom: 2.25rem;
+  border-bottom: 1px solid var(--main-border-color);
+}
+
+#home-intro .home-intro-kicker {
+  color: var(--link-color);
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+#home-intro h1 {
+  max-width: 42rem;
+  margin-bottom: 1rem;
+  font-size: clamp(2rem, 5vw, 3.4rem);
+  line-height: 1.08;
+  letter-spacing: -0.035em;
+}
+
+#home-intro .home-intro-lead {
+  max-width: 42rem;
+  margin-bottom: 1.35rem;
+  color: var(--text-muted-color);
+  font-size: 1.1rem;
+  line-height: 1.65;
+}
+
+#home-intro .btn {
+  min-height: 2.75rem;
+  padding: 0.55rem 1rem;
+  border-radius: 0.65rem;
+  font-weight: 600;
+}
+
 /* Keep long-form text comfortable without excessive vertical spacing. */
 article .content {
   line-height: 1.6;
@@ -180,6 +218,46 @@ article .content img.emoji {
 }
 
 @media (max-width: 576px) {
+  #main-wrapper main {
+    min-width: 0;
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+
+  #home-intro,
+  #selected-work,
+  #post-list,
+  #post-list .card-wrapper,
+  #post-list .post-preview,
+  #post-list .post-preview > div {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  #home-intro {
+    margin-bottom: 1.75rem;
+    padding-bottom: 1.75rem;
+  }
+
+  #home-intro h1 {
+    font-size: 2.25rem;
+  }
+
+  #home-intro .home-intro-lead {
+    font-size: 1rem;
+    line-height: 1.55;
+  }
+
+  #home-intro .btn {
+    flex: 1 1 10rem;
+  }
+
+  #selected-work li,
+  #post-list .card-title,
+  #post-list .card-text {
+    overflow-wrap: anywhere;
+  }
+
   article .content img:not(.avatar-img):not(.site-logo):not(.emoji) {
     border-radius: 12px;
   }

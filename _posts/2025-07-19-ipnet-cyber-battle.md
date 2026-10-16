@@ -1,5 +1,6 @@
 ---
 title: "IPNET CYBER BATTLE: Togo's First University-Organized CTF"
+description: "How students created IPNET CYBER BATTLE, a university CTF that brings together Togo's next generation of cybersecurity talent."
 date: 2025-07-19 00:00:00 +0000
 categories: [Achievements, Academic]
 tags: [ctf, cybersecurity, togo, ipnet, organization, first]

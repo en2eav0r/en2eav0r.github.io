@@ -1,5 +1,6 @@
 ---
 title: "Vigie: AI-Assisted Protection Against Phishing Links"
+description: "Vigie checks suspicious links before they open, using threat intelligence and AI-assisted analysis to catch phishing attempts."
 date: 2026-10-15 00:00:00 +0000
 categories: [Projects]
 tags: [phishing, artificial-intelligence, threat-intelligence, python, fastapi, windows, cybersecurity, togo]
