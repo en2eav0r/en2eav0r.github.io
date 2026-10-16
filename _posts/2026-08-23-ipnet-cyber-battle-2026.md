@@ -58,11 +58,11 @@ A continuous Jeopardy CTF remained at the center of the competition, with web, f
 
 ## The first challenge was getting in
 
-The opening did not go as smoothly as planned. Before several teams could attack a web challenge or inspect a forensic image, they first had to reach the competition platform.
+The competition started before anyone reached the platform. We deliberately gave the teams no login credentials. The rules sheet contained a QR code, and scanning it led to a file holding the credentials they needed.
 
-The same moment appears in several participant accounts. Members of Chibrax2000, Cyber_Rangers and TriH4ck remember repeated connection attempts, page refreshes and a short period of confusion. **Abdel Maaliki SITOU** estimated that his team spent between ten and twenty minutes trying to access the interface. One participant later joked that connecting to the platform had become the first challenge of the day.
+We presented the sheet as ordinary event paperwork so that the QR code would not immediately look like a challenge. The first test was therefore to inspect what had been placed in front of them, question the obvious path and discover how to get in. We wanted to play with their assumptions before asking them to attack a web application or inspect a forensic image.
 
-It was frustrating in the room, but it also changed the opening mood. Teams had to communicate and stay calm before the intended competition had even started. Once access stabilized, the 24-hour clock felt real.
+Members of Chibrax2000, Cyber_Rangers and TriH4ck later described repeated connection attempts, page refreshes and a few minutes of confusion. **Abdel Maaliki SITOU** estimated that his team spent between ten and twenty minutes looking for a way into the interface. That confusion was intentional. Accessing the platform was the first challenge of the 24-hour competition.
 
 ## The new live rounds
 
@@ -214,7 +214,7 @@ Chibrax2000 won **100,000 FCFA**. Its members were **Elpidio Alexis AMOUSSOU**, 
 
 The 2026 edition proved that CYBER BATTLE can be more than a scoreboard. The workshop brought new people into the conversation. The team campaign made the competitors visible. Lockpicking, Code Review, Women Speed Run and Virtuoso Arena tested abilities that a standard Jeopardy board would have missed.
 
-It also showed us where the event needs to improve. Platform access must be tested under conditions closer to the real opening rush. A 24-hour format needs clearer night supervision, better-defined handovers and a food plan that treats logistics as part of the competition. Communication should continue during the event, not only before it, because the public story is happening while the teams are solving challenges.
+It also showed us where the event needs to improve. A 24-hour format needs clearer night supervision, better-defined handovers and a food plan that treats logistics as part of the competition. Communication should continue during the event, not only before it, because the public story is happening while the teams are solving challenges.
 
 The best evidence came after the closing ceremony. Participants wrote about the failed attempts, the stress, the jokes, the locks that refused to open and the teammates who kept them going. They did not describe a perfect event. They described one they remembered.
 
