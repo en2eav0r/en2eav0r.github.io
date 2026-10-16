@@ -9,9 +9,7 @@ image:
   alt: Participants, organizers and guests at IPNET CYBER BATTLE 2026
 ---
 
-Hello, or good evening, depending on when you are reading this.
-
-I want to write about an event that matters a lot to me: **IPNET CYBER BATTLE 2026**. The ranking is only the visible part of it. Behind the podium were weeks of preparation, ten teams with very different identities, a public workshop, technical rounds that went beyond a conventional CTF and a long night in which fatigue changed the way people worked together.
+**IPNET CYBER BATTLE 2026** matters a lot to me. The ranking is only the visible part of it. Behind the podium were weeks of preparation, ten teams with very different identities, a public workshop, technical rounds that went beyond a conventional CTF and a long night in which fatigue changed the way people worked together.
 
 I led the organizing committee, so this is also my account of what we tried, what surprised us and what the participants taught us once the competition began.
 
