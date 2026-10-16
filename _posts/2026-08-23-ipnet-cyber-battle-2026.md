@@ -90,44 +90,36 @@ The women taking part competed in a dedicated speed round while their work throu
 
 The morning began with a free workshop at IPNET Agbalépédo, from 8 a.m. to 1 p.m. It was open to the public, with registration limited to 50 places. This part of the event mattered to us because CYBER BATTLE should also serve people who are curious about cybersecurity but are not ready to enter a 24-hour CTF.
 
-Seven speakers took part:
-
-- **Yves Stanislas ADANI, CISA**, on building a career plan as a junior.
-- **Isidore Badéra ALI**, pentester at Cyber Defense Africa, with a live session titled *From zero to initial access in five minutes*.
-- **Daniel ALLADO**, on ethics and the responsibility that comes with offensive security skills.
-- **HAALIDE-TRAORE Zou-Nouréïn**, representing APSI-TG, on collective action and cyber resilience.
-- **Dr Nagbandjoa DOUNWOURGUE**, on Togo's cybersecurity ecosystem and the role of the National Cybersecurity Agency.
-- **ATTER Koffi Kallern**, Web Security Researcher, on getting started in bug bounty from an African perspective.
-- **Bérénice Ablavi HAGBEGNON**, representing BASE8, on leadership in campus and technology communities.
+Seven speakers took part. Each brought a different view of cybersecurity, from first jobs and offensive security to ethics, leadership and national resilience.
 
 <div class="cyber-battle-speaker-grid" aria-label="CYBER BATTLE 2026 workshop speakers">
   <figure>
     <img src="/assets/images/cyber-battle-2026/speaker-yves-adani.jpg" alt="Workshop announcement for Yves Stanislas ADANI" loading="lazy">
-    <figcaption>Yves Stanislas ADANI</figcaption>
+    <figcaption><strong>Yves Stanislas ADANI, CISA</strong><span>Starting a career in defensive security</span></figcaption>
   </figure>
   <figure>
     <img src="/assets/images/cyber-battle-2026/speaker-isidore-ali.jpg" alt="Workshop announcement for Isidore Badéra ALI" loading="lazy">
-    <figcaption>Isidore Badéra ALI</figcaption>
+    <figcaption><strong>Isidore Badéra ALI</strong><span>From zero to initial access in five minutes</span></figcaption>
   </figure>
   <figure>
     <img src="/assets/images/cyber-battle-2026/speaker-allado.jpg" alt="Workshop announcement for Daniel ALLADO" loading="lazy">
-    <figcaption>Daniel ALLADO</figcaption>
+    <figcaption><strong>Daniel ALLADO</strong><span>Ethics and responsible hacking</span></figcaption>
   </figure>
   <figure>
     <img src="/assets/images/cyber-battle-2026/speaker-haalide-traore.jpg" alt="Workshop announcement for HAALIDE-TRAORE Zou-Nouréïn" loading="lazy">
-    <figcaption>HAALIDE-TRAORE Zou-Nouréïn</figcaption>
+    <figcaption><strong>HAALIDE-TRAORE Zou-Nouréïn</strong><span>Collective action and cyber resilience</span></figcaption>
   </figure>
   <figure>
     <img src="/assets/images/cyber-battle-2026/speaker-dounwourgue.jpg" alt="Workshop announcement for Dr Nagbandjoa DOUNWOURGUE" loading="lazy">
-    <figcaption>Dr Nagbandjoa DOUNWOURGUE</figcaption>
+    <figcaption><strong>Dr Nagbandjoa DOUNWOURGUE</strong><span>Togo's cybersecurity ecosystem and the ANCy</span></figcaption>
   </figure>
   <figure>
     <img src="/assets/images/cyber-battle-2026/speaker-atter.jpg" alt="Workshop announcement for ATTER Koffi Kallern" loading="lazy">
-    <figcaption>ATTER Koffi Kallern</figcaption>
+    <figcaption><strong>ATTER Koffi Kallern</strong><span>Starting in bug bounty from Africa</span></figcaption>
   </figure>
   <figure>
     <img src="/assets/images/cyber-battle-2026/speaker-hagbegnon.jpg" alt="Workshop announcement for Bérénice Ablavi HAGBEGNON" loading="lazy">
-    <figcaption>Bérénice Ablavi HAGBEGNON</figcaption>
+    <figcaption><strong>Bérénice Ablavi HAGBEGNON</strong><span>Campus and technology leadership</span></figcaption>
   </figure>
 </div>
 
