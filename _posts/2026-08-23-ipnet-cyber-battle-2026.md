@@ -179,10 +179,16 @@ The public campaign became part of the organization itself. We introduced the te
 
 The first hours were technical. Later, the competition became just as much about energy, priorities and trust.
 
-<figure class="cyber-battle-action-shot">
-  <img src="/assets/images/cyber-battle-2026/during-competition.webp" alt="Teams working on their challenges during IPNET CYBER BATTLE 2026" loading="lazy">
-  <figcaption>Teams working through the 24-hour competition.</figcaption>
-</figure>
+<div class="cyber-battle-action-grid" aria-label="Teams working during IPNET CYBER BATTLE 2026">
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/during-competition.webp" alt="Teams working on their challenges during IPNET CYBER BATTLE 2026" loading="lazy">
+    <figcaption>Working through the 24-hour competition.</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/during-competition-02.webp" alt="Competitors focused on their laptops during IPNET CYBER BATTLE 2026" loading="lazy">
+    <figcaption>Teams remained focused as the hours passed.</figcaption>
+  </figure>
+</div>
 
 While one player entered the Virtuoso Arena or attempted the lockpicking round, the other team members still had to keep the Jeopardy CTF moving. Captains divided categories, decided when to abandon a bad lead and tried to keep everyone focused. **Stive Dossa MEWANOU TOFFON**, captain of RedSquad, later described the job as coordinating efforts, identifying priorities and maintaining the team's momentum once fatigue set in.
 
