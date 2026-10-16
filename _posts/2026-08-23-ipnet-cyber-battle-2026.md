@@ -207,6 +207,11 @@ After 24 hours, the final podium was:
   <figcaption>The final scoreboard after 24 hours of competition.</figcaption>
 </figure>
 
+<figure class="cyber-battle-results-reaction">
+  <img src="/assets/images/cyber-battle-2026/results-reaction.webp" alt="Participants celebrating as the final results of IPNET CYBER BATTLE 2026 are announced" loading="lazy">
+  <figcaption>The room reacted as the final results were announced.</figcaption>
+</figure>
+
 <div class="cyber-battle-winner-grid" aria-label="The three winning teams at IPNET CYBER BATTLE 2026">
   <figure>
     <img src="/assets/images/cyber-battle-2026/winners/first-place.webp" alt="Chibrax2000 receiving the first-place trophy and 100,000 FCFA prize" loading="lazy">

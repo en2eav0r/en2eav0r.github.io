@@ -337,6 +337,23 @@ article .content .cyber-battle-action-grid figcaption {
   text-align: left;
 }
 
+article .content .cyber-battle-results-reaction {
+  max-width: 44rem;
+  margin: 1.5rem 0 2rem;
+}
+
+article .content .cyber-battle-results-reaction img:not(.avatar-img):not(.site-logo):not(.emoji) {
+  width: 100%;
+  margin: 0;
+  border-radius: 12px;
+}
+
+article .content .cyber-battle-results-reaction figcaption {
+  margin-top: 0.55rem;
+  color: var(--text-muted-color);
+  text-align: left;
+}
+
 article .content .cyber-battle-team-grid figcaption {
   margin-top: 0.45rem;
   color: var(--heading-color);
