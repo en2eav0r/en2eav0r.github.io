@@ -469,10 +469,6 @@ article .content .cyber-battle-speaker-grid figcaption strong {
     grid-template-columns: 1fr;
   }
 
-  article .content .cyber-battle-action-grid {
-    grid-template-columns: 1fr;
-  }
-
 }
 
 article .preview-img:has(> img[src*='/images/campus-awards/']) {
@@ -614,7 +610,8 @@ article .content img.emoji {
 
   article .content .cyber-battle-speaker-grid,
   article .content .cyber-battle-team-grid,
-  article .content .cyber-battle-photo-grid {
+  article .content .cyber-battle-photo-grid,
+  article .content .cyber-battle-action-grid {
     grid-template-columns: 1fr;
     gap: 0.6rem;
   }
