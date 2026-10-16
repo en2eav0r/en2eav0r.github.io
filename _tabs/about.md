@@ -4,13 +4,17 @@ icon: fas fa-info-circle
 order: 6
 ---
 
-# ASSIMTI Essowèréou Charles
-
-> Network and cybersecurity engineer in Lomé, Togo. I build security tools and the communities that use them.
-
-## What I do now
-
-Since 2024 I have worked as a network and cybersecurity engineer at a petroleum company in Togo. I administer Active Directory and the site-to-site VPNs, centralize security logs in an XDR console, automate recurring network tasks and run internal penetration tests on the company's web applications. I am also finishing a Master's in Cybersecurity at IPNET Institute.
+<section class="about-profile">
+  <figure class="about-profile-photo">
+    <img src="/assets/images/about-portrait.jpeg" alt="Portrait of ASSIMTI Essowèréou Charles" />
+  </figure>
+  <div class="about-profile-copy">
+    <h1>ASSIMTI Essowèréou Charles</h1>
+    <p class="about-profile-lead">Network and cybersecurity engineer in Lomé, Togo. I build security tools and the communities that use them.</p>
+    <h2>What I do now</h2>
+    <p>Since 2024 I have worked as a network and cybersecurity engineer at a petroleum company in Togo. I administer Active Directory and the site-to-site VPNs, centralize security logs in an XDR console, automate recurring network tasks and run internal penetration tests on the company's web applications. I am also finishing a Master's in Cybersecurity at IPNET Institute.</p>
+  </div>
+</section>
 
 ## What I build
 

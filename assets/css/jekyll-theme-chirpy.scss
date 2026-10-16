@@ -46,6 +46,49 @@
   font-weight: 600;
 }
 
+#home-intro .home-intro-actions {
+  gap: 0.75rem !important;
+}
+
+/* Pair the About introduction with a portrait while preserving a natural reading column. */
+.about-profile {
+  display: grid;
+  grid-template-columns: minmax(13rem, 17rem) minmax(0, 1fr);
+  gap: clamp(1.75rem, 4vw, 3rem);
+  align-items: start;
+  margin-bottom: 2.5rem;
+}
+
+.about-profile-photo {
+  position: sticky;
+  top: 6rem;
+  margin: 0;
+}
+
+article .content .about-profile-photo img {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  margin: 0;
+  border-radius: 18px;
+  object-fit: cover;
+  object-position: center 42%;
+}
+
+.about-profile-copy h1 {
+  margin-top: -0.1em;
+  margin-bottom: 0.75rem;
+}
+
+.about-profile-copy h2 {
+  margin-top: 2rem;
+}
+
+.about-profile-copy .about-profile-lead {
+  color: var(--text-muted-color);
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
 /* Keep long-form text comfortable without excessive vertical spacing. */
 article .content {
   line-height: 1.6;
@@ -269,7 +312,22 @@ article .content img.emoji {
   }
 
   #home-intro .btn {
-    flex: 1 1 10rem;
+    flex: 1 1 100%;
+  }
+
+  .about-profile {
+    display: block;
+    margin-bottom: 2rem;
+  }
+
+  .about-profile-photo {
+    position: static;
+    width: min(100%, 20rem);
+    margin: 0 auto 1.75rem;
+  }
+
+  .about-profile-copy h1 {
+    font-size: 2rem;
   }
 
   #selected-work li,
