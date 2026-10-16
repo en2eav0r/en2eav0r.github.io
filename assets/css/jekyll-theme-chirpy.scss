@@ -56,7 +56,7 @@
   grid-template-columns: minmax(13rem, 17rem) minmax(0, 1fr);
   gap: clamp(1.75rem, 4vw, 3rem);
   align-items: start;
-  margin-bottom: 2.5rem;
+  margin-bottom: 2rem;
 }
 
 .about-profile-photo {
@@ -84,15 +84,19 @@
   line-height: 1.1;
 }
 
-.about-profile-copy h3 {
-  margin-top: 2rem;
-  font-size: 1.5rem;
-}
-
 .about-profile-copy .about-profile-lead {
   color: var(--text-muted-color);
   font-size: 1.1rem;
   line-height: 1.6;
+}
+
+.about-current {
+  max-width: 48rem;
+  margin-bottom: 2.75rem;
+}
+
+.about-current h2 {
+  margin-top: 0;
 }
 
 /* Keep long-form text comfortable without excessive vertical spacing. */
