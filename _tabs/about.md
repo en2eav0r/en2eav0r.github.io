@@ -9,9 +9,9 @@ order: 6
     <img src="/assets/images/about-portrait.jpeg" alt="Portrait of ASSIMTI Essowèréou Charles" />
   </figure>
   <div class="about-profile-copy">
-    <h1>ASSIMTI Essowèréou Charles</h1>
+    <h2>ASSIMTI Essowèréou Charles</h2>
     <p class="about-profile-lead">Network and cybersecurity engineer in Lomé, Togo. I build security tools and the communities that use them.</p>
-    <h2>What I do now</h2>
+    <h3>What I do now</h3>
     <p>Since 2024 I have worked as a network and cybersecurity engineer at a petroleum company in Togo. I administer Active Directory and the site-to-site VPNs, centralize security logs in an XDR console, automate recurring network tasks and run internal penetration tests on the company's web applications. I am also finishing a Master's in Cybersecurity at IPNET Institute.</p>
   </div>
 </section>

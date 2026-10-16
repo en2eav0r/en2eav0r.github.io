@@ -65,8 +65,11 @@
   margin: 0;
 }
 
-article .content .about-profile-photo img {
+.about-profile-photo img {
+  display: block;
   width: 100%;
+  max-width: 100%;
+  height: auto;
   aspect-ratio: 4 / 5;
   margin: 0;
   border-radius: 18px;
@@ -74,13 +77,16 @@ article .content .about-profile-photo img {
   object-position: center 42%;
 }
 
-.about-profile-copy h1 {
+.about-profile-copy h2 {
   margin-top: -0.1em;
   margin-bottom: 0.75rem;
+  font-size: clamp(2rem, 4vw, 2.75rem);
+  line-height: 1.1;
 }
 
-.about-profile-copy h2 {
+.about-profile-copy h3 {
   margin-top: 2rem;
+  font-size: 1.5rem;
 }
 
 .about-profile-copy .about-profile-lead {
@@ -326,7 +332,7 @@ article .content img.emoji {
     margin: 0 auto 1.75rem;
   }
 
-  .about-profile-copy h1 {
+  .about-profile-copy h2 {
     font-size: 2rem;
   }
 
