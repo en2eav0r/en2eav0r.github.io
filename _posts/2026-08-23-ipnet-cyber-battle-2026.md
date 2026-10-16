@@ -35,18 +35,20 @@ That idea also matched the club's larger ambition. We are preparing students to 
 
 The largest change was the duration. The 2025 competition ran for 12 hours. The 2026 edition ran for **24 hours without interruption**, from August 22 to 23.
 
-It also became a team competition. Ten teams of three entered the event:
+It also became a team competition. Ten teams of three entered the event.
 
-- Chibrax2000
-- Cyber_Rangers
-- DarkKernel
-- n0_m3Rcy
-- Sh4d0wBr0wk3rs
-- Down_7h3m_4ll
-- RedSquad
-- TriH4ck
-- 5hadow_3ncrypt
-- SHINOBI
+<div class="cyber-battle-team-grid" aria-label="The ten teams competing in IPNET CYBER BATTLE 2026">
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-chibrax2000.jpg" alt="Chibrax2000 team presentation" loading="lazy"></figure>
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-cyber-rangers.jpg" alt="Cyber_Rangers team presentation" loading="lazy"></figure>
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-darkkernel.jpg" alt="DarkKernel team presentation" loading="lazy"></figure>
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-n0-m3rcy.jpg" alt="n0_m3Rcy team presentation" loading="lazy"></figure>
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-sh4d0wbr0wk3rs.jpg" alt="Sh4d0wBr0wk3rs team presentation" loading="lazy"></figure>
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-down-7h3m-4ll.jpg" alt="Down_7h3m_4ll team presentation" loading="lazy"></figure>
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-redsquad.jpg" alt="RedSquad team presentation" loading="lazy"></figure>
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-trih4ck.jpg" alt="TriH4ck team presentation" loading="lazy"></figure>
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-5hadow-3ncrypt.jpg" alt="5hadow_3ncrypt team presentation" loading="lazy"></figure>
+  <figure><img src="/assets/images/cyber-battle-2026/teams/team-shinobi.jpg" alt="SHINOBI team presentation" loading="lazy"></figure>
+</div>
 
 We introduced each team before the event instead of treating the players as anonymous names on a scoreboard. Chibrax2000 arrived with the idea that every flag was a victory and every challenge a lesson. DarkKernel wanted to master the environment from its core. TriH4ck described hacking as a way to learn, while Sh4d0wBr0wk3rs came with a much more direct line: they did not knock on doors, they walked through walls. These identities gave people someone to follow before the first flag was captured.
 
@@ -104,6 +106,10 @@ Ten players entered the arena without their teammates to cover a mistake. They h
 
 The women taking part competed in a dedicated speed round while their work throughout the full CTF also counted. The best overall performance earned the title **Best Cyber Battle Woman 2026**. The award was not intended as a symbolic mention. It recognized performance in the same demanding environment and gave that performance a visible place in the final ceremony.
 
+<figure class="cyber-battle-featured-poster">
+  <img src="/assets/images/cyber-battle-2026/teams/women-speed-run.jpg" alt="The six participants announced for the Women Speed Run and Best Cyber Battle Woman 2026 award" loading="lazy">
+</figure>
+
 ## The workshop
 
 The morning began with a free workshop at IPNET Agbalépédo, from 8 a.m. to 1 p.m. It was open to the public, with registration limited to 50 places. This part of the event mattered to us because CYBER BATTLE should also serve people who are curious about cybersecurity but are not ready to enter a 24-hour CTF.
@@ -146,21 +152,6 @@ Zariétou OURO-SAMA hosted the morning. The format mixed talks, demonstrations a
 Daniel ALLADO left the audience with a simple boundary: without authorization, there is no test. HAALIDE-TRAORE Zou-Nouréïn moved the discussion beyond tools and asked whether real resilience was possible without cooperation between people, companies and public institutions. Dr Nagbandjoa DOUNWOURGUE connected that question to Togo's cybersecurity ecosystem and the role of the National Cybersecurity Agency.
 
 The transition from workshop to competition was deliberate. The morning opened the field to people who were curious about cybersecurity. A few hours later, the competitors had to apply the same ideas under time pressure.
-
-<div class="cyber-battle-photo-grid cyber-battle-photo-grid--workshop" aria-label="Workshop highlights">
-  <figure>
-    <img src="/assets/images/cyber-battle-2026/workshop-01.jpg" alt="Speaker addressing the audience during the CYBER BATTLE 2026 workshop" loading="lazy">
-  </figure>
-  <figure>
-    <img src="/assets/images/cyber-battle-2026/workshop-02.jpg" alt="Students attending the CYBER BATTLE 2026 workshop" loading="lazy">
-  </figure>
-  <figure>
-    <img src="/assets/images/cyber-battle-2026/workshop-03.jpg" alt="A practical demonstration during the CYBER BATTLE 2026 workshop" loading="lazy">
-  </figure>
-  <figure>
-    <img src="/assets/images/cyber-battle-2026/workshop-04.jpg" alt="Discussion with participants during the CYBER BATTLE 2026 workshop" loading="lazy">
-  </figure>
-</div>
 
 ## Organizing the event
 
