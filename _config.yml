@@ -37,8 +37,6 @@ social:
     - https://github.com/en2eav0r
     - https://www.linkedin.com/in/charlesassimti
 
-social_preview_image: /assets/images/social-preview.png
-
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
@@ -97,7 +95,7 @@ avatar: /assets/images/avatar.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: /assets/images/social-preview.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
