@@ -56,6 +56,11 @@ Six women entered across the teams: **Félicité AKPANGODE, Maazah PAKAA, Essor�
 
 A continuous Jeopardy CTF remained at the center of the competition, with web, forensics, steganography and Boot2Root challenges. Several live rounds ran alongside it.
 
+<figure class="cyber-battle-platform-shot">
+  <img src="/assets/images/cyber-battle-2026/competition-platform.webp" alt="Home page of the IPNET CYBER BATTLE 2026 competition platform" loading="lazy">
+  <figcaption>The IPNET CYBER BATTLE 2026 competition platform.</figcaption>
+</figure>
+
 ## The first challenge was getting in
 
 The competition started before anyone reached the platform. We deliberately gave the teams no login credentials. The rules sheet contained a QR code, and scanning it led to a file holding the credentials they needed.
