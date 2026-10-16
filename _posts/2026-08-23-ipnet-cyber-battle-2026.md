@@ -60,9 +60,27 @@ Each team appeared before the jury and received a piece of vulnerable code. The 
 
 Cybersecurity discussions often leave physical security aside. Lockpicking brought it back into the competition. Participants had to move away from the terminal and work directly with locks.
 
+<div class="cyber-battle-photo-grid" aria-label="Lockpicking round">
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/lockpicking-01.jpg" alt="A participant working on the lockpicking challenge at IPNET CYBER BATTLE 2026" loading="lazy">
+  </figure>
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/lockpicking-02.jpg" alt="Lockpicking equipment used during IPNET CYBER BATTLE 2026" loading="lazy">
+  </figure>
+</div>
+
 ### Virtuoso Arena
 
 For each selected Jeopardy category, every team chose its strongest player. Those specialists then faced the same challenge in a separate arena where AI was forbidden. The first three to solve it earned bonuses for their teams.
+
+<div class="cyber-battle-photo-grid" aria-label="Virtuoso Arena">
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/virtuoso-arena-01.jpg" alt="Competitors taking part in the Virtuoso Arena" loading="lazy">
+  </figure>
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/virtuoso-arena-02.jpg" alt="A Virtuoso Arena challenge in progress" loading="lazy">
+  </figure>
+</div>
 
 ### Women Speed Run
 
@@ -82,7 +100,53 @@ Seven speakers took part:
 - **ATTER Koffi Kallern**, Web Security Researcher, on getting started in bug bounty from an African perspective.
 - **Bérénice Ablavi HAGBEGNON**, representing BASE8, on leadership in campus and technology communities.
 
+<div class="cyber-battle-speaker-grid" aria-label="CYBER BATTLE 2026 workshop speakers">
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/speaker-yves-adani.jpg" alt="Workshop announcement for Yves Stanislas ADANI" loading="lazy">
+    <figcaption>Yves Stanislas ADANI</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/speaker-isidore-ali.jpg" alt="Workshop announcement for Isidore Badéra ALI" loading="lazy">
+    <figcaption>Isidore Badéra ALI</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/speaker-allado.jpg" alt="Workshop announcement for Daniel ALLADO" loading="lazy">
+    <figcaption>Daniel ALLADO</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/speaker-haalide-traore.jpg" alt="Workshop announcement for HAALIDE-TRAORE Zou-Nouréïn" loading="lazy">
+    <figcaption>HAALIDE-TRAORE Zou-Nouréïn</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/speaker-dounwourgue.jpg" alt="Workshop announcement for Dr Nagbandjoa DOUNWOURGUE" loading="lazy">
+    <figcaption>Dr Nagbandjoa DOUNWOURGUE</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/speaker-atter.jpg" alt="Workshop announcement for ATTER Koffi Kallern" loading="lazy">
+    <figcaption>ATTER Koffi Kallern</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/speaker-hagbegnon.jpg" alt="Workshop announcement for Bérénice Ablavi HAGBEGNON" loading="lazy">
+    <figcaption>Bérénice Ablavi HAGBEGNON</figcaption>
+  </figure>
+</div>
+
 Zariétou OURO-SAMA hosted the morning. The format mixed talks, demonstrations and questions from students before the room shifted into competition mode.
+
+<div class="cyber-battle-photo-grid cyber-battle-photo-grid--workshop" aria-label="Workshop highlights">
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/workshop-01.jpg" alt="Speaker addressing the audience during the CYBER BATTLE 2026 workshop" loading="lazy">
+  </figure>
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/workshop-02.jpg" alt="Students attending the CYBER BATTLE 2026 workshop" loading="lazy">
+  </figure>
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/workshop-03.jpg" alt="A practical demonstration during the CYBER BATTLE 2026 workshop" loading="lazy">
+  </figure>
+  <figure>
+    <img src="/assets/images/cyber-battle-2026/workshop-04.jpg" alt="Discussion with participants during the CYBER BATTLE 2026 workshop" loading="lazy">
+  </figure>
+</div>
 
 ## Organizing the event
 
