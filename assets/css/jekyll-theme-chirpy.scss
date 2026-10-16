@@ -218,8 +218,28 @@ article .content img.emoji {
 }
 
 @media (max-width: 576px) {
+  #main-wrapper,
+  #main-wrapper > .container,
+  #main-wrapper > .container > .row {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  #main-wrapper > .container {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  #main-wrapper > .container > .row {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
   #main-wrapper main {
+    flex: 0 0 100%;
+    width: 100%;
     min-width: 0;
+    max-width: 100%;
     padding-right: 1rem;
     padding-left: 1rem;
   }
