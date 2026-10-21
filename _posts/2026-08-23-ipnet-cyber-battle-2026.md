@@ -4,6 +4,8 @@ date: 2026-08-23 18:00:00 +0000
 description: "Behind the organization of IPNET CYBER BATTLE 2026, a 24-hour team CTF with workshops, live technical rounds and new individual awards."
 categories: [Achievements, Academic]
 tags: [ctf, cybersecurity, togo, ipnet, organization, cyber-battle, community]
+pin: true
+pin_order: 3
 image:
   path: /assets/images/cyber-battle-2026/group-photo.webp
   alt: Participants, organizers and guests at IPNET CYBER BATTLE 2026
@@ -198,9 +200,9 @@ The participant accounts are consistent on this point. Flags mattered, but the l
 
 After 24 hours, the final podium was:
 
-1. **Chibrax2000**, first place with 2765 points and 100,000 FCFA.
-2. **n0_m3Rcy**, second place with 2675 points and 50,000 FCFA.
-3. **Cyber_Rangers**, third place with 2575 points and 25,000 FCFA.
+1. **Chibrax2000**, first place with 2765 points.
+2. **n0_m3Rcy**, second place with 2675 points.
+3. **Cyber_Rangers**, third place with 2575 points.
 
 <figure class="cyber-battle-scoreboard-shot">
   <img src="/assets/images/cyber-battle-2026/final-scoreboard.webp" alt="Final scoreboard of IPNET CYBER BATTLE 2026 showing the ranking and scores of the ten teams" loading="lazy">
@@ -214,16 +216,16 @@ After 24 hours, the final podium was:
 
 <div class="cyber-battle-winner-grid" aria-label="The three winning teams at IPNET CYBER BATTLE 2026">
   <figure>
-    <img src="/assets/images/cyber-battle-2026/winners/first-place.webp" alt="Chibrax2000 receiving the first-place trophy and 100,000 FCFA prize" loading="lazy">
-    <figcaption><strong>1st place: Chibrax2000</strong><span>100,000 FCFA</span></figcaption>
+    <img src="/assets/images/cyber-battle-2026/winners/first-place.webp" alt="Chibrax2000 receiving the first-place trophy" loading="lazy">
+    <figcaption><strong>1st place: Chibrax2000</strong></figcaption>
   </figure>
   <figure>
     <img src="/assets/images/cyber-battle-2026/winners/second-place.webp" alt="n0_m3Rcy receiving the second-place prize" loading="lazy">
-    <figcaption><strong>2nd place: n0_m3Rcy</strong><span>50,000 FCFA</span></figcaption>
+    <figcaption><strong>2nd place: n0_m3Rcy</strong></figcaption>
   </figure>
   <figure>
     <img src="/assets/images/cyber-battle-2026/winners/third-place.webp" alt="Cyber_Rangers receiving the third-place prize" loading="lazy">
-    <figcaption><strong>3rd place: Cyber_Rangers</strong><span>25,000 FCFA</span></figcaption>
+    <figcaption><strong>3rd place: Cyber_Rangers</strong></figcaption>
   </figure>
 </div>
 
@@ -231,7 +233,7 @@ The champion team also received the official 2026 trophy, three annual **HTB Pro
 
 Three individual awards recognized performances outside the team ranking:
 
-- **Best Cyber Battle Woman 2026:** **Audrey BATCHATI**, captain of DarkKernel, received 25,000 FCFA, the special inclusion award, an official certificate of female leadership and three annual **HTB Pro Labs & VIP+** subscriptions.
+- **Best Cyber Battle Woman 2026:** **Audrey BATCHATI**, captain of DarkKernel, received the special inclusion award, an official certificate of female leadership and three annual **HTB Pro Labs & VIP+** subscriptions.
 - **Blood Hunter:** **Patrick MOGAO** of n0_m3Rcy received an official elite certificate and one annual **HTB Pro Labs** subscription.
 - **Best Writeup:** **AYAYI Jean-Marie**, recognized for the clarity, precision and technical rigor of his writeups throughout the year.
 
@@ -246,7 +248,7 @@ Three individual awards recognized performances outside the team ranking:
   </figure>
 </div>
 
-Chibrax2000 won **100,000 FCFA**. Its members were **Elpidio Alexis AMOUSSOU**, **Kodjogan Josias KOUDADZE** and **Tchamiye Lidao Tchendie**. n0_m3Rcy brought together **Dominique-Savio SAKOI**, **Patrick MOGAO** and **Loukouman KERIM**. Cyber_Rangers was formed by **Yendoubouame Joseph NAKORE**, **Abdel Maaliki SITOU** and **Yaovi Emmanuel KOMLAN**.
+The members of Chibrax2000 were **Elpidio Alexis AMOUSSOU**, **Kodjogan Josias KOUDADZE** and **Tchamiye Lidao Tchendie**. n0_m3Rcy brought together **Dominique-Savio SAKOI**, **Patrick MOGAO** and **Loukouman KERIM**. Cyber_Rangers was formed by **Yendoubouame Joseph NAKORE**, **Abdel Maaliki SITOU** and **Yaovi Emmanuel KOMLAN**.
 
 Every competitor received an official IPNET CYBER BATTLE 2026 performance certificate.
 
