@@ -23,8 +23,9 @@ order: 6
 
 I started building before I knew it was a job. In high school I made a website from my phone so students could download past exam papers. Today the work is more technical:
 
-- **[APAST](/posts/apast-siem-deployment/)**, an intrusion detection setup with real-time Telegram alerts, built from open-source tools so a small team can afford it.
+- **[Vigie](/posts/vigie-link-protection/)**, a web and Windows tool that investigates suspicious links before they open. I built its analysis pipeline, tested it on 120 phishing and legitimate links, and published the source code.
 - **[PCAP Analyzer](https://github.com/en2eav0r/PCAP-Analyzer)**, a Python tool I developed for Team AFRICC to use at ICC 2025 in Japan. It turns packet captures into readable reports of streams, queries and leaked secrets.
+- **[APAST](/posts/apast-siem-deployment/)**, an intrusion detection setup with real-time Telegram alerts, built from open-source tools so a small team can afford it.
 
 The [Projects](/projects/) page says for each one what I did myself and what is still missing.
 
