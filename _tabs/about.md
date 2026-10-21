@@ -10,7 +10,7 @@ order: 6
   </figure>
   <div class="about-profile-copy">
     <h2>ASSIMTI Essowèréou Charles</h2>
-    <p class="about-profile-lead">Network and cybersecurity engineer in Lomé, Togo. I build security tools and the communities that use them.</p>
+    <p class="about-profile-lead">I secure the network of a petroleum company, build tools such as Vigie and PCAP Analyzer, and lead cybersecurity training through the IPNET CYBER CLUB.</p>
   </div>
 </section>
 
